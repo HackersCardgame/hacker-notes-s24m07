@@ -83,6 +83,8 @@ apt-get install -y iotop
 apt-get install -y xxd
 apt-get install -y rdfind
 
+apt-get install -y xdotool wmctrl
+
 
 apt-get install cups-client
 apt-get install tesseract-ocr-eng tesseract-ocr-deu
