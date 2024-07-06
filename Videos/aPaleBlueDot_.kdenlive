@@ -399,7 +399,7 @@
   <property name="kdenlive:docproperties.zoom">14</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
-  <property name="kdenlive:docproperties.renderurl">/home/marc/Video/aPaleBlueDot.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">aPaleBlueDot_.mp4</property>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:00:35.560"/>
   <entry producer="producer1" in="00:00:00.000" out="00:01:22.840"/>
