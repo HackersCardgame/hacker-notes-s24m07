@@ -2,15 +2,50 @@
 Sat Jul 6 09:08:55 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+marc@debian:~/hacker-notes-s24m07$ figlet RELEVANT
+ ____  _____ _     _______     ___    _   _ _____ 
+|  _ \| ____| |   | ____\ \   / / \  | \ | |_   _|
+| |_) |  _| | |   |  _|  \ \ / / _ \ |  \| | | |  
+|  _ <| |___| |___| |___  \ V / ___ \| |\  | | |  
+|_| \_\_____|_____|_____|  \_/_/   \_\_| \_| |_|  
+
 Puzzle:
 
-p1: Schizophrenie = Diskreditierung von Bleuler (
+p1: Schizophrenie = Diskreditierung, erfunden von Bleuler (Burghölzli, Uni Zürich)
 
-p2: donald ewen camreon
+p2: donald ewen camreon, CIA, Burghölzli
+
+p3: zeitgleich "medikamenten experimente" an verdingskinder im Burghölzli udn weiteren unis
+    -> was aber vermutlich eher neurologie implantate experimente waren, zuvor hat man ja schon gehirnoperationen gemacht wie lobotomien
+
+p4: die eth würde die netzwerke machen
+
+p.... viele weitere indizien
 
 
-¨zh
+p1 + p2 + p3 + p4 + ... => p2000
 
-eth netzwe
+p2000: Die Firma RUAG AG (Waffenfirma) ist spezialisiert elektronische-/psychologische Kriegfsührung mit inklusive Implantate welche Asylanten, PsychiatriePatienten und Heimkindern verpasst werden
 
-ruag ag spezialisiert auf implantate kriegsführung
+c4e054cb16eaa8dcf63d287e28cd2dae9f804cb0
+                                                  
+marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                           
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m07$ 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sat Jul 6 09:14:56 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
