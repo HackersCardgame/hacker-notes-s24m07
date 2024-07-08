@@ -73,5 +73,12 @@ also die zeilie 50 soll geheim bleiben also aktiviert die Armee den Marg-Georg (
 Mon Jul 8 04:52:25 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann scheint dieser fehler dynamisch zu sein: chatgpt sagt "benutze gänsefüsschen", dann geht es 1x, dann wieder selbes problem
+-> ausserdem hatte ich gänsefüsschen
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 05:26:44 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 
