@@ -56,7 +56,7 @@ xdotool key Tab
 sleep $commandWait
 
 echo type destinaton path: $destinationPath
-echo -e "\e[91m hier scheint jetzt entweder inkscape oder xdotool auf kommando ein _ zu einem \? auszuwechseln, dann damit ich den fehler nicht protokolliere wird mein neuralink mit weissem raschen auf 50% reduziert \e[39m also ein grösseres täterteam was feige auf einen einzeln losgeht und sich einredet sie seine super dupen überlegene white supremacy mongos"
+echo -e "\e[91m hier scheint jetzt entweder inkscape oder xdotool auf kommando ein _ zu einem \? auszuwechseln, dann damit ich den fehler nicht protokolliere wird mein neuralink mit weissem raschen auf 50% reduziert \e[39m also ein grösseres täterteam was feige auf einen einzeln losgeht und sich einredet sie seine super dupen überlegene white supremacy mongos -- dann da kein netzwerkkabel angeschlossen ist, kann man davon ausgehen, dass es irgend etwas wie ein funk remote debugger ist der TOPSECRET sein müsste vermute ich und dass der typ/en der das missbraucht einen massivsten ödipuskomplex hat und vermutlich sein mami oder sein vorgesetzter ihm diese malware gegeben hat"
 xdotool type "$destinationPath"
 sleep $commandWait
 
