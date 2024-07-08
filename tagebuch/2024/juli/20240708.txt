@@ -21,3 +21,22 @@ man muss die "skills" nur konsumieren, der rest macht die Designer Droge ... red
 
 [2] pfisterer: alle konsumenten sind nun informiert dass es eine illusion ist
 [1] urs blum: alle verschtümmeln die das konsumiert haben, die werden den markt kaputt machen wenn sie das rum erzählen
+
+
+beweis dass dem so ist sind die 3 Screenshots im Verzeichnis 
+
+/hacker-notes-s24m07/HackersCardgame_3/
+
+lasst uns mal spekulieren
+
+* Designer Droge Malware 
+  - in der Library (aktivierbar)
+  - in der Software inkscape
+  - in der software xdotool
+  - im betriebssystem, z.B maus oder tastatur library
+  - irgendwer möchte noch logitech malware sagen, aber das tippt so schnell, dass man das nciht über die logitech funktastatur inserten könnte
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 04:04:49 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
