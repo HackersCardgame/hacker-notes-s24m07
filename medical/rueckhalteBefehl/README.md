@@ -92,4 +92,12 @@ vermutlcih auch etwas was mit elektromagnetsicher strahlung interagiert
 Mon Jul 8 10:12:05 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann viele der Cyber-Sprengfallen wo ich drein gesteuert werde über neuralink oder so etwas [LOCK] [Poltergeist] [cAPI] [UB] wie neuralink der schweizer armee [cAPI] sind vermutlcih schon jahre gelegt, somit gibt es einen markt den die schweizer armee aktiv nutzt für schläfer sprengfallen und cyber-[mimimi]-minen 
+
+[LOCK] [Poltergeist] [cAPI] [UB] = 4x Morddrohung gegen marc jr landolt
+[mimimi] = 1x [hg] hochmut für die täter
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 10:37:12 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
