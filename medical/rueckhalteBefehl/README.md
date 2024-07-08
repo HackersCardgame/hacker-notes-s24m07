@@ -73,7 +73,6 @@ also einfachstes wäre: welcher name von menschen wurde am meisten erwähnt, abe
 
 [mam] <- es macht keinen sinn ausser für urs jetzt das zu injecten
 
-
 dann wurde jetzt grad wieder implantat linke wange aktiviert, das traumata [zh] pädophilie, vergewalitgung, und im kontext von claudine blum der uni baswel aktiviert, trauma um meine aussage zu zensieren, und wenn die das nicht zensieren können so schlaten wie weider körperverletztungen ein wie in claudine blums zimmer nach dem urs und a[n]strid mich mit einem computer kurs angelockt hatten ncoh [boe] bevor ich claudine als möglihce Partnerin in betracht gezogen habe
 
 
@@ -82,6 +81,8 @@ dann wurde jetzt grad wieder implantat linke wange aktiviert, das traumata [zh] 
 Mon Jul 8 09:35:22 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 ab zeile 74 wird der Suizid Trigger der marc jr landolt von der Familie blum ankonditioniert wurde wieder aktiv, dann hat jetzt auch wieder jemand mit sprengafallen angefangen zu [drücken] drohen 
+
+also wieder blablabla psy-kriegsführung durch blums die mich angelockt haben wo die trennung zu claudine nicht therapierbar ist und wo immer und immer wieder drauf drein geschlagen wird
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Mon Jul 8 09:41:13 AM CEST 2024
