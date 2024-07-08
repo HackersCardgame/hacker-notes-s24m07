@@ -24,3 +24,25 @@ Das FEDPOL sollte Dr. Schleusener der Uni Zürich Bevragen
 zweite subjektive meinung:
 oder den schleusener einfach grad für immer verwahren
 
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 08:01:45 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+dann wenn man blöd wäre, wäre man wärhrend der Wundversorgung (was immens unnötig zeit verschwendet) anfälliger für suggestionen wie
+
+* Lauf Suizid
+* Lauf Amok []
+
+so werden unnütze dinge in marc jr landolts kopf priorisiert [1]
+
+[1] sprachsample offizier nico wild: "Marc jr hat probleme mit dem Priorisieren" oder "braucht hilfe bei"
+
+ETH Bio Student Christoph rösli:
+"Schulsendlich sollte sowohl das FEDPOL als auch INTERPOL / EUROPOL alle Psychiater und Offiziere als Potentielle BioTerroristen überwachen."
+... bzw. bei denen die versuchen diese dinge zu repareiren die gerne unterstützen udn nciht noch mit überwachung terrorisieren
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 08:05:11 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
