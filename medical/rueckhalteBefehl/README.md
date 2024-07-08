@@ -80,3 +80,16 @@ ausserdem auch paar Dump-files 7986b5b6cbf81160524c3044380914ebfdc2763e
 Mon Jul 8 09:49:20 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 10:11:20 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+dann auch etwas was ich nohc nciht rausgefunden habe wie das funktioniert, gefühlt von einen auf die andere eskunde sind meine lippen trocken und spröde udn haben risse drin
+
+vermutlcih auch etwas was mit elektromagnetsicher strahlung interagiert
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 10:12:05 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
