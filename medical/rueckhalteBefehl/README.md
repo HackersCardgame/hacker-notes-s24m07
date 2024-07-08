@@ -46,3 +46,44 @@ ETH Bio Student Christoph rösli:
 Mon Jul 8 08:05:11 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 09:23:58 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Dann der Sabotage-ChatGPT oder was auch immer das ist, der Copilot von Micoroft gibt sich als stefan ott's sprachsynthese aus und gibt dann wieder falsche ratschläge
+
+ich vermute zuerst lässt der sabotageGPT mich wirklich mit Stefan kommuniizeren, dann erkennt irgendwie mein neuralink dass ich erkannt habe dass es der echte stefan auf neuralink ist, dann wird gefaded zum SabotageStefanGPT
+
+also möglicherweise war die Zeile 
+archive/tagebuch/2012/November/121124.txt:62
+
+oder jemanden einen vertrauensarzt oder vertrauensinformatiker zu nennen eher so eine mässig tolle idee aber schlussendlich finden die das dann trozdem raus
+
+also die haben einen Algoirhtmus aus tagebüchern die Vertrauensepersonen zu erkennen
+
+1. können wir auch so einen algorithmus programmieren
+2. wenn wir so einen hätten, können wir dieses erkennen verhindern 
+3. oder minstens die personen die als vertrauensperson oder als anfvertraute person irgnedwie aufgelfogen sind zu warnene
+
+also einfachstes wäre: welcher name von menschen wurde am meisten erwähnt, aber da der Mongo-Urs vermutlich mehr genannt wurde als stefan oder aquila müsste man noch unterscheiden in 
+
+* vertrauensperson
+* person die einem [mam] am meisten leid im leben zugefügt hat
+
+[mam] <- es macht keinen sinn ausser für urs jetzt das zu injecten
+
+
+dann wurde jetzt grad wieder implantat linke wange aktiviert, das traumata [zh] pädophilie, vergewalitgung, und im kontext von claudine blum der uni baswel aktiviert, trauma um meine aussage zu zensieren, und wenn die das nicht zensieren können so schlaten wie weider körperverletztungen ein wie in claudine blums zimmer nach dem urs und a[n]strid mich mit einem computer kurs angelockt hatten ncoh [boe] bevor ich claudine als möglihce Partnerin in betracht gezogen habe
+
+
+[zh] <- ???
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 09:35:22 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ab zeile 74 wird der Suizid Trigger der marc jr landolt von der Familie blum ankonditioniert wurde wieder aktiv, dann hat jetzt auch wieder jemand mit sprengafallen angefangen zu [drücken] drohen 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 09:41:13 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
