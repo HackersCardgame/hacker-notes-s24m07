@@ -47,4 +47,15 @@ Dann wegen dem [1,2] induzierter epilepsie bei mir und weiteren dingen gelöscht
 Das handy ist alles zu 100% original, nichts custom firmware, ncihts sonst solches.
 
 
+und das allerwichtisget haben die nochmals gelöscht, also eine löschung ist merhstufig, das wichtigste wird veruscht mti hoher priorität zu löschen, der rest als "ok hab hab das jetzt doch ncoh protokollierne können"
+
+Da gibt es bei diesem handy scheinbar eine Funktion den akku ganz schnell zu leren und den akku zu sprengen [3] bzw. den Akku aufblasen, foto auch in diesem gitcommit, das war heute morgen noch nciht
+
+Fotos: DSC00191.JPG DSC00192.JPG
+-> der rechte wurde heute scheinbar so gegen 08:00 gesprengt von MUTMASSLICH dem CEO und Studienkollege von Simon Härdi dem herrn brack
+
+
+[3] notes 7 wäre nur der sündenbock gewesen, dass das bei vielen handies geht
+--> meine Mitigation, ich hab das handy jetzt immer in einer metall box, wenn es brennen beginnt dann nciht so schlimm
+
 
