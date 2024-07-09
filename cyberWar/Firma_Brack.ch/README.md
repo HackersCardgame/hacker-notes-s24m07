@@ -91,4 +91,22 @@ kaputte dinge reparieren UND wieder sicher machen wäre für die umwelt sowieso 
 Tue Jul 9 04:56:45 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann wäre das vermucltih eine funktion auf dem SS7 protokoll meines handy-providers
+
+da wird ja immer von stillen-SMS geredet. gibt es da verschiedene typen wie z.B
+
+* nur ping
+* akku sprengen
+* SD-Karte sprengen
+* Neuralink des Kunden sprengen
+* kunden in suizid oder amoklauf triggern 
+
+???
+
+kennt sich da grad jemand besser aus mit SS7, bei nem normalen Ping kann man ja sagen was man als Daten (fachwort afaik "PAD") mitgeben möchte
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Jul 9 05:00:08 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
