@@ -63,3 +63,19 @@ Fotos: DSC00191.JPG DSC00192.JPG
 --> meine Mitigation, ich hab das handy jetzt immer in einer metall box, wenn es brennen beginnt dann nciht so schlimm
 ======================================================================================================================
 ======================================================================================================================
+
+
+FALLS dies mit anderen Quellen, Indizien oder Beweisen verifiziert werden kann allenfalls die Kundenliste von Brack mit 
+
+* Merkwürdigen Unfällen
+* Amokläufen
+* Suiziden
+
+und solchem abgleichen
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Jul 9 04:38:31 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
