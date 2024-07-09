@@ -1,5 +1,6 @@
 # Brack.ch ist ein [1,2] terrornetzwerk ...
 ... bzw. zesrtört für urs blum, die Zürcih versichrung und die CH-Army beweismittel
+... bzw. terrornetzwekr wäre vermutlich nicht so wie die Offiziers-Deppen es bezeichnen würden sondern ein Armee Betrieb
 
 beim ersten mal hab ich geacht, ok zufällig grad dann kaputt gegangen wenn es reelvant gewesen wären
 
