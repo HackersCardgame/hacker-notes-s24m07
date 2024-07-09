@@ -42,5 +42,9 @@ und seit ca mindestens 1990 sind ja chefposten öfters mal von offizieren besetz
 [2] autoraser rückseite bedronend am motorf aufhäulen
 
 
+Dann wegen dem [1,2] induzierter epilepsie bei mir und weiteren dingen gelöscht worden was ich nochb protokollieren wollte (also die lesen das grad von mienem eeg aus, bevor ich es getippt habe):
+
+Das handy ist alles zu 100% original, nichts custom firmware, ncihts sonst solches.
+
 
 
