@@ -101,3 +101,11 @@ dann viele der Cyber-Sprengfallen wo ich drein gesteuert werde über neuralink o
 Mon Jul 8 10:37:12 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann so etwas wie Group Policy objects die scheinbar auch offline auf ein handy übertragen werden können
+
+also immer zuerst 1 monat action recognition, dann prediction und suizid trigger und cybersprenfallen im kontext zu dem was man am häufigsten macht
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 8 10:40:25 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
