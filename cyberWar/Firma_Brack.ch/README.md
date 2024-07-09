@@ -105,6 +105,10 @@ da wird ja immer von stillen-SMS geredet. gibt es da verschiedene typen wie z.B
 
 kennt sich da grad jemand besser aus mit SS7, bei nem normalen Ping kann man ja sagen was man als Daten (fachwort afaik "PAD") mitgeben möchte
 
+ChatGPT sagt ich hätte das gut erraten:
+stilleSMS.png
+stilleSMS02.png
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Tue Jul 9 05:00:08 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
