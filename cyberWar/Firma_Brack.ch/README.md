@@ -34,7 +34,9 @@ ich empfehle SUBJEKTIV sowohl der Kantons-Polizei als auch dem FEDPOL sämtliche
 erste zerstöruing einer SD-Card: bei Telliblöcken
 zuweite oder dritte zerstörung einer SD-Karte: zwischen Psychiatrie und Waffenplatz brugg
 
-das schlüsselwort unter den offizieren für "Sprengzünder" oder Cyber-Sprengzüner wäre somit MUTMASSLCIH "das
+das schlüsselwort unter den offizieren für "Sprengzünder" oder Cyber-Sprengzüner wäre somit MUTMASSLCIH "management konzentrat" und das management konzentrat geht gemäss romino florio von der Steffen informatik und ABB Technikerschule jeweils an dne chef
+
+und seit ca mindestens 1990 sind ja chefposten öfters mal von offizieren besetzt
 
 [1] militär helikopter hörbar auf rückseite neuenburgstrrasse
 [2] autoraser rückseite bedronend am motorf aufhäulen
