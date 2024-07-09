@@ -77,5 +77,18 @@ und solchem abgleichen
 Tue Jul 9 04:38:31 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann ich hab jetzt mal bei aliexpress einen ersatzakku bestellt, fortwerfen neues kaufen ist von den punkten
+
+* mehr über die täterschaft erfahren die das gemacht hat
+* umweltverschwendung
+* ...
+
+... suboptimal
+
+kaputte dinge reparieren UND wieder sicher machen wäre für die umwelt sowieso besser vermute ich.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Jul 9 04:56:45 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
