@@ -15,6 +15,8 @@ früher konnte man vermutlich viele meiner Scripte nehmen und einfach laufen las
 also sobald man mal zu viel aufmerksamkeit auf sich gezogen hat dann schauen dass man noch eine middle-ware zwischen mich und die dinge die ich programmiere mache, damit die kleinen nicht grad komplett enttäuscht oder getriggert werden
 
 
+dann als ich bevor julian assange so richtig bekannt war 100€ an die Wauholland stiftung gespendet habe, wäre nicht ganz das selbe, aber da wäre man dann z.B von paypal sowieso auch irgend gelistet worden
+
 
 
 
