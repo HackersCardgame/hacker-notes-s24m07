@@ -28,6 +28,10 @@ fazit: die ubs verteilt cybersprengfallen über ihr ebanking
 
 bzw. sind es vermutlcih auch weider mehrere beteiligte kokainsüchtige triebtäter offiziere
 
+UNAUFGEFORDERTE ÜBERMITTLUNG:
+VERRAT an UBS durch Urs Blum
+
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Sun Jul 14 09:39:29 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
