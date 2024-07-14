@@ -36,3 +36,17 @@ VERRAT an UBS durch Urs Blum
 Sun Jul 14 09:39:29 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Jul 14 10:04:28 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+jemand der sich als Urs Blum ausgibt / TTS:
+es ist schlussendlich der david utz welcher die banken verraten hat mit seinem wörtlich: "wenn ein banker einen guten kunden hat nimmt er schon auch mal eine line speed" [1]
+
+[1] dann wechselt urs blum in den klagenden modus und versucht den fokus maximal auf david utz zu legen und hängt...
+" der david utz hätte wissen müssen dass marc jr landolt irgendwann rausfindet dass /speed/ eine falsche spur ist " ... darn
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Jul 14 10:06:16 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
