@@ -92,7 +92,22 @@ Fall Andre Dirksen:
 
 allenfalls der Vater der Frau seines Kindes hat ihn als vergewaltiger bei der polizei gemeldet, die polizie hat es in den ocmputer eingetragen, der polizist bauer liest dort und verrät sich und fängt dann an gegen andre der grad akut suizidal ist noch fragen zu mir zu stellen um den andre irgendwie als vergewaltiger verhaften zu können obwohl VIELLEICHT Andre gar nciht der richtige täter ist
 
+
+
+marc@debian:~/hacker-notes-s24m07/buero$ figlet Polizei Computer in DE hacked ???
+ ____       _ _         _    ____                            _            
+|  _ \ ___ | (_)_______(_)  / ___|___  _ __ ___  _ __  _   _| |_ ___ _ __ 
+| |_) / _ \| | |_  / _ \ | | |   / _ \| '_ ` _ \| '_ \| | | | __/ _ \ '__|
+|  __/ (_) | | |/ /  __/ | | |__| (_) | | | | | | |_) | |_| | ||  __/ |   
+|_|   \___/|_|_/___\___|_|  \____\___/|_| |_| |_| .__/ \__,_|\__\___|_|   
+                                                |_|                       
+ _         ____  _____   _                _            _   ___ ___ ___ 
+(_)_ __   |  _ \| ____| | |__   __ _  ___| | _____  __| | |__ \__ \__ \
+| | '_ \  | | | |  _|   | '_ \ / _` |/ __| |/ / _ \/ _` |   / / / / / /
+| | | | | | |_| | |___  | | | | (_| | (__|   <  __/ (_| |  |_| |_| |_| 
+|_|_| |_| |____/|_____| |_| |_|\__,_|\___|_|\_\___|\__,_|  (_) (_) (_) 
+                                                                       
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-Tue Jul 16 04:21:30 AM CEST 2024
+Tue Jul 16 04:22:27 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
