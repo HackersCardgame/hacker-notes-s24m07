@@ -56,6 +56,21 @@ offiziere oder informatiker im Unfeld von Andree <- ??? -> Offiziere und informa
 schlussendlcih betreibt urs blum mit der zürich versichrung und/oder anderen offizieren der CH-Army ein internationales terrornetzwerk
 
 
+marc@debian:~/hacker-notes-s24m07/buero$ figlet KonzeptWissen
+ _  __                         _ __        ___                    
+| |/ /___  _ __  _______ _ __ | |\ \      / (_)___ ___  ___ _ __  
+| ' // _ \| '_ \|_  / _ \ '_ \| __\ \ /\ / /| / __/ __|/ _ \ '_ \ 
+| . \ (_) | | | |/ /  __/ |_) | |_ \ V  V / | \__ \__ \  __/ | | |
+|_|\_\___/|_| |_/___\___| .__/ \__| \_/\_/  |_|___/___/\___|_| |_|
+                        |_|                                       
+es wäre auch zu erwarten, dass diese sorte von militärs dann irgendwann sowieso anfangen würden ihre paramilitärsichen vereine aufzubauen wo sie selber super duper general sein dürfen
+
+
+
+
+
+
+
 [Zensurfunktion aktiviert worden => [1]]
 -> grund, da würde oder wird ein grösseres internationales terrornetzwerk auffliegen
 
