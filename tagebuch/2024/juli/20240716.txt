@@ -41,6 +41,19 @@ André
  -> das wäre allenfalls irgend auch ein faktor gewesen, dann denke ich die Elisabet Bauhofer die bei der EVP ist (evangelisch Volks partei) wäre auch eher militär als christin
 
 
+marc@debian:~/hacker-notes-s24m07/buero$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+========================================================================================================
+offiziere oder informatiker im Unfeld von Andree <- ??? -> Offiziere und informatiker in Andres Umfeld
+========================================================================================================
+
+
 [Zensurfunktion aktiviert worden => [1]]
 -> grund, da würde oder wird ein grösseres internationales terrornetzwerk auffliegen
 
@@ -50,7 +63,7 @@ André
  |
  | und das raubt einem zusätlzihc den lebensmut wenn dann die polizei da auch noch mithilft
  |
- | offiziere oder informatiker im Unfeld von Andree <- ??? -> Offiziere und informatiker in Andres Umfeld
+ | 
  v
 induzierte epileplsie bei marc jr eingeschaltet worden
 cyberwürgekette eingeschaltet worden
