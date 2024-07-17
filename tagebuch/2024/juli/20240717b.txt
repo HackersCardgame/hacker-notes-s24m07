@@ -35,4 +35,9 @@ generischer betrachtet würde google aber auch z.B. die suchfunktion von ali exp
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Wed Jul 17 03:42:29 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+dann dass es nciht so fest aufflieg, wenn man auf ali express RK3368 sucht, listet er andere dinge auf mit zB RK3229, aber wenn man dann 2 suchwörter eingibt, zB RK3368 xy-board dann findet er wieder gar nciths
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 03:47:41 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
