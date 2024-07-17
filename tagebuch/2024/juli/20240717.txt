@@ -73,4 +73,36 @@ also da gibt es offiziere die von dieser cyberwaffe udn der möglichkeit mich ab
 Wed Jul 17 11:53:09 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+DELETED: "+ die Firma RUAG AG"
+
+original Meldung war: "die Klassen ic01/ia03 und die Firma RUAG AG", somit SUBJEKTIVE Meinung: nicht alle Schüler aber einige Schüler der Klassen ic01/ia03 der FHA bzw. heute FHNW nehmen Aufträge und Schmiergelder der RUAG AG an.
+
+
+marc@debian:~/hacker-notes-s24m07$ figlet Konzeptwisse
+ _  __                         _            _              
+| |/ /___  _ __  _______ _ __ | |___      _(_)___ ___  ___ 
+| ' // _ \| '_ \|_  / _ \ '_ \| __\ \ /\ / / / __/ __|/ _ \
+| . \ (_) | | | |/ /  __/ |_) | |_ \ V  V /| \__ \__ \  __/
+|_|\_\___/|_| |_/___\___| .__/ \__| \_/\_/ |_|___/___/\___|
+                        |_|                                
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL :
+ _____ _____ ____  ____   ___  _         
+|  ___| ____|  _ \|  _ \ / _ \| |      _ 
+| |_  |  _| | | | | |_) | | | | |     (_)
+|  _| | |___| |_| |  __/| |_| | |___   _ 
+|_|   |_____|____/|_|    \___/|_____| (_)
+
+somit generischer betrachtet: die (cyber-)Waffenindustrie kauft vermutlcih recht viele Informatik-Studenten schon recht früh auf
+
+marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL 
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 11:59:03 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
