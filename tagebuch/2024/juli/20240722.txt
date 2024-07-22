@@ -10,3 +10,10 @@ also alle 30 Sek Ein Typo (schreib-tippsel-fehler) der dann einen String / eine 
 
 
 da wäre ein zwingendes Prärequisit etwas wie ein Medulla Spinalis Neuralink und etwas wie eine militärsiches neuralink- und waffentracking-glasfaser mit angeschlossener sendeinfrastruktur (SDR) schweizweit 
+
+eine dieser funktionen ist, wenn ich offline karten machen, dass die malware dann in inkscape die Bilddateien auf über 50 oder 100 MB aufbläst, und sie somit von github abgelehnt werden
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Jul 22 01:03:05 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
