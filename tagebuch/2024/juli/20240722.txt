@@ -17,3 +17,4 @@ eine dieser funktionen ist, wenn ich offline karten machen, dass die malware dan
 Mon Jul 22 01:03:05 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann wurde jetzt grad der irq/146 irgendwie cpu last
