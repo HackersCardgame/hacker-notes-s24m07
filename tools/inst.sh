@@ -61,8 +61,8 @@ fi
 }
 #==============================================================================
 
-apt-get update
-apt-get upgrade
+apt-get update -y
+apt-get upgrade -y
 apt-get install -y screen
 apt-get purge firefox-esr
 apt-get install -y epiphany-browser
@@ -82,12 +82,18 @@ apt-get install -y callibre
 apt-get install -y iotop
 apt-get install -y xxd
 apt-get install -y rdfind
+apt-get install -y rsync
+apt-get install -y asunder
+apt-get install -y brasero
+apt-get install -y mdadm
+apt-get install -y smarttools
+
 
 apt-get install -y xdotool wmctrl
 
 
-apt-get install cups-client
-apt-get install tesseract-ocr-eng tesseract-ocr-deu
+apt-get install cups-client -y
+apt-get install tesseract-ocr-eng tesseract-ocr-deu -y
 
 echo "printer installieren"
 echo ""
@@ -108,3 +114,17 @@ then
   apt-get install nvidia-tesla-470-driver
 fi
 
+
+
+echo "printer installieren"
+echo ""
+echo "printer installieren"
+echo ""
+echo "printer installieren"
+echo ""
+echo "printer installieren"
+echo ""
+echo "printer installieren"
+echo ""
+echo "printer installieren"
+echo ""
