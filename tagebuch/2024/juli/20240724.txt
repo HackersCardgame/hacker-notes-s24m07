@@ -31,5 +31,11 @@ es ist sowieso klar, dass wenn auch nur 10% der Aussagen von meinen Mails von ge
 Wed Jul 24 06:25:48 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann wurde scheinbar mein internet oder netzwerkstack sabotiert, bzw. das stellt bei allen netzwerkkarten die selbe ip ein, also endpoint malware
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 24 06:29:02 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
