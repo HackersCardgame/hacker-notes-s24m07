@@ -151,9 +151,31 @@ dann ein ganz kleiner haushalt unfall von marc jr landolt, somit hat die polizei
 
 somit wäre allenfalls alle menshen die in amokläufe gegsteuert wurden zuerst eigentlich opfer der justiz
 
-die Fälle Hapte A., Michael Boringer ... unter diesem Licht erneut betrachten
+die Fälle Hapte A., Michael Boringer ... unter diesem Licht erneut betrachten / beleuchten
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Sun Jul 28 06:21:55 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+marc@debian:~/hacker-notes-s24m07/FUN$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m07/FUN$ figlet INTERPOL
+
+ZUSAMMENFASSEND:
+
+sobald man die Diskussion auf "Ursula Landolt wurde von einem Polizisten vergewaltigt und zugeritten" fängt jemand an ICD10 G40.2 gegen marc jr landolt zu aktivieren, bietet leute wie dominic zschocke auf und droht schlussendlcih mti spregnfalllen gegen marc jr landolt, löscht die drohung aus den logfiles und sagt marc jr landolt würde mit sprengfallen drohen und der Fall "Vergewaltigung durch die KL Kantonspolizei Bern an Ursula Landolt" wird dann so gespammt
+
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m07/FUN$ 
 
