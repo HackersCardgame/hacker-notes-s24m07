@@ -1,0 +1,956 @@
+Debug [Main]: SoundSourceProxy - Registering SoundSource providers
+Debug [Main]: SoundSourceProxy - Registering platform and fallback SoundSource providers
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "FFmpeg"
+Info [Main]: SoundSourceFFmpeg - Disabling untested input formats: aa, aax, ac3, ace, acm, act, adf, adp, ads, adx, aea, afc, aix, alp, amr, amrnb, amrwb, anm, apc, ape, apm, apng, aptx, aptx_hd, aqtitle, argo_asf, argo_brp, argo_cvg, asf, asf_o, ass, ast, au, av1, avi, avr, avs, avs2, avs3, bethsoftvid, bfi, bin, bink, binka, bit, bitpacked, bmv, bfstm, brstm, boa, c93, caf, cavsvideo, cdg, cdxl, cine, codec2, codec2raw, concat, dash, data, daud, dcstr, derf, dfa, dfpwm, dhav, dirac, dnxhd, dsf, dsicin, dss, dts, dtshd, dv, dvbsub, dvbtxt, dxa, ea, ea_cdata, eac3, epaf, ffmetadata, filmstrip, fits, flac, flic, flv, live_flv, 4xm, frm, fsb, fwse, g722, g723_1, g726, g726le, g729, gdv, genh, gif, gsm, gxf, h261, h263, h264, hca, hcom, hevc, hls, hnm, ico, idcin, idf, iff, ifv, ilbc, image2, image2pipe, alias_pix, brender_pix, imf, ingenient, ipmovie, ipu, ircam, iss, iv8, ivf, ivr, jacosub, jv, kux, kvag, lmlm4, loas, luodat, lrc, lvf, lxf, mca, mcc, matroska,webm, mgsts, microdvd, mjpeg, mjpeg_2000, mlp, mlv, mm, mmf, mods, moflex, mpc, mpc8, mpeg, mpegts, mpegtsraw, mpegvideo, mpjpeg, mpl2, mpsub, msf, msnwctcp, msp, mtaf, mtv, musx, mv, mvi, mxf, mxg, nc, nistsphere, nsp, nsv, nut, nuv, obu, ogg, oma, paf, alaw, mulaw, vidc, f64be, f64le, f32be, f32le, s32be, s32le, s24be, s24le, s16be, s16le, s8, u32be, u32le, u24be, u24le, u16be, u16le, u8, pjs, pmp, pp_bnk, pva, pvf, qcp, r3d, rawvideo, realtext, redspark, rl2, rm, roq, rpl, rsd, rso, rtp, rtsp, s337m, sami, sap, sbc, sbg, scc, scd, sdp, sdr2, sds, sdx, film_cpk, ser, sga, shn, siff, simbiosis_imx, sln, smk, smjpeg, smush, sol, sox, spdif, srt, psxstr, stl, subviewer1, subviewer, sup, svag, svs, swf, tak, tedcaptions, thp, 3dostr, tiertexseq, tmv, truehd, tta, txd, tty, ty, v210, v210x, vag, vc1, vc1test, vividas, vivo, vmd, vobsub, voc, vpk, vplayer, vqf, w64, wc3movie, webm_dash_manifest, webvtt, wsaud, wsd, wsvqa, wtv, wve, xa, xbin, xmv, xvag, xwma, yop, yuv4mpegpipe, bmp_pipe, cri_pipe, dds_pipe, dpx_pipe, exr_pipe, gem_pipe, gif_pipe, j2k_pipe, jpeg_pipe, jpegls_pipe, jpegxl_pipe, pam_pipe, pbm_pipe, pcx_pipe, pfm_pipe, pgmyuv_pipe, pgm_pipe, pgx_pipe, phm_pipe, photocd_pipe, pictor_pipe, png_pipe, ppm_pipe, psd_pipe, qdraw_pipe, qoi_pipe, sgi_pipe, svg_pipe, sunrast_pipe, tiff_pipe, vbn_pipe, webp_pipe, xbm_pipe, xpm_pipe, xwd_pipe, libgme, libopenmpt
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aac" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aif" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aiff" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "m4v" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mov" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp4" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "m4a" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "3gp" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "3g2" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mj2" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp3" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wav" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wv" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "MAD: MPEG Audio Decoder"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp3" for provider "MAD: MPEG Audio Decoder" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "MODPlug"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mod" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "med" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "okt" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "s3m" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "stm" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "xm" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "it" for provider "MODPlug" with priority 3 (default)
+Info [Main]: SoundSourceSndFile - Disabling OGG decoding for "libsndfile-1.2.0"
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "libsndfile"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aif" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aiff" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "caf" for provider "libsndfile" with priority 2 (lower)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "flac" for provider "libsndfile" with priority 2 (lower)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wav" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProxy - Registering reference SoundSource providers
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org libFLAC"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "flac" for provider "Xiph.org libFLAC" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org OggVorbis"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "ogg" for provider "Xiph.org OggVorbis" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org libopusfile"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "opus" for provider "Xiph.org libopusfile" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "WavPack"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wv" for provider "WavPack" with priority 4 (higher)
+Debug [Main]: Mixxx 2.3.3 (git unknown; built on: Nov 22 2022 @ 23:03:45; flags: -pipe;-O3;-ffast-math;-funroll-loops;-fomit-frame-pointer;-mtune=generic;-Wall;-Wextra;$<$<COMPILE_LANGUAGE:CXX>:-Woverloaded-virtual>;-Wfloat-conversion;-Werror=return-type) is starting...
+Debug [Main]: Compile time library versions:
+Debug [Main]: Qt: 5.15.8
+Debug [Main]: libshout: 2.4.1
+Debug [Main]: PortAudio: 1246720 PortAudio V19.6.0-devel, revision 396fe4b6699ae929d3a685b3ef8a7e97396139a4
+Debug [Main]: RubberBand: 3.1.0
+Debug [Main]: SoundTouch: 2.3.1
+Debug [Main]: TagLib: 1.13.0
+Debug [Main]: ChromaPrint: 1.5.1
+Debug [Main]: Vorbis: Xiph.Org libVorbis 1.3.7
+Debug [Main]: libsndfile: libsndfile-1.2.0
+Debug [Main]: FLAC: 1.4.2
+Debug [Main]: libmp3lame: 3.100
+Debug [Main]: QStandardPaths::writableLocation(HomeLocation): "/home/marc"
+Debug [Main]: QStandardPaths::writableLocation(DataLocation): "/home/marc/.local/share/Mixxx"
+Debug [Main]: QCoreApplication::applicationDirPath() "/usr/bin"
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: Configuration file is at the current version "2.3.3"
+Info [Main]: BroadcastSettings - Found 1 profile(s)
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: Found and will use default keyboard preset "/usr/share/mixxx/keyboard/en_US.kbd.cfg"
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: Skipping loading of translations because the locale is 'en' or 'en_US'.
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: No fonts directory found in "/usr/share/mixxx/"
+Info [Main]: DbConnection - Available drivers for database connections: ("QSQLITE")
+Info [Main]: DbConnectionPool - Cloned thread-local database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [Main]: MixxxMainWindow - Connecting to database
+Info [Main]: MixxxMainWindow - Initializing or upgrading database schema
+Info [Main]: SchemaManager - Database schema is up-to-date at version 32
+Debug [Main]: JACK client name set
+Debug [Main]: EngineNetworkStream - addWorker: worker added
+Debug [Main]: EngineNetworkStream - worker slots used: "1 out of 16"
+Debug [Main]: BroadcastManager - addConnection: created connection for profile "Connection 1"
+Info [Main]: GlobalTrackCache - Creating instance
+Info [Main]: TrackCollection - Connecting database
+Info [Main]: TrackCollectionManager - Starting library scanner thread
+Debug [LibraryScanner 1]: LibraryScanner - Entering thread
+Info [LibraryScanner 1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-2" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [Main]: TrackCollection - Connecting track source
+Debug [LibraryScanner 1]: LibraryScanner - Event loop starting
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 105 ms
+Debug [Main]: PlaylistTableModel(0x560c0195c000) select() took 110 ms 895
+Debug [Main]: CrateFeature::rebuildChildModel() -1
+Debug [Main]: Default quick links: ("/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/", "/home/marc/Music/", "/home/marc/Downloads/", "/home/marc/Desktop/", "/home/marc/Documents/")
+Debug [Main]: Appending Quick Link:  "Music.merged" --- "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/"
+Debug [Main]: Appending Quick Link:  "Music" --- "/home/marc/Music/"
+Debug [Main]: Appending Quick Link:  "Downloads" --- "/home/marc/Downloads/"
+Debug [Main]: Appending Quick Link:  "Desktop" --- "/home/marc/Desktop/"
+Debug [Main]: Appending Quick Link:  "Documents" --- "/home/marc/Documents/"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Traktor Library Location=[ "/home/marc/collection.nml" ]
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlist_tracks"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlists"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_library"
+Debug [Main]: Creating Rekordbox library table:  "rekordbox_library"
+Debug [Main]: Creating Rekordbox playlists table:  "rekordbox_playlists"
+Debug [Main]: Creating Rekordbox playlist tracks table:  "rekordbox_playlist_tracks"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Dropping Serato table:  "serato_playlist_tracks"
+Debug [Main]: Dropping Serato table:  "serato_playlists"
+Debug [Main]: Dropping Serato table:  "serato_library"
+Debug [Main]: Creating Serato library table:  "serato_library"
+Debug [Main]: Creating Serato playlists table:  "serato_playlists"
+Debug [Main]: Creating Serato playlist tracks table:  "serato_playlist_tracks"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Checking for access to user's library directories:
+Debug [Main]: Checking for access to "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged" : true
+Debug [Main]: Checking for access to "/home/marc/Music" : true
+Debug [Main]: TrackAnalysisScheduler - Starting 6 worker threads. Priority:  normal
+Debug [AnalyzerThread 1 #1]: AnalyzerThread 1 - Running
+Debug [AnalyzerThread 0 #2]: AnalyzerThread 0 - Running
+Debug [AnalyzerThread 2 #3]: AnalyzerThread 2 - Running
+Debug [AnalyzerThread 3 #4]: AnalyzerThread 3 - Running
+Info [AnalyzerThread 1 #1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-3" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 1 #1]: AnalyzerThread - Activated 5 analyzers
+Debug [AnalyzerThread 5 #5]: AnalyzerThread 5 - Running
+Debug [AnalyzerThread 4 #6]: AnalyzerThread 4 - Running
+Info [AnalyzerThread 3 #4]: DbConnectionPool - Cloned thread-local database connection "MIXXX-6" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 3 #4]: AnalyzerThread - Activated 5 analyzers
+Info [AnalyzerThread 2 #3]: DbConnectionPool - Cloned thread-local database connection "MIXXX-5" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Activated 5 analyzers
+Info [AnalyzerThread 0 #2]: DbConnectionPool - Cloned thread-local database connection "MIXXX-4" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Activated 5 analyzers
+Info [AnalyzerThread 5 #5]: DbConnectionPool - Cloned thread-local database connection "MIXXX-7" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Activated 5 analyzers
+Debug [Main]: Creating ControllerManager
+Info [AnalyzerThread 4 #6]: DbConnectionPool - Cloned thread-local database connection "MIXXX-8" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 4 #6]: AnalyzerThread - Activated 5 analyzers
+Debug [Controller]: ControllerManager:slotInitialize
+Debug [Controller]: Extension .midi.xml total 4 presets
+Debug [Controller]: Extension .hid.xml total 0 presets
+Debug [Controller]: Extension .bulk.xml total 0 presets
+Debug [Controller]: Extension .midi.xml total 127 presets
+Debug [Controller]: Extension .hid.xml total 13 presets
+Debug [Controller]: Extension .bulk.xml total 1 presets
+Debug [Main]: Set root GL Context widget valid: QGLWidget(0x560c0afcf400) true
+Debug [Main]: Created root GL Context valid: 0x7fe268007440 true
+Debug [Main]: Root GL Context format:
+Debug [Main]: Double Buffering: true
+Debug [Main]: Swap interval: 0
+Debug [Main]: Depth buffer: true
+Debug [Main]: Direct rendering: true
+Debug [Main]: Has overlay: false
+Debug [Main]: RGBA: true
+Debug [Main]: Sample buffers: false
+Debug [Main]: Samples: -1
+Debug [Main]: Stencil buffers: true
+Debug [Main]: Stereo: false
+Debug [Main]: "openGLVersionFlags 0xff07f" "4.6.0 NVIDIA 470.256.02" "NVIDIA Corporation" "NVIDIA GeForce GT 730/PCIe/SSE2"
+Debug [Main]: RLimit Cur  0
+Debug [Main]: RLimit Max  0
+Debug [Main]: ControllerManager::getControllerList
+Debug [Main]: Key plugin ID: "qm-keydetector:2"
+Debug [Main]: LegacySkinParser loading skin: "/usr/share/mixxx/skins/Tango (64 Samplers)"
+Debug [Main]: Skin is a >=1.12.0 style skin.
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 0
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 1
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 2
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 3
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSearchLineEdit - Background color: QColor(ARGB 1, 0, 0, 0)
+Debug [Main]: WTrackTableView::loadTrackModel() HiddenTableModel(0x560c381ed3b0)
+Debug [Main]: HiddenTableModel(0x560c381ed3b0) select() took 3 ms 4
+Debug [Main]: WTrackTableView::loadTrackModel() MissingTableModel(0x560c38254520)
+Debug [Main]: MissingTableModel(0x560c38254520) select() took 27 ms 3166
+Debug [Main]: WTrackTableView::loadTrackModel() PlaylistTableModel(0x560c0195c000)
+Debug [Main]: Recordings folder set to "/home/marc/Music/Mixxx/Recordings"
+Debug [Main]: WTrackTableView::loadTrackModel() QSortFilterProxyModel(0x560c383fab28)
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-04-27_12h49m20s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-04-27_12h49m20s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [Main]: WTrackTableView::loadTrackModel() AnalysisLibraryTableModel(0x560c38474340)
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-02-11_01h07m16s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-02-11_01h07m16s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-01-27_16h48m11s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-01-27_16h48m11s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-06-20_09h11m35s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-06-20_09h11m35s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [Main]: AnalysisLibraryTableModel(0x560c38474340) select() took 48 ms 0
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-02-11_02h12m55s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-02-11_02h12m55s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-06-20_00h55m00s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-06-20_00h55m00s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-06-15_14h10m51s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-06-15_14h10m51s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-04-28_18h36m32s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-04-28_18h36m32s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-06-20_09h07m00s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-06-20_09h07m00s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-07-14_10h29m18s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-07-14_10h29m18s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Append  10  from  "/home/marc/Music/Mixxx/Recordings/2024-07-14_10h29m18s.mp3"
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-01-31_07h45m50s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-01-31_07h45m50s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-06-15_14h12m59s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-06-15_14h12m59s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/TanzenAufSubstanzen--HatePodcast154.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/TanzenAufSubstanzen--HatePodcast154.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-06-12_07h39m40s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-06-12_07h39m40s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-04-28_18h47m58s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-04-28_18h47m58s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Append last  5
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: MixxxLibraryFeature::activate()
+Debug [Main]: WTrackTableView::loadTrackModel() LibraryTableModel(0x560c018f3590)
+Debug [Main]: LibraryTableModel(0x560c018f3590) select() took 59 ms 12054
+Debug [Main]: trying to restore position
+Warning [Main]: ControlDoublePrivate::getControl returning NULL for ( "[VinylControl]" , "show_vinylcontrol" )
+Debug [Controller]: ControllerManager: Setting up devices
+Debug [Controller]: Scanning PortMIDI devices:
+Debug [Controller]:  Found output device # 2 X-TOUCH MINI MIDI 1
+Debug [Controller]:  Found output device # 4 Arturia BeatStep MIDI 1
+Debug [Controller]:  Found input device # 3 X-TOUCH MINI MIDI 1
+Debug [Controller]:     Linking to output device # 2 "X-TOUCH MINI MIDI 1"
+Debug [Controller]:  Found input device # 5 Arturia BeatStep MIDI 1
+Debug [Controller]:     Linking to output device # 4 "Arturia BeatStep MIDI 1"
+Debug [Controller]: Scanning USB Bulk devices:
+Debug [Controller]: Scanning HID devices:
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler1]" QObject(0x0)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler2]" Track(0x560c44280300)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler3]" Track(0x560c381b8f20)
+Debug [Controller]: Found "" "" "r512" S/N "" "Interface 0"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r512" S/N "" "Interface 4"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r4617" S/N "" "Interface 0"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r4617" S/N "" "Interface 1"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r4617" S/N "" "Interface 2"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: ControllerManager::getControllerList
+Debug [Controller]: Searching for controller preset "/home/marc/.mixxx/controllers/xtoch-new.midi.xml" in paths: "/home/marc/.mixxx/controllers/,/usr/share/mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "/home/marc/.mixxx/controllers/xtoch-new.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "X-TOUCH MINI MIDI 1"
+Debug [Controller]: Controller in script engine is: "X-TOUCH MINI MIDI 1"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Loading "/usr/share/mixxx/controllers/common-controller-scripts.js"
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Controller]: Searching for controller preset "/home/marc/.mixxx/controllers/Aru.midi.xml" in paths: "/home/marc/.mixxx/controllers/,/usr/share/mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "/home/marc/.mixxx/controllers/Aru.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "Arturia BeatStep MIDI 1"
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler4]" Track(0x560c381c2300)
+Debug [Controller]: Controller in script engine is: "Arturia BeatStep MIDI 1"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Loading "/usr/share/mixxx/controllers/common-controller-scripts.js"
+Debug [Controller]: Controller polling started.
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler5]" Track(0x560c40b62380)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler6]" Track(0x560c3bd1efa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler7]" Track(0x560c3bd1efa0)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler8]" Track(0x560c401d6860)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler9]" Track(0x560c485a9d50)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler10]" Track(0x560c44280300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler11]" Track(0x560c381b8f20)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler12]" Track(0x560c381c2300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler13]" Track(0x560c40b62380)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler14]" Track(0x560c3bd1efa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler15]" Track(0x560c3bd1efa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler16]" Track(0x560c401d6860)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Warning [Main]: TagLib - ID3v2.2 is only partially supported - please convert your file tags to at least ID3v2.3
+Warning [Main]: TagLib - Legacy ID3v2 version - importing only basic tags
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler17]" Track(0x560c485a9790)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler18]" Track(0x560c44280300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler19]" Track(0x560c381b8f20)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler20]" Track(0x560c381c2300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler21]" Track(0x560c40b62380)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler22]" Track(0x560c3bd1efa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler23]" Track(0x560c3bd1efa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler24]" Track(0x560c485a9790)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler25]" Track(0x560c485a9d50)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler26]" Track(0x560c44280300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler27]" Track(0x560c44280300)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler28]" Track(0x560c401eeaa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler29]" Track(0x560c40b62380)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler30]" Track(0x560c401d6860)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler31]" Track(0x560c3bd1efa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler32]" Track(0x560c381c2300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler33]" Track(0x560c485a9790)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler34]" Track(0x560c485a9790)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler35]" Track(0x560c44280300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler36]" Track(0x560c401eeaa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler37]" Track(0x560c401eeaa0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler38]" Track(0x560c381c2300)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler39]" Track(0x560c401d6860)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler40]" Track(0x560c485a9790)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler41]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler42]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler43]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler44]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler45]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler46]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler47]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler48]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler49]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler50]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler51]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler52]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler53]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler54]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler55]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler56]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler57]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler58]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler59]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler60]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler61]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler62]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler63]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler64]" QObject(0x0)
+Debug [Main]: SoundManager::setupDevices()
+Debug [Main]: SoundDevicePortAudio::open() "SoundDeviceId(default, 22)"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  44100 Hz, latency: 92.8798 ms
+Debug [Main]: Output channels: 2 | Input channels: 0
+Debug [Main]: Opening stream with id 22
+Debug [Main]: Opened PortAudio stream successfully... starting
+Info [Main]: Enabling ALSA real-time scheduling
+Debug [Main]: PortAudio: Started stream successfully
+Debug [Main]:    Actual sample rate:  44100 Hz, latency: 92.8798 ms
+Debug [Main]: SoundDeviceNetwork - open: "Network stream"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  44100 Hz, latency: 92879818 ns
+Debug [Main]: Using "default" as output sound device clock reference
+Debug [Main]: 2 output sound devices opened
+Debug [Main]: 0 input sound devices opened
+Debug [Main]: Displaying main window
+Debug [Main]: Running Mixxx
+Debug [Main]: ControllerManager::getControllerList
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x560c3e959040)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x560c3d65a1f0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x560c3e96ae50)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x560c3c598360)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x560c48695ab0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x560c48d981f0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x560c4adcf130)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x560c4adcf480)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x560c4adcf840)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x560c4adcfb70)
+Debug []: SSE: Denormals to zero mode already enabled
+Debug []: SSE: Flush to zero mode already enabled
+Debug []: Denormals to zero mode is working
+Debug [CachingReaderWorker 8]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 7]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 14]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 23]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 21]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 35]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 48]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 17]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 16]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 37]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 45]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 30]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 32]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 34]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 12]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 25]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 20]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 26]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 39]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 36]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 15]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 13]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 6]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 10]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 28]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 11]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 47]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 29]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 44]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 46]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 31]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 18]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 43]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 27]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 33]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 22]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 24]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 19]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 42]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x560c4adccca0)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x560c4d4e0c30)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x560c4d4e11b0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x560c4d4e15b0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x560c4d4e19f0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x560c4d4de8a0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x560c4dbb0eb0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x560c4fbe37c0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x560c4fbe3b10)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x560c4fbe3ed0)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x560c4fbe4200)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x560c4fbe1330)
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 75208
+Debug [Main]: AnalyzerThread - Enqueueing next track 42355
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Dequeued next track 75208
+Debug [Main]: AnalyzerThread - Enqueueing next track 75231
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75231
+Debug [Main]: AnalyzerThread - Enqueueing next track 41704
+Debug [AnalyzerThread 1 #1]: AnalyzerThread - Dequeued next track 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Analyzing QFileInfo(/home/marc/Music/hate154-snippet.mp3)
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75208
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Dequeued next track 75231
+Debug [AnalyzerThread 1 #1]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3)
+Debug [Main]: AnalyzerThread - Enqueueing next track 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [AnalyzerThread 4 #6]: AnalyzerThread - Dequeued next track 41704
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Analyzing QFileInfo(/home/marc/Music/versiffteMusik/Tim Tama -  Alignment [BLVCKPLVG005] [hUsjfjNmAcI].mp3)
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Dequeued next track 772
+Debug [AnalyzerThread 4 #6]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3)
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75231
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75231
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3)
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75208
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 41704
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 41704
+Debug [Main]: AnalyzerThread - Enqueueing next track 36609
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36609
+Debug [Main]: AnalyzerThread - Enqueueing next track 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: AnalyzerThread - Enqueueing next track 36565
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36565
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36565
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36565
+Debug [Main]: AnalyzerThread - Enqueueing next track 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [AnalyzerThread 3 #4]: AnalyzerThread - Dequeued next track 36609
+Debug [AnalyzerThread 3 #4]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Kinderparadies - live at ZeTeCo Lounge-couchsofa_couchsofa-kinderparadies-live-at-zeteco-lounge.mp3)
+Debug [AnalyzerThread 0 #2]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 3 #4]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 1 #1]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 2 #3]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 5 #5]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 4 #6]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 2 #3]: AnalysisDAO fetched 2 analyses, 2458464 bytes for track 75208 in 10 ms
+Debug [AnalyzerThread 5 #5]: AnalysisDAO fetched 2 analyses, 1926973 bytes for track 772 in 11 ms
+Debug [AnalyzerThread 0 #2]: AnalysisDAO fetched 2 analyses, 2882621 bytes for track 75231 in 16 ms
+Debug [AnalyzerThread 5 #5]: Reading waveform from byte array: allSignalSize 221312 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 2 #3]: Reading waveform from byte array: allSignalSize 303444 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 5 #5]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 7.65184 audioVisualRatio 6273
+Debug [AnalyzerThread 5 #5]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 5 #5]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 5 #5]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 5 #5]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 5 #5]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Dequeued next track 75093
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3)
+Debug [AnalyzerThread 5 #5]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 2 #3]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.58075 audioVisualRatio 8601
+Debug [AnalyzerThread 2 #3]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 2 #3]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 2 #3]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 2 #3]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 2 #3]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Dequeued next track 19702
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3)
+Debug [AnalyzerThread 2 #3]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 0 #2]: Reading waveform from byte array: allSignalSize 302068 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 0 #2]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.60617 audioVisualRatio 8562
+Debug [AnalyzerThread 0 #2]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 0 #2]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 0 #2]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #2]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #2]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Dequeued next track 36565
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3)
+Debug [AnalyzerThread 4 #6]: AnalysisDAO fetched 2 analyses, 3373871 bytes for track 41704 in 22 ms
+Debug [AnalyzerThread 0 #2]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 1 #1]: AnalysisDAO fetched 2 analyses, 3127374 bytes for track 42355 in 25 ms
+Debug [AnalyzerThread 4 #6]: Reading waveform from byte array: allSignalSize 356788 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 4 #6]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 4.74637 audioVisualRatio 10113
+Debug [AnalyzerThread 4 #6]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 4 #6]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 4 #6]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 4 #6]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 4 #6]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 4 #6]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 1 #1]: Reading waveform from byte array: allSignalSize 338054 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 1 #1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.00939 audioVisualRatio 9582
+Debug [AnalyzerThread 1 #1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 1 #1]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 1 #1]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #1]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 1 #1]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 3 #4]: AnalysisDAO fetched 2 analyses, 64817604 bytes for track 36609 in 492 ms
+Debug [AnalyzerThread 3 #4]: Reading waveform from byte array: allSignalSize 7783742 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 3 #4]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.217561 audioVisualRatio 202702
+Debug [AnalyzerThread 3 #4]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 3 #4]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 3 #4]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #4]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #4]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 3 #4]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 2 #3]: AnalysisDAO fetched 2 analyses, 91426168 bytes for track 19702 in 673 ms
+Debug [AnalyzerThread 2 #3]: Reading waveform from byte array: allSignalSize 11100488 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 2 #3]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.152555 audioVisualRatio 289075
+Debug [AnalyzerThread 2 #3]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 2 #3]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 2 #3]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 2 #3]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 2 #3]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 0 #2]: AnalysisDAO fetched 2 analyses, 131205917 bytes for track 36565 in 985 ms
+Debug [AnalyzerThread 0 #2]: Reading waveform from byte array: allSignalSize 15607228 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 0 #2]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.108504 audioVisualRatio 406438
+Debug [AnalyzerThread 0 #2]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 0 #2]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 0 #2]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #2]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #2]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 5 #5]: AnalysisDAO fetched 2 analyses, 187389051 bytes for track 75093 in 1407 ms
+Debug [AnalyzerThread 5 #5]: Reading waveform from byte array: allSignalSize 21414206 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 5 #5]: Reading waveform from byte array: allSignalSize 3840 visualSampleRate 0.0790802 audioVisualRatio 557662
+Debug [AnalyzerThread 5 #5]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 5 #5]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 5 #5]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 5 #5]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 5 #5]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [Main]: LibraryTableModel(0x560c018f3590) select() took 119 ms 86
+Debug [Main]: LibraryTableModel(0x560c018f3590) select() took 116 ms 18
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: BeatFactory::loadBeatsFromByteArray could not parse serialized beats.
+Info [Main]: MetadataSourceTagLib - No track metadata or cover art found in file "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3" with type 3
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3" in internal collection
+Debug [Main]: PlaylistTableModel(0x560c0195c000) select() took 12 ms 895
+Debug [Main]: MixxxLibraryFeature::activate()
+Debug [Main]: WTrackTableView::loadTrackModel() LibraryTableModel(0x560c018f3590)
+Debug [Main]: LibraryTableModel(0x560c018f3590) select() took 122 ms 18
+Debug [Main]: trying to restore position
+Debug [Main]: BeatFactory::loadBeatsFromByteArray could not parse serialized beats.
+Info [Main]: MetadataSourceTagLib - No track metadata or cover art found in file "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3" with type 3
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 1 ms
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: dropEventFiles() true (QUrl("file:///media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3"))
+Debug [Main]: mimeData.hasText() true "library"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]" Track(0x560c524f0ab0)
+Debug [CachingReaderWorker 1]: TrackMetadata - Modifying duration: 1790000000000 ns -> 1790040816326 ns
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 74587
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Dequeued next track 74587
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3)
+Debug [AnalyzerThread 0 #2]: AnalysisDAO fetched 0 analyses, 0 bytes for track 74587 in 0 ms
+Debug [AnalyzerThread 0 #2]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #2]: Re-analyzing track with invalid BPM despite preference settings.
+Debug [AnalyzerThread 0 #2]: input sample rate is  44100 , step size is  512
+Debug [AnalyzerThread 0 #2]: Beat calculation started with plugin "qm-tempotracker:0"
+Debug [AnalyzerThread 0 #2]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #2]: Key calculation started with plugin "qm-keydetector:2"
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [AnalyzerThread 0 #2]: Writing waveform from byte array: dataSize 1578818 allSignalSize 1578818 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 0 #2]: AnalysisDAO saved analysis 6465 "12652510 (4640703 compressed)" bytes for track 74587 in 1016 ms
+Debug [AnalyzerThread 0 #2]: Saved waveform analysis for trackId 74587 analysisId 6465
+Debug [AnalyzerThread 0 #2]: Writing waveform from byte array: dataSize 3842 allSignalSize 3842 visualSampleRate 1.0726 audioVisualRatio 41115
+Debug [AnalyzerThread 0 #2]: AnalysisDAO saved analysis 6466 "30824 (12012 compressed)" bytes for track 74587 in 3 ms
+Debug [AnalyzerThread 0 #2]: Saved waveform summary analysis for trackId 74587 analysisId 6466
+Debug [AnalyzerThread 0 #2]: AnalyzerWaveform - Waveform generation for track 74587 done 17 s
+Debug [AnalyzerThread 0 #2]: ReplayGain 2.0 (libebur128) result is 4.22672 dB for QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3)
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 0 #2]: adjusting phase by 46.5743
+Debug [AnalyzerThread 0 #2]: AnalyzerBeats plugin detected 4034 beats. Average BPM: 144
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 0 #2]: Key Histogram
+Debug [AnalyzerThread 0 #2]: 2 : "D♭" 1226.45
+Debug [AnalyzerThread 0 #2]: 7 : "F♯/G♭" 170.156
+Debug [AnalyzerThread 0 #2]: 8 : "G" 2.22912
+Debug [AnalyzerThread 0 #2]: 12 : "B" 3.71519
+Debug [AnalyzerThread 0 #2]: 14 : "C♯m" 381.922
+Debug [AnalyzerThread 0 #2]: 19 : "F♯m" 5.20127
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: 0 ms stopping pending Library tasks
+Debug [Main]: Destroying MixxxMainWindow
+Debug [Main]: 0 ms saving configuration
+Debug [Main]: 0 ms deleting skin
+Debug [Main]: ~DlgAutoDJ()
+Debug [Main]: 486 ms deleting menubar
+Debug [Main]: 492 ms deleting SoundManager
+Debug [Main]: 566 ms deleting ControllerManager
+Debug [Controller]: Controller polling stopped.
+Debug [Controller]: Deleting PortMIDI devices...
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Invoking shutdown() hook in scripts
+Debug [Controller]: Clearing function wrapper cache
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Invoking shutdown() hook in scripts
+Debug [Controller]: Clearing function wrapper cache
+Debug [Controller]: Deleting USB Bulk devices...
+Debug [Controller]: Deleting HID devices...
+Debug [Main]: 585 ms deleting VinylControlManager
+Debug [Main]: 587 ms deleting PlayerManager
+Debug [Main]: PlayerManager - Destroying
+Debug [Main]: TrackAnalysisScheduler - Stopping
+Debug [Main]: TrackAnalysisScheduler - Stopping
+Debug [AnalyzerThread 1 #1]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 0 #2]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 1 #1]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 4 #6]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 2 #3]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 0 #2]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 5 #5]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 4 #6]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 5 #5]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 3 #4]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 2 #3]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 3 #4]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 5 #5]: AnalyzerThread 5 - Exiting
+Debug [AnalyzerThread 0 #2]: AnalyzerThread 0 - Exiting
+Debug [AnalyzerThread 1 #1]: AnalyzerThread 1 - Exiting
+Debug [AnalyzerThread 4 #6]: AnalyzerThread 4 - Exiting
+Debug [AnalyzerThread 3 #4]: AnalyzerThread 3 - Exiting
+Debug [AnalyzerThread 2 #3]: AnalyzerThread 2 - Exiting
+Debug [Main]: 602 ms deleting Library
+Debug [Main]: Wait to finish browser background thread
+Debug [Main]: Browser background thread terminated!
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlist_tracks"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlists"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_library"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Dropping Serato table:  "serato_playlist_tracks"
+Debug [Main]: Dropping Serato table:  "serato_playlists"
+Debug [Main]: Dropping Serato table:  "serato_library"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: 622 ms deleting RecordingManager
+Debug [Main]: Delete RecordingManager
+Debug [Main]: 622 ms deleting BroadcastManager
+Debug [Main]: DlgPrefBroadcast - broadcastEnabledChanged() 0
+Debug [Main]: 622 ms deleting EngineMaster
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3" in internal collection
+Debug [Main]: TrackDAO: Saving track 74587 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3)
+Debug [Main]: TrackDAO: Updating track in database 74587 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Above & Beyond - On Meditation - Live Improvisation To Elena Brower's Talk [1070307283].mp3)
+Debug [Main]: BaseTrackCache(0x560c0b813620) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackCollectionManager - Saving track "/home/marc/Music/hate154-snippet.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Kinderparadies - live at ZeTeCo Lounge-couchsofa_couchsofa-kinderparadies-live-at-zeteco-lounge.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/home/marc/Music/versiffteMusik/Tim Tama -  Alignment [BLVCKPLVG005] [hUsjfjNmAcI].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" in internal collection
+Debug [Main]: 835 ms deleting DlgPreferences
+Debug [Main]: 839 ms deleting EffectsManager
+Debug [Main]: 850 ms detaching all track collections
+Info [Main]: TrackCollectionManager - Stopping library scanner thread
+Debug [LibraryScanner 1]: LibraryScanner - Event loop stopped
+Warning [LibraryScanner 1]: QSqlDatabasePrivate::removeDatabase: connection 'MIXXX-2' is still in use, all queries will cease to work.
+Debug [LibraryScanner 1]: LibraryScanner - Exiting thread
+Info [Main]: TrackCollectionManager - Stopped library scanner thread
+Debug [Main]: ~TrackDAO()
+Info [Main]: TrackCollection - Disconnecting track source
+Info [Main]: TrackCollection - Disconnecting database
+Debug [Main]: TrackDAO::finish()
+Debug [Main]: Clearing played information for this session
+Debug [Main]: Cleaning LibraryHashes/track_locations tables.
+Info [Main]: GlobalTrackCache - Destroying instance
+Debug [Main]: ~TrackDAO()
+Debug [Main]: 869 ms closing database connection(s)
+Debug [Main]: 871 ms deleting SettingsManager
+Debug [Main]: Mixxx shutdown complete with code 0

@@ -1,0 +1,67 @@
+<!DOCTYPE SamplerBank>
+<samplerbank>
+ <sampler group="[Sampler1]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" group="[Sampler2]"/>
+ <sampler location="/home/marc/Music/hate154-snippet.mp3" group="[Sampler3]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" group="[Sampler4]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3" group="[Sampler5]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler6]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler7]"/>
+ <sampler location="/home/marc/Music/versiffteMusik/Tim Tama -  Alignment [BLVCKPLVG005] [hUsjfjNmAcI].mp3" group="[Sampler8]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Kinderparadies - live at ZeTeCo Lounge-couchsofa_couchsofa-kinderparadies-live-at-zeteco-lounge.mp3" group="[Sampler9]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" group="[Sampler10]"/>
+ <sampler location="/home/marc/Music/hate154-snippet.mp3" group="[Sampler11]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" group="[Sampler12]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3" group="[Sampler13]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler14]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler15]"/>
+ <sampler location="/home/marc/Music/versiffteMusik/Tim Tama -  Alignment [BLVCKPLVG005] [hUsjfjNmAcI].mp3" group="[Sampler16]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" group="[Sampler17]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" group="[Sampler18]"/>
+ <sampler location="/home/marc/Music/hate154-snippet.mp3" group="[Sampler19]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" group="[Sampler20]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3" group="[Sampler21]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler22]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler23]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" group="[Sampler24]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Kinderparadies - live at ZeTeCo Lounge-couchsofa_couchsofa-kinderparadies-live-at-zeteco-lounge.mp3" group="[Sampler25]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" group="[Sampler26]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" group="[Sampler27]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3" group="[Sampler28]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3" group="[Sampler29]"/>
+ <sampler location="/home/marc/Music/versiffteMusik/Tim Tama -  Alignment [BLVCKPLVG005] [hUsjfjNmAcI].mp3" group="[Sampler30]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" group="[Sampler31]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" group="[Sampler32]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" group="[Sampler33]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" group="[Sampler34]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" group="[Sampler35]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3" group="[Sampler36]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3" group="[Sampler37]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" group="[Sampler38]"/>
+ <sampler location="/home/marc/Music/versiffteMusik/Tim Tama -  Alignment [BLVCKPLVG005] [hUsjfjNmAcI].mp3" group="[Sampler39]"/>
+ <sampler location="/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" group="[Sampler40]"/>
+ <sampler group="[Sampler41]"/>
+ <sampler group="[Sampler42]"/>
+ <sampler group="[Sampler43]"/>
+ <sampler group="[Sampler44]"/>
+ <sampler group="[Sampler45]"/>
+ <sampler group="[Sampler46]"/>
+ <sampler group="[Sampler47]"/>
+ <sampler group="[Sampler48]"/>
+ <sampler group="[Sampler49]"/>
+ <sampler group="[Sampler50]"/>
+ <sampler group="[Sampler51]"/>
+ <sampler group="[Sampler52]"/>
+ <sampler group="[Sampler53]"/>
+ <sampler group="[Sampler54]"/>
+ <sampler group="[Sampler55]"/>
+ <sampler group="[Sampler56]"/>
+ <sampler group="[Sampler57]"/>
+ <sampler group="[Sampler58]"/>
+ <sampler group="[Sampler59]"/>
+ <sampler group="[Sampler60]"/>
+ <sampler group="[Sampler61]"/>
+ <sampler group="[Sampler62]"/>
+ <sampler group="[Sampler63]"/>
+ <sampler group="[Sampler64]"/>
+</samplerbank>
