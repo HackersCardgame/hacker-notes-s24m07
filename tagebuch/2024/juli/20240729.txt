@@ -95,10 +95,27 @@ Mon Jul 29 06:25:13 AM CEST 2024
 Mon Jul 29 09:42:16 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL
+
 unaufgeforderte übermittlung:
 herr urs blum hat dem Hapte A. vor dem Amoklauf eine Stille SMS/Anruf geschickt um bei Hapte A. ICD10 G40.2 zu aktivieren
 
 => da wären die genauen SS7 Spezifikationen interessant
+
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m07$ 
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Mon Jul 29 09:43:01 AM CEST 2024
