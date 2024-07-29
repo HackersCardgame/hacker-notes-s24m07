@@ -144,12 +144,24 @@ marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
                                      
 =============================================
 Somit HYPOTHESE:
- Philipp Lüschers Master-Arbeit ist dazu da
+ Philipp Lüschers Master-Arbeit [T] ist dazu da
  einen Massen-Suizid oder Massen-Amoklauf
  unter den Sklaven aktivieren zu können
 =============================================
 -> somit wäre Fr. Dr. Kathrin Horton keine Spinnerin
    sondern wir hätten bis 2025 3 Mio tote Schweizer Sklaven
+
+(und falls dem so wäre hätte die CH-Army da vermutlich malware drein gepackt)   
+[T] hacker-notes-s24m07/cyberWar/2009-msthLuescher.pdf 
+(und falls dem so wäre hätte die CH-Army da vermutlich malware drein gepackt)
+
+Master Thesis in Computer Science: Applying Ant Colony Optimization Methods in an Artificial Chemistry
+Context to Routing Problems  Philip Lüscher 
+>> Departement << Informatik
+Universität Basel 16. January 2009
+Supervisors : > Lidia Yamamoto (Sündenbock?) < Thomas Meyer Christian Tschudin
+
+
 
 marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL
  ___ _   _ _____ _____ ____  ____   ___  _     
