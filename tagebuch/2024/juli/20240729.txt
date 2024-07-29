@@ -161,7 +161,7 @@ Context to Routing Problems  Philip Lüscher
 Universität Basel 16. January 2009
 Supervisors : > Lidia Yamamoto (Sündenbock?) < Thomas Meyer Christian Tschudin
 
-
+kann man das verifizieren muss man dann VERMUTLICH davon ausgehen dass Herr Philipp Lüscher ca 1997 die 3 ABB Administratoren vorsätzlich in die Lavine gesteuert hat und deshalb selber als einziger überlebender da raus gekommen ist
 
 marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL
  ___ _   _ _____ _____ ____  ____   ___  _     
