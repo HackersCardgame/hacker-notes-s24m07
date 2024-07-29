@@ -121,7 +121,9 @@ marc@debian:~/hacker-notes-s24m07$
 Mon Jul 29 09:43:01 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-und da das bei mir das erste mal in blums haus ausgelöst wurde, und ich damals noch kein smartphoe sondern ein nokia handy hatte und urs blum damals schon informatiker war hätte er das ausgelöst über das handy
+und da das bei mir das erste mal in blums haus ausgelöst wurde, und ich damals noch kein smartphoe sondern ein nokia handy hatte und urs blum damals schon informatiker war hätte er das ausgelöst über das handy und das wäre allenfalls schon damals eher in der hardware als im "betriebssystem" bzw. damals wäre es eher eine handy firmware gewesen.
+
+Detailliertes Disassembly des SS7 Protoklls und dieser spezifsichen Funktion wäre wünschenswert
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Mon Jul 29 09:45:41 AM CEST 2024
