@@ -57,4 +57,59 @@ dann philipp lüshcers master arbeit ist mit ameisen, und die ameise war das log
 Tue Jul 30 10:35:29 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Jul 30 10:47:25 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+marc@debian:~/hacker-notes-s24m07$ figlet Entwicklungs Psychologie
+ _____       _            _      _    _                       
+| ____|_ __ | |___      _(_) ___| | _| |_   _ _ __   __ _ ___ 
+|  _| | '_ \| __\ \ /\ / / |/ __| |/ / | | | | '_ \ / _` / __|
+| |___| | | | |_ \ V  V /| | (__|   <| | |_| | | | | (_| \__ \
+|_____|_| |_|\__| \_/\_/ |_|\___|_|\_\_|\__,_|_| |_|\__, |___/
+                                                    |___/     
+ ____                 _           _             _      
+|  _ \ ___ _   _  ___| |__   ___ | | ___   __ _(_) ___ 
+| |_) / __| | | |/ __| '_ \ / _ \| |/ _ \ / _` | |/ _ \
+|  __/\__ \ |_| | (__| | | | (_) | | (_) | (_| | |  __/
+|_|   |___/\__, |\___|_| |_|\___/|_|\___/ \__, |_|\___|
+           |___/                          |___/        
+marc@debian:~/hacker-notes-s24m07$ 
+
+als ich etwa 10 jahre alt war hat mir mein onkel Arthur Landolt ein Zippo Feuerteug geschenkt (er hatte einen tabak laden in biel)
+
+bei uns in küttigen hatte es so eine einzelne steinplatte, da haben sich rote ameisen drunter eingenistet. Ich hab dann die platte weg genommen den ameisen zugeschaut.
+
+dann hat mich aber eine gebrannt und ich hab mit dem zippo benzin die ameisen verbrannt deswegen
+-> jeder der auto fährt soll jetzt bitte nicht einen auf richter und henker machen wollen, denn wer auto fährt hat ein tausendfaches mehr von kriech flieg tieren auf dem gewissen. ist eigentlich entwicklungs-psychologie
+
+FRAGE 1:
+wie generalisiert das gehirn von einem kind von einem roten ameise die angriffig ist auf alle roten ameisen
+
+FRAGE 2:
+dann wäre eine weitere frage ob damals schon abrichtung mit mir geschehen ist, wie da als unsere sogenannte mutter uns die plastik windeln zum spielen gegeben hat, und man dann logischerweise auf den genitalbereich fokussiert ob es damals in meinem gehirn schon so etwas wie ...
+
+CPU Brain-Register gab
+(also so wie das "Benutze XYZ mit ABC" in z.B. Monkey Island)
+
+und da müsste man CPU Brain-Flag-Register von CPU Brain-Registern unterscheiden, ein Flag Register hat einzelne bits, ein Register selber hat ein byte oder word, also so zu sagen ein ganzes objekt
+
+dann wäre nach dem eine der ameiesn mich gebrannt hat auch das Kämpfen-Bit im Brain-CPU-Flag-Register aktiviert gewesen (Schmerzen)
+-> somit wäre das mit der steinplatte die optisch überhupat nihct dort hin passte, und auch aus logishcen gründen nicht dort hin gehörte vorgelegt gewesen wie die windeln
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Jul 30 10:55:32 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+
+
+
+
+
+
+
+
 
