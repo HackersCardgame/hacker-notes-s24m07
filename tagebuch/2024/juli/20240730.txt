@@ -11,6 +11,14 @@ Fall Ausländer-Hass durch Adjutant Remo Huggler aufgeklärt:
 
 3. schlussendlich sollen vermutlcih auch die 1980er Offiziere vernichtet werden, denn die älteren Offiziere wüssten, dass jüngere sportlichere Offiziere ihnen dann irgendwann den Rang ablaufen würden =>
 
+marc@debian:~$ figlet UN
+ _   _ _   _ 
+| | | | \ | |
+| | | |  \| |
+| |_| | |\  |
+ \___/|_| \_|
+             
+
 ==========================================================================
 ==========================================================================
   VERNICHTUNG ALLER JÜNGEREN OFFIZIERE DURCH DIE ALTEN OFFIZIERE GEPLANT
@@ -29,13 +37,7 @@ marc@debian:~$ figlet INTERPOL
  | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
 |___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
                                                
-marc@debian:~$ figlet UN
- _   _ _   _ 
-| | | | \ | |
-| | | |  \| |
-| |_| | |\  |
- \___/|_| \_|
-             
+
 marc@debian:~$ figlet FEDPOL
  _____ _____ ____  ____   ___  _     
 |  ___| ____|  _ \|  _ \ / _ \| |    
