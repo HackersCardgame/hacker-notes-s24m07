@@ -72,4 +72,7 @@ die ch-army verwendet das Medulla Spinalis Neuralink allenfalls nur selten und k
 [LOCK] [UB] <- wird jetzt scheinbar immer als doppel schachzug missbraucht -> dann grad jeweils einen git push machen
 
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 31 12:05:12 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
