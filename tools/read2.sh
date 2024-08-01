@@ -14,7 +14,7 @@ for sentence in "${sentences[@]}"
 	echo "$sentence".
 	echo
 
-	speak-ng -v de -s 299 "$sentence"
+	speak-ng -v de -s 399 "$sentence"
 
 	#sleep 1
 	
