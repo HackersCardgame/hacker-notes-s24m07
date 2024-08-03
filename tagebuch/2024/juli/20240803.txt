@@ -14,3 +14,6 @@ Vignoble = Sammelstelle / Schmiergeldzahlungen für den Aufbau und Betrieb von T
 
 TX:
 Fussball = Sabotage-Training vor Allem gegen Frauen
+
+
+automatisches ownen von beriebssystemen, dann zeigt er für den deppen vor ort einfach das passwort am bildschirm an
