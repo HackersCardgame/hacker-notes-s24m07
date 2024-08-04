@@ -75,3 +75,17 @@ dann wird auch jeweils die firmware/software meines neuralinks ersetzt und dann 
 Sun Aug 4 06:01:57 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann grad noch 2 Dinge die mir durch den Kopf gehen:
+Sonntag ca 16:00 wäre die Fishing Crusade (gemäss To protect and infect, part 2 talk am CCC Congress von Jake Appelbaum) der Militärs durch, dann wird jeweils neue software / firmware bzw. sabotage software / sabotage firmware auf mein neuralink drauf geladen für den Wochenstart
+
+
+dann zum Dokument 20240804b.txt Zeile (Schreibschutz-Schlater USB Stick) [1] da allenfalls mal fragen ob jemand genau weiss wie das im detail mit der firmware für die Northbridge geht wo USB darn ist, da würden einfach die USB Write Pakete von der Firmware der Northbridge abgefangen und/oder als Schreibgeschützt melden?
+
+
+[1] prono-fehlalarm-stöhn-taube hat jetzt grad eingeschaltet um mich abzulenken
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 06:14:25 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
