@@ -73,4 +73,6 @@ diese dinge wären vermutlich primär um meine psyche zu destabiliseren, da wär
 Sun Aug 4 06:23:43 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+automated directory traversal rückhaltebefehl vorleger algorithmus um möglschst das ausziehen des sticks heraus zu zögern
+-> also da muss ich ncoh lernen mich weniger von Neuralink beeinflussen zu lassen, und z.B dann wenn cd /mnt/stick/blah gemacht habe nach ende des tasks grad wieder cd ~ zu tippen
 
