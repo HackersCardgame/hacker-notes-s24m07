@@ -33,3 +33,20 @@ marc@debian:~$ figlet Further RESEARCH required -w 400
 Sun Aug 4 05:17:46 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+also normaler ablauf bei mir wäre
+
+1. Schreibschutz-Schalter ausschalten
+2. backup drauf kopieren
+3. unmounten
+4. ausstecken
+5. schreibschutz-schlater einschalten
+6. weglegen
+
+bei 4 (eventtrigger beim ausstecken solch eines sticks) würde bei mir wieder induzierte Temporal-Lappen-Epilepsie (ICD10 G40.2) eingeschaltet, urs blum und co würden wieder mit sprengfallen drohen, ich würde sowieso psychotisch und würde den schreibschutz-schalter nicht einschalten
+
+dann wenn man da sowieso nicht mehr drauf schreiben kann spielte es auch nciht so eine hohe priortät, was nebenläufig noch einfluss auf mich verübt das mit dem schreibschutz weniger exakt zu nehmen
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 05:23:45 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
