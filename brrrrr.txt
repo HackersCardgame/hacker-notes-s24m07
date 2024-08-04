@@ -1,0 +1,3 @@
+allow-hotswap brrrr0
+iface brrrr0 inet dhcp
+
