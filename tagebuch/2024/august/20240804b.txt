@@ -1,0 +1,35 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 04:55:47 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+urs blum sein terrornetzwerk bestehen aus offistiren möchte jetzt die letzten zwei tagebuch einträge spammen weil das konzept das hauptkonzpet [Microsoft: der zürich versichrung] ist um morde zu vertuschen. Urs Blum verrät die Microsoft, dass ein grosser teil des business von microsoft die bereitstellung von Zensur-Software und Funktionien ist für z.B. Konzerne wie die Zürich Verischrung
+
+Action recognition: bei windows 11 ging das kopieren nicht mehr mit gui, also habe ich robocopy im cmd.exe verwendet, das wurde jetzt scheinbar auch zur zensur software umfunktionert was sticks indexiert und beweismittel löscht. nach dem start waren von 2GB freiem speicher plötzlich wieder 5gb frei
+
+urs blum verrät immer andere natürlcihe oder jursistische personen um diese dazu zu zwingen marc jr landolt anzugreifen, urs blum steht somit in einer machtposition gegenüber microsoft, somit muss davon ausgegangen werden, dass die Zürich verischrung bzw. die offiziere im umfeld der Pfadfinderabteilung adler aarau z.b . in den hauptsitezen der microsoft sprengfallen hat welche sie zünden kann
+
+dann die sprengfallen-thematik benutzt urs blum praktisch immer dann, wenn erwas so wichtiges wie in den letzten 2 txt dokumenten zensiert bzw. gespammt und weggesprengt werden muss
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 04:58:23 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+dann habe ich jetzt vermutlich das puzzle um den Schreibschutz auf dem Chinesischen USB Stick mit Schreibschutz-Schalter gelöst, VERMUTLICH
+
+
+da würde nur vom Windows bzw. allenfalls auch von der Intel Hardware software mässig der schreibschutz aktiviert, dann haben die aber auch auf mein Neuralink zugriff, und ich hab dann dort den Schreibschutz-Schlater nicht wieder auf Schreibschützt geschlatet und diesen stick mal bei seite gelegt.
+
+den Schreibschutzschlater am stick kann man gemäss meiner expertise als informatiker HF nciht aushebeln, weil der direkt zum Write-Enable des Speicher-Chips geht, ABER wenn ich jetzt nicht darauf geachtet hätte, dass der schreibschutz eingeschaltet ist, und ich hätte den vermeidlich kaputten usb stick mit offenem schreibschutz-schalter eingeschaltet, dann wäre der stick nur software mässig schreibgeschützt und die könnten dann mit military grad backdoors die daten dort trotzdem drab löscher 
+
+marc@debian:~$ figlet Further RESEARCH required -w 400
+ _____           _   _                 ____  _____ ____  _____    _    ____   ____ _   _                        _              _ 
+|  ___|   _ _ __| |_| |__   ___ _ __  |  _ \| ____/ ___|| ____|  / \  |  _ \ / ___| | | |  _ __ ___  __ _ _   _(_)_ __ ___  __| |
+| |_ | | | | '__| __| '_ \ / _ \ '__| | |_) |  _| \___ \|  _|   / _ \ | |_) | |   | |_| | | '__/ _ \/ _` | | | | | '__/ _ \/ _` |
+|  _|| |_| | |  | |_| | | |  __/ |    |  _ <| |___ ___) | |___ / ___ \|  _ <| |___|  _  | | | |  __/ (_| | |_| | | | |  __/ (_| |
+|_|   \__,_|_|   \__|_| |_|\___|_|    |_| \_\_____|____/|_____/_/   \_\_| \_\\____|_| |_| |_|  \___|\__, |\__,_|_|_|  \___|\__,_|
+                                                                                                       |_|                       
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 05:17:46 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
