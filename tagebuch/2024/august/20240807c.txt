@@ -10,3 +10,14 @@ Aber die übernahme meiner Körper-Telemetrie ist so programmiert, dass mit eine
 Wed Aug 7 03:34:41 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+Berechnung in Mengen-Lehre / System Dynamics...
+
+Wenn jetzt die Schweizer Armee so einen kurzen Zugriff (sagen wir mal [0.3] sekunden) bei 100'000 Autolenkern gleichzeitig macht (braucht bandbreite, deshalb vermutlich deren Glas-Fasernetzwerk) wieviele der 100'000 Autolenker würden so von der CHG-Army ermordet werden?
+
+dann müsste eine software den rihctigen Zeitpunkt vorausberechnen ... <- ich: denke das ist falsch, wären modulare design pattern ...
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 7 03:39:40 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
