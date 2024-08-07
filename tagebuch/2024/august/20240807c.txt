@@ -21,3 +21,11 @@ dann müsste eine software den rihctigen Zeitpunkt vorausberechnen ... <- ich: d
 Wed Aug 7 03:39:40 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann berühre ich eine stelle die mit bioterrorismus infiziert worden sein könnte, zB. 1cm² am Arm wird die Zone automatisch grösser und grösser bis ca nach 5 Sekunden der ganze arm als "hätte könnte infiziert sein" eingeblendet wird
+
+das sind somit 3D Algorithmen, so etwas wie gradient descent, was sich aber nicht von einer stelle in das tiefste tal vorarbeitet sondern die fläche vergrössert -> und ja vermutlcih gibt es bessere beispiele als gradient descent, aber da gibt es mindestens schöne animierte gif's dazu fürs verständnis
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 7 03:49:58 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
