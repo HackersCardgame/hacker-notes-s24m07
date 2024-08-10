@@ -128,3 +128,4 @@ echo "printer installieren"
 echo ""
 echo "printer installieren"
 echo ""
+apt-get install pavucontrol
