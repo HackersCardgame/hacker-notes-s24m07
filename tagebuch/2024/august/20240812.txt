@@ -64,3 +64,56 @@ und nur ein kleiner Fehler ist schon super doof, denn als skalven wie ich müsse
 Mon Aug 12 06:39:05 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+könnten wir noch rasch als Domain Model bzw. Java-Pseudo-Code schreiben
+
+
+bis 2024-08-01
+
+TOPSECRET abstract class sabotage
+{
+
+  public timeline T;
+  public subTask S;
+  public sabotage s;
+
+
+  fn main() {
+    for i in subTasks
+    {
+      S.add(s);
+    }
+    
+}
+
+
+
+AB 2024-08-01
+
+TOPSECRET abstract class sabotage
+{
+
+  public timeline T;
+  public subTask S;
+  public sabotage s;
+
+  fn main()
+  {
+
+    X = selbstVerschulden_vorlegen_in_nicht_cyber_kriegs_zeit();    // das wäre dann auch weider ein Indiz für einen Uptime von 100.00%
+  
+    for i in subTasks
+    {
+      s += "und schuld bist Du SELBER wegen X";
+      S.add(s);
+    }    
+  }
+    
+}
+
+
+
+
+
+
+
+
