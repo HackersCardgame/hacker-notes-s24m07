@@ -27,3 +27,16 @@ ihc: auch wenn urs blum jetzt so tut als wären wir im selben team wie urs blum,
 Wed Aug 14 08:06:02 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:15:51 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+dann nicht klar ob bei galaxus.ch selber oder hacked, aber ich VERMUTE die Militärs haben ein Team, was lieferbarkeit von Produkten grad on the fly ändert, dass ich nur infiziere produkte bestellen könnte
+
+UNBEKANNT:
+bzw. nur das teuerste chieftec netzteil ist verfügbar, das geht nur um GEWINN <- ich: alles oben darn, all die morde auf gier umverdrahten um so mord zu verschleiern?
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:16:29 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
