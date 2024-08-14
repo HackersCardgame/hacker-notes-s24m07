@@ -42,3 +42,9 @@ und man soll ja aussagen belegen: Screenshot from 2024-08-14 08-18-19.png
 Wed Aug 14 08:16:29 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann scheint es einen expliziten offizier zu haben der dafür sorgen soll, dass ich nciht redundant bin mit PC-Netzteilen, also dass ich kein reservenetzteil zuhause habe
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:25:32 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
