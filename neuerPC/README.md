@@ -69,4 +69,22 @@ Wed Aug 14 08:39:52 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:42:33 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Unbekannt:
+
+Der induzierte Amoklauf von Michael Boeringer in Aarau welcher von Schweizer Psychiatrie behandelt / abgerichtet wurde wurde ausgeschlichen mit dem nachfolgenden induzierten amoklauf von Hapte A. der auch in Aarau gearbeitet hat
+
+mit hoher wahrscheinlichkeit waren beide Fälle die selbe Täterschaft
+
+=> Pivot Elemente / Schnittmengen Personen Netzwerke berechenen
+
+ich: dann ist nur salop und nicht imperativ, ich will kein kleiner schweizer Hitler sein
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:44:27 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
