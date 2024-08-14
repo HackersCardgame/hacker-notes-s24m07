@@ -53,3 +53,12 @@ vergewaltugnsandrohung und ich bin jetzt schon wieder 50% suziidal
 implantat rechte wange + Sprachsample auf FTT verlinkt von dr. Calambos: Orfiril
 -> die ch army zwingt die psychiater solche implantate zu verassen und verrät diese dann aber auch um sich selber auszuschleich3en?
 
+
+also das "lasst es aussehen dass es nur um gier und profit geht" ist eine exit strateige der auftragskiller mit offizierstitel der CH-Army
+
+dann aktivierung der suizidalität bei marc jr landolt welche durhc die Offiziers-Familie Blum ankonditioniert wurde grad danach, so würde man dann nur gegen die psyhicdatrie und einen gierigen menschen bei galaxus.ch ermitteln, aber nciht gegen das terrornetzwerk "Schweizer Armee"
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:31:46 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
