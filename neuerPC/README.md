@@ -21,6 +21,8 @@ Unaufgeforderte Übermittlung:
 
 Urs Blum schaltet alle rangtieferen Täter / Offiziere in den Beissreflex mit induziertem ICD10 G40.2 weil diese Täter können nicht zur Polizei oder Spital gehen und sagen dass G40.2 aktiviert wurde, weil dann wird urs blum sämtliche beweismittel zu den taten an claudien blum und marc jr landolt leaken => sprich mindestens 5 Jahren haft für jeden
 
+ihc: auch wenn urs blum jetzt so tut als wären wir im selben team wie urs blum, ich kann zwar nicht für aquila-claudien reden, aber ich bin sicher nciht im selben team wie urs blum
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Wed Aug 14 08:06:02 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
