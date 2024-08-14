@@ -62,3 +62,11 @@ dann aktivierung der suizidalität bei marc jr landolt welche durhc die Offizier
 Wed Aug 14 08:31:46 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+also urs blums zensoren Team ist massivst psychotisch wenn sie keinen zugriff auf Informatik-Mittel von Zeugen, Opfern und Autisten hat. also sobald sie nich an etwas dran können und das mit Cyber-sprengfallen oder BioWaffen infizieren können werden die agressiv und vermutlich wird deren ICD10 G40.2-Beissreflex (wirst case automated) aktiveirt
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:39:52 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
