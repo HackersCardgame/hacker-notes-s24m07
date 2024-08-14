@@ -48,3 +48,8 @@ dann scheint es einen expliziten offizier zu haben der dafür sorgen soll, dass 
 Wed Aug 14 08:25:32 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+vergewaltugnsandrohung und ich bin jetzt schon wieder 50% suziidal
+
+implantat rechte wange + Sprachsample auf FTT verlinkt von dr. Calambos: Orfiril
+-> die ch army zwingt die psychiater solche implantate zu verassen und verrät diese dann aber auch um sich selber auszuschleich3en?
+
