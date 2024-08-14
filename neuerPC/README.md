@@ -36,6 +36,8 @@ dann nicht klar ob bei galaxus.ch selber oder hacked, aber ich VERMUTE die Milit
 UNBEKANNT:
 bzw. nur das teuerste chieftec netzteil ist verfügbar, das geht nur um GEWINN <- ich: alles oben darn, all die morde auf gier umverdrahten um so mord zu verschleiern?
 
+und man soll ja aussagen belegen: Screenshot from 2024-08-14 08-18-19.png
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Wed Aug 14 08:16:29 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
