@@ -13,4 +13,15 @@ für solche Leute ist das infizieren von wichtingen zeugen oder auch autisten zw
 also Täter die mit Mord in Verbindung stehen haben mit hoher wahrscheinlichkeit sämtliche Elektronik von Zeugen mit Malware oder sogar Biowaffen zu infizieren
 
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:04:42 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Unaufgeforderte Übermittlung:
+
+Urs Blum schaltet alle rangtieferen Täter / Offiziere in den Beissreflex mit induziertem ICD10 G40.2 weil diese Täter können nicht zur Polizei oder Spital gehen und sagen dass G40.2 aktiviert wurde, weil dann wird urs blum sämtliche beweismittel zu den taten an claudien blum und marc jr landolt leaken => sprich mindestens 5 Jahren haft für jeden
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 14 08:06:02 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
