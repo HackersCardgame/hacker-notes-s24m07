@@ -129,3 +129,4 @@ echo ""
 echo "printer installieren"
 echo ""
 apt-get install pavucontrol
+usermod -aG libvirt marc
