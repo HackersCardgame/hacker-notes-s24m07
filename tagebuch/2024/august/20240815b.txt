@@ -140,6 +140,14 @@ Thu Aug 15 11:54:26 AM CEST 2024
 Thu Aug 15 12:03:47 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+marc@debian:~/hacker-notes-s24m07/tagebuch/2024$ figlet KONZEPTWISSEN : -w200
+ _  _____  _   _ __________ ____ _______        _____ ____ ____  _____ _   _     
+| |/ / _ \| \ | |__  / ____|  _ \_   _\ \      / /_ _/ ___/ ___|| ____| \ | |  _ 
+| ' / | | |  \| | / /|  _| | |_) || |  \ \ /\ / / | |\___ \___ \|  _| |  \| | (_)
+| . \ |_| | |\  |/ /_| |___|  __/ | |   \ V  V /  | | ___) |__) | |___| |\  |  _ 
+|_|\_\___/|_| \_/____|_____|_|    |_|    \_/\_/  |___|____/____/|_____|_| \_| (_)
+
+
 also das standart design pattern der Zürich Versichrung um einen Zeugen zu ermorden der Kunden der zürihc verischrung mit mord in verbindung birngen kann wäre
 
 1. ICD10 G40.2 aktivieren
@@ -150,6 +158,8 @@ also das standart design pattern der Zürich Versichrung um einen Zeugen zu ermo
 bzw. noch wichtiger wäre das mit den Medizin und Spital-Netzwerken welche von der CH-Army gehackt werden, damit sie ärzte davon abhalten können zuegne welche die CH-Army die sich hinter der zürich versicherung versteckt zu retten
 
 wo ich erst ein paar indizien / puzzleteile dazu habe
+
+[DELETED] so zieht urs blum, Pfisterer und astrid blum den fokus auf die nachbarn und schleihcen sich aus, und so oder so sind die nachbarn dann 7 jahre in der erpresserdatenbank der zürich versichrung wegen mordvertuschung oder Beihilfe zu versuchtem mord
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Thu Aug 15 12:06:35 PM CEST 2024
