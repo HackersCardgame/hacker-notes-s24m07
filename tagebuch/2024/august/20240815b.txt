@@ -198,6 +198,10 @@ p3: die Eltern von Lucien Guingart (hören Sagen) musste von Aarau weg zeiehen
 
 p1 + p2 => p3
 
+p4: einige Ärzte nennen Pfisterer den Kaiser von Aarau
+
+p3 + p4 => p5
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Thu Aug 15 03:12:43 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
