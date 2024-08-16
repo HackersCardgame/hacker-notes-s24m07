@@ -38,3 +38,39 @@ dann all die Täter die helfen zu vertuschen und helfen marc jr landolt davon ab
 Fri Aug 16 01:49:31 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+TODO:
+
+Die Oberschicht oder diese Sorte von Oberschickt würde es als Spiel schön reden, aber defacto unterwandert die Oberschicht seit jahrzehnten systematisch die Polizei und Justiz
+
+ _  __    _    ____   ___  
+| |/ /   / \  |  _ \ / _ \ 
+| ' /   / _ \ | |_) | | | |
+| . \  / ___ \|  __/| |_| |
+|_|\_\/_/   \_\_|    \___/ 
+                           
+
+
+
+Wichtig ist es Amtspersonen bereits in der Ausbildung darauf hinzuweisen denen nicht in die Falle zu laufen, sowohl auf GemeindeEbene, als auch auf KantonsEbene, als auch auf BundesEbene
+
+marc@debian:~/hacker-notes-s24m07/tagebuch/2024$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m07/tagebuch/2024$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s24m07/tagebuch/2024$ 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Fri Aug 16 02:01:35 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
