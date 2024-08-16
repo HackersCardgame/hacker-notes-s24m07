@@ -13,7 +13,7 @@ ABER ganz selten hat es auch nützliche übermittlungen wie:
 
 "Ich sollte meinen Nichten das Beispiel mit dem ITERATIVEN Prisoners Dilemma welches im Nash Equilibrium zu Gunsten der Wahrheit ausfällt, bzw. Abklingfunktion im Kontext des 8. Gebots 'Du sollst nicht lügen' erklären"
 
--> bzw. diese notiz wäre allenfalls auch etwas was z.B. Entwicklungs-Psychologinnen ins Bildungssystem einspeisen könnten, ABER selbst Minkorrekt hat so ein bisschen mühe das Nash-Equilibrium so zu erklären, dass man es versteht, da müsste man vermutlich eine Kindergerechte Grafik oder Animation dazu machen...
+-> bzw. diese notiz wäre allenfalls auch etwas was z.B. Entwicklungs-Psycholog/innen ins Bildungssystem einspeisen könnten, ABER selbst Minkorrekt hat so ein bisschen mühe das Nash-Equilibrium so zu erklären, dass man es versteht, da müsste man vermutlich eine Kindergerechte Grafik oder Animation dazu machen...
 
 
 
