@@ -20,6 +20,11 @@ Ich hab sogar im KSA selber gefragt, ob ich mit dem Arzt reden darf, weil  > > >
 
 Meine Notizen auch zur Möglichen Versäuchung von Julians Kinder im Verzeichnis ~/hacker-notes-s24m07/medical/juliansKinderCT_MRI
 
+
+[DELETED] das ist Medizin, Mathematik / Crypto, Funk Elektrnik, Elektronik, Informatik udn Psychologie ...
+
+... und das muss ja nicht zwingend im Schädel sein, wenn man das Konzept von SIGSALY (ca 1960) nimmt und berechnet was die Kanal Bandbreite des Medulla Spinalis Rückenmark Leitung ist, dann kann man berechnen dass man mit 80 Implantaten möglicherweise verteilt im ganzen körper auch einen audiokanal hin bekommt, FFT, 8kHz zu 80x 10Hz (rückenmarkleitung Bandbreite BAUD)
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Sun Aug 18 12:56:06 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
