@@ -1,0 +1,14 @@
+
+Dann bin ich scheinbar in diesem Spiel (was kein Spiel mehr ist) wieder so weit, dass ich meinen Computer-/Server-Raum versiegeln muss.
+
+Ja ich könnte irgend ein ENC-FS installieren, Ja ich könnte ein BIOS-Passwort setzen, ja ich könnte den Alarm einrichten wenn das Gehäuse geöffnet wurde, aber ich mag eher so physikalisch gesichtert. Da geht es mir gar nicht drum das jemand hätte-könnte-da-dran-gehen, sondern eher so um Beweisführung FALLS da jemand dran war.
+
+Meist nur Psychologische Kriegsführung, und die Militärs haben sowieso in allen Computer irgenwelche Hardware-Backdoors, deshalb interessiert mich Risc-V oder ein Risc-V mit einem ASIC selber gemacht und z.B. die Memory Management Engine noch in einen Arduion oder Raspi ausgelagert, Custom (Bild Jake)
+
+Somit Siegel-Lack an die Tür des Computer-Raums wenn ich gehe.
+
+* Spröder Siegel-Lack der schnell bricht
+* mit dem Heissluft-Föhn mehrere Farben vermischen zu einem Brocken
+* dann so einen Faden ziehen
+
+Der Faden hat Verjüngungen und Knubbel, selbst wenn das Handy mit dem Foto gehackt würde, Skizze in der Tasche reicht, mit der Skizze erinnert sich das Gehirn auch daran ob es korrekt ist.
