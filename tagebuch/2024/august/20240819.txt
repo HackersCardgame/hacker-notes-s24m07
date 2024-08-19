@@ -57,4 +57,9 @@ das [FORK] wirkt wie jemand der sich mit dem Manipulieren von [eeg readout dann 
 Mon Aug 19 06:39:46 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-dann eigentlich technisch interessanter, ca. vor 30min hat es für jeden usecase in meiner wohnung (zB Kaffee Kochen) auf meinem Neuralink-HUD (augmenred reality) ein fenster eingeblendet mit eeg daten von mir und einem ac [LOCK]
+dann eigentlich technisch interessanter, ca. vor 30min hat es für jeden usecase in meiner wohnung (zB Kaffee Kochen) auf meinem Neuralink-HUD (augmenred reality) ein fenster eingeblendet mit eeg daten von mir und einem action [LOCK] recognition, in welcher reihenfolge ich was in die finger nehme beim kaffee machen eingeblendet
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Aug 19 06:45:07 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
