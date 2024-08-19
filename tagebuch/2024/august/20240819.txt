@@ -73,13 +73,14 @@ Zeitpunkt 2: die sehen im eeg wo sie an mich oder mein medulla spinalis mit ihre
 Zeitpunkt 3: ich halte die pfanne mit 2 händen dass 2. nicht mehr geht, ABER das EEG erkennt schon meine MITIGATION und macht dann etwas anderes mühsames
 
 ArrayList<sabotage objects für spezifischen task>
+         _______PATCH
+        /_ _ _ _______PATCH        
+       /_ _ _ _ _ _ _ _ _ _______
+------/_ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+      \ _ _ _ _ _ _ _ _ _ _ _ _ 
+       \_ _ _ _ _ _ _ _ _ _ _ _ 
 
-        /
-       /
--------
-
-
-
+Am computer das selbe, also das eeg adaptiert interaktiv auch meine Coping Strategien
 
 
 
