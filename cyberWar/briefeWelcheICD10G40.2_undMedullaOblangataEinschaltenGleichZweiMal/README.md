@@ -79,6 +79,12 @@ Tue Aug 20 06:23:53 AM CEST 2024
 
 also urs blum, die Zürcih Versichrung, die CH-Army rendert morddrohnungen auf auslandsendungen sobald das paket in den händen der schweizer ist ???
 
+dann wissen die dass da an den daten die parallel dazu laufen manipuliert wurde, wüssten dass ich psychotisch werde deswegen oder machen mich zuvor psychotisch, dann ist ein team von rachsüchtigen kokainsüchten auch schon auf der raumüberwachung, geltungssucht, rache, und irgend auch ein ödipus komplex wo deren vorgesetzter oder mami ihnen erlaubt illegale dinge mit dem neuralink- / waffentracking-Galsfaser netzwerk zu machen
+
+das neuralink- / waffentracking-Glasfaser netzwerk ist logischerweise auch am interantionalen post system angeschlossen "damit es die Bürger und zivilisten schütz" bzw. damit die armee unliebsame zeugen wie mich zer-cybern kann
+
+
+
 aber es müsste ein paket kein brief sein
 
 
