@@ -16,4 +16,6 @@ ich bin jetzt schon wieder an suizid gedanken dran, bzw. die aktivieren das grad
 
 suizid programmierung durch familie blum nach dem david utz und markus belser 3 Monate auf mich eingewirkt haben in einem kellerraum damit ich schon mal hilfsbedürftig bin und die blums mich dann retten oder "retten" können
 
+so ein brief verursacht dann bei mir wieder suizidalität bis ich weiss was es ist
+
 
