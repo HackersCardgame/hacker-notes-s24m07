@@ -97,6 +97,10 @@ also die spezifische Desing pattern für diesen miesne schachzug
 2. im Postsystem das ursprungsland löschen
 3. zeitgleich sobald man ins post.ch system schaut ICD10 G40.2 aktiviert wordne und leitung vom neuralink zur medulla oblangate
 4. rachsüchtige offiziere dazu geschaltet die sich so erhoffen den zeugen in den suizid treiben zu können
+5. vertrauen zu FEDPOL einreisen
+6. vertrauen zu claudine einressen
+7. ...
+
 
 
 
