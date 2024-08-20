@@ -86,9 +86,7 @@ das neuralink- / waffentracking-Glasfaser netzwerk ist logischerweise auch am in
 der drogensüchtiuge polziist markus belser hat bei der post im sortiertenrum gearbeitet, hatte dort sowieso zugriff auf die post informatik
 
 
-
 aber es müsste ein paket kein brief sein
 
-
-
+aliexpress pakete wären oft unterschit menschen und [LOCK]
 
