@@ -53,3 +53,13 @@ dann wird jetzt auch versucht meine sihcerheitsfunktionen am computer auszuhelbe
 Tue Aug 20 06:14:46 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+also die mörder kommen immer als Richter, Henkger, Polizisten oder Kläger daher, auch die Sendungsnummer
+
+LW1172080...
+
+117 ist die Polizei nummer in der schweiz
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Aug 20 06:16:03 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
