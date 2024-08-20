@@ -63,3 +63,14 @@ LW1172080...
 Tue Aug 20 06:16:03 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+
+dann wurde jetzt "aarival in destination coun try plötzlich sichtbar im Post system, oder dann war da selektive blindheit vorhin drauf eingeschaltet
+
+dann soll man ja aussagen belegen [1] (aber was shclecht geht wenn man schon psychotsich ist), aber das ist auf dem anderen [2] nciht drauf, auf dem anderen ist es ncith drauf 
+
+[1] Screenshot from 2024-08-20 06-19-20.png
+[2] Screenshot from 2024-08-20 05-50-17.png
+
+also dann wäre das eine aliexpress sendung, man hätte da an den postsystmenen rumgespielt, zusätlich psycholgosiche kriegsführung drauf getan damit es aussieht als hätte die CH army ncihts davor 
+
+
