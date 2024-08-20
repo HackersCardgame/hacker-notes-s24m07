@@ -47,3 +47,9 @@ GERNE AMTSHILFE DURCH INTERPOL, EUROPOL, FEDPOL
 Tue Aug 20 06:13:07 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann wird jetzt auch versucht meine sihcerheitsfunktionen am computer auszuhelbeln, und mich vom comtpuer weg zu steuern ohne die tastatur zu locken ... also um die beweiskette ungültig zu machen, hacked ist das ding ja von der hardware her soch
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Aug 20 06:14:46 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
