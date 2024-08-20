@@ -73,4 +73,14 @@ dann soll man ja aussagen belegen [1] (aber was shclecht geht wenn man schon psy
 
 also dann wäre das eine aliexpress sendung, man hätte da an den postsystmenen rumgespielt, zusätlich psycholgosiche kriegsführung drauf getan damit es aussieht als hätte die CH army ncihts davor 
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Aug 20 06:23:53 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+also urs blum, die Zürcih Versichrung, die CH-Army rendert morddrohnungen auf auslandsendungen sobald das paket in den händen der schweizer ist ???
+
+aber es müsste ein paket kein brief sein
+
+
+
 
