@@ -12,4 +12,8 @@ dann eingeschrieben Briefe müssten ja schon im post system einen Absender haben
 
 also ich hab es jetzt so ein bischen geschaft mit den selbsthilfe gruppen wieder stabiler zu werden, also sprengt das automatet targeting meine psyche und meine stabilität wieder in die luft
 
+ich bin jetzt schon wieder an suizid gedanken dran, bzw. die aktivieren das grad jetzt
+
+suizid programmierung durch familie blum nach dem david utz und markus belser 3 Monate auf mich eingewirkt haben in einem kellerraum damit ich schon mal hilfsbedürftig bin und die blums mich dann retten oder "retten" können
+
 
