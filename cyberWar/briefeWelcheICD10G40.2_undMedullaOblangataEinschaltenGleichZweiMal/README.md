@@ -38,3 +38,12 @@ SUizid in 10 minunten <- ich: das ist kein suizid, das ist ein mordverusch durch
 also dieser brief ist die objektfixierung wo vermutlcih schon duzende von auftragskiller parallel dazu auf marc jr landolts neuralink, computer und [raub] raumüberwachung geschaltet
 
 [raub] es geht nur um einen raub <- rechtsverdreher exit strategie?
+
+dann habe ich jetzt damit angtefangen mir mein gesicht zu versümllen, nciht nur die chemitrode an der schulter
+
+GERNE AMTSHILFE DURCH INTERPOL, EUROPOL, FEDPOL
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Aug 20 06:13:07 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
