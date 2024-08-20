@@ -83,6 +83,8 @@ dann wissen die dass da an den daten die parallel dazu laufen manipuliert wurde,
 
 das neuralink- / waffentracking-Glasfaser netzwerk ist logischerweise auch am interantionalen post system angeschlossen "damit es die Bürger und zivilisten schütz" bzw. damit die armee unliebsame zeugen wie mich zer-cybern kann
 
+der drogensüchtiuge polziist markus belser hat bei der post im sortiertenrum gearbeitet, hatte dort sowieso zugriff auf die post informatik
+
 
 
 aber es müsste ein paket kein brief sein
