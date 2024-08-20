@@ -10,4 +10,6 @@ dann zeitgleich aktiviert auch schon wieder (Content-)brainjacking bei mir
 
 dann eingeschrieben Briefe müssten ja schon im post system einen Absender haben, sonst ist sowieso klar dass es illegitim ist (gedeckt getarnt wie die CH-Army sagt), oder irgend etwas wie eine briefkasten firma
 
+also ich hab es jetzt so ein bischen geschaft mit den selbsthilfe gruppen wieder stabiler zu werden, also sprengt das automatet targeting meine psyche und meine stabilität wieder in die luft
+
 
