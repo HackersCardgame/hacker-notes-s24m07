@@ -34,3 +34,7 @@ dann wird loop: Morddrohung durch die Vertrauensperson welche marc jr landolt zu
 dann wird loop: Morddrohung durch die Vertrauensperson welche marc jr landolt zugeritten hat abgespielt
 
 SUizid in 10 minunten <- ich: das ist kein suizid, das ist ein mordverusch durch urs blum getarnt als suizid
+
+also dieser brief ist die objektfixierung wo vermutlcih schon duzende von auftragskiller parallel dazu auf marc jr landolts neuralink, computer und [raub] raumüberwachung geschaltet
+
+[raub] es geht nur um einen raub <- rechtsverdreher exit strategie?
