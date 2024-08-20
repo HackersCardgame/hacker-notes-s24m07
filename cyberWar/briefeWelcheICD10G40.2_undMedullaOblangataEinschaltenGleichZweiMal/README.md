@@ -88,5 +88,17 @@ der drogensüchtiuge polziist markus belser hat bei der post im sortiertenrum ge
 
 aber es müsste ein paket kein brief sein
 
-aliexpress pakete wären oft unterschit menschen und [LOCK]
+aliexpress pakete wären oft unterschit menschen und [LOCK] zeugen die von der wirtschaft bzw. den Wirtschaftskrimniellen versenkt wurden
+
+
+also die spezifische Desing pattern für diesen miesne schachzug
+
+1. im Postsystem den Absender löschen
+2. im Postsystem das ursprungsland löschen
+3. zeitgleich sobald man ins post.ch system schaut ICD10 G40.2 aktiviert wordne und leitung vom neuralink zur medulla oblangate
+4. rachsüchtige offiziere dazu geschaltet die sich so erhoffen den zeugen in den suizid treiben zu können
+
+
+
+
 
