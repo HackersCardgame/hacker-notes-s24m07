@@ -18,4 +18,4 @@ suizid programmierung durch familie blum nach dem david utz und markus belser 3 
 
 so ein brief verursacht dann bei mir wieder suizidalität bis ich weiss was es ist
 
-
+also derjenige der sich immer als christian tanner / TTS ausgibt wäre irgend eine sprachsynthese oder christan tanner muss auch verdingkiunder, zeugnen und sklaven für die schweizer armee ermorden sobald die zeugen und sklaven wissen was insgeheim so läuft
