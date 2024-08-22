@@ -258,13 +258,13 @@ Thu Aug 22 02:55:12 PM CEST 2024
 
 Also Zusammenfassung meiner letzten 25 Lebensjahre
 
-WENN man als Autist gut ist zB in seinem Spezial-Interesse Informatik, besser als der 10 Jahre ältere Elmar Hutter der auch noch einen FH Titel hatte selber aber noch nie irgend eine Informatik-Ausbildung hatte und man findet Dinge raus wie
+WENN man als Autist gut ist zB in seinem Spezial-Interesse Informatik, besser als der 10 Jahre ältere Elmar Hutter der auch noch einen FH Titel hatte selber aber noch nie irgend eine Informatik-Ausbildung hatte und man findet Dinge raus wie ...
 
-* Da stimmt etwas mit den Netzwerken bei ABB Flexibler Automation nicht (14 Jahre vor Snowden Leaks)
-* Die CH-Army macht illegale Neurologie-Implantate Experimente seit 1950 an Verdingkindern
-* Alle ISP's sind nicht nur am Militärischen Glasfaser Backbone angeschlossen sondern es hat dort auch Hochrange Militärs wie der Walter Brigger der ein höherer Chef bei UPC ist/war
-* Computer haben standardmässig schon Militärische Hardware Backdoors drin (wirst case [1] mit Fast Frequenz Hopping wie das SE 235)
-* 
+  * Da stimmt etwas mit den Netzwerken bei ABB Flexibler Automation nicht (14 Jahre vor Snowden Leaks)
+  * Die CH-Army macht illegale Neurologie-Implantate Experimente seit 1950 an Verdingkindern
+  * Alle ISP's sind nicht nur am Militärischen Glasfaser Backbone angeschlossen sondern es hat dort auch Hochrange Militärs wie der Walter Brigger der ein höherer Chef bei UPC ist/war
+  * Computer haben standardmässig schon Militärische Hardware Backdoors drin (wirst case [1] mit Fast Frequenz Hopping wie das SE 235)
+  * 
 
 [1] instant disso und "trümmlig" ich kippe jetzt fast um, augen fallen instant zu
 
