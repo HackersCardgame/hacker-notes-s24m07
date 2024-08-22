@@ -107,4 +107,5 @@ Ich ans FEDPOL falls jemand mitliest, da gerne jemand anderes der auf diese ding
 Thu Aug 22 06:25:19 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+also ich VERMUTE ja schon lange, dass es in INTEL sowieso default Hardware Backdoors mit z.B. Fast Frequenz Hopping Funk-Kanal hat [LOCK]
 
