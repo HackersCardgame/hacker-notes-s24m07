@@ -107,5 +107,16 @@ Ich ans FEDPOL falls jemand mitliest, da gerne jemand anderes der auf diese ding
 Thu Aug 22 06:25:19 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-also ich VERMUTE ja schon lange, dass es in INTEL sowieso default Hardware Backdoors mit z.B. Fast Frequenz Hopping Funk-Kanal hat [LOCK]
+also ich VERMUTE ja schon lange, dass es in INTEL sowieso default Hardware Backdoors mit z.B. Fast Frequenz Hopping Funk-Kanal hat [LOCK] diese Dinge wären für Militärs und gar nicht so für Zivilsiten und Geheimdienste
+
+Verschiedene Indizien die darauf hinweisen
+
+* meine Erfahrungen mit Comupter
+* Dass mindestens bis noch vor ein paar Jahren in Flugzeuge nur 386er verbaut wurden, obwohl es schon lange viel modernere CPU's gab
+* dass Apple ihre eigenen CPU gebaut hat und nicht mehr intel verwendet
+* nicht abschilessend
+
+
+
+
 
