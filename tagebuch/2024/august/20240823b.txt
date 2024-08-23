@@ -76,3 +76,6 @@ dann wird jetzt auf telegram eine frage gestellt, oder eine bereits gestellte si
 Fri Aug 23 10:54:44 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+dann wird eine weitere frage für chat gpt freigeschlatet die ich schon lange aufgeschrieben habe, rosaArrayListKarte<TODOs>
+
+
