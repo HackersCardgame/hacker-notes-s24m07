@@ -1,0 +1,2641 @@
+Debug [Main]: SoundSourceProxy - Registering SoundSource providers
+Debug [Main]: SoundSourceProxy - Registering platform and fallback SoundSource providers
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "FFmpeg"
+Info [Main]: SoundSourceFFmpeg - Disabling untested input formats: aa, aax, ac3, ace, acm, act, adf, adp, ads, adx, aea, afc, aix, alp, amr, amrnb, amrwb, anm, apc, ape, apm, apng, aptx, aptx_hd, aqtitle, argo_asf, argo_brp, argo_cvg, asf, asf_o, ass, ast, au, av1, avi, avr, avs, avs2, avs3, bethsoftvid, bfi, bin, bink, binka, bit, bitpacked, bmv, bfstm, brstm, boa, c93, caf, cavsvideo, cdg, cdxl, cine, codec2, codec2raw, concat, dash, data, daud, dcstr, derf, dfa, dfpwm, dhav, dirac, dnxhd, dsf, dsicin, dss, dts, dtshd, dv, dvbsub, dvbtxt, dxa, ea, ea_cdata, eac3, epaf, ffmetadata, filmstrip, fits, flac, flic, flv, live_flv, 4xm, frm, fsb, fwse, g722, g723_1, g726, g726le, g729, gdv, genh, gif, gsm, gxf, h261, h263, h264, hca, hcom, hevc, hls, hnm, ico, idcin, idf, iff, ifv, ilbc, image2, image2pipe, alias_pix, brender_pix, imf, ingenient, ipmovie, ipu, ircam, iss, iv8, ivf, ivr, jacosub, jv, kux, kvag, lmlm4, loas, luodat, lrc, lvf, lxf, mca, mcc, matroska,webm, mgsts, microdvd, mjpeg, mjpeg_2000, mlp, mlv, mm, mmf, mods, moflex, mpc, mpc8, mpeg, mpegts, mpegtsraw, mpegvideo, mpjpeg, mpl2, mpsub, msf, msnwctcp, msp, mtaf, mtv, musx, mv, mvi, mxf, mxg, nc, nistsphere, nsp, nsv, nut, nuv, obu, ogg, oma, paf, alaw, mulaw, vidc, f64be, f64le, f32be, f32le, s32be, s32le, s24be, s24le, s16be, s16le, s8, u32be, u32le, u24be, u24le, u16be, u16le, u8, pjs, pmp, pp_bnk, pva, pvf, qcp, r3d, rawvideo, realtext, redspark, rl2, rm, roq, rpl, rsd, rso, rtp, rtsp, s337m, sami, sap, sbc, sbg, scc, scd, sdp, sdr2, sds, sdx, film_cpk, ser, sga, shn, siff, simbiosis_imx, sln, smk, smjpeg, smush, sol, sox, spdif, srt, psxstr, stl, subviewer1, subviewer, sup, svag, svs, swf, tak, tedcaptions, thp, 3dostr, tiertexseq, tmv, truehd, tta, txd, tty, ty, v210, v210x, vag, vc1, vc1test, vividas, vivo, vmd, vobsub, voc, vpk, vplayer, vqf, w64, wc3movie, webm_dash_manifest, webvtt, wsaud, wsd, wsvqa, wtv, wve, xa, xbin, xmv, xvag, xwma, yop, yuv4mpegpipe, bmp_pipe, cri_pipe, dds_pipe, dpx_pipe, exr_pipe, gem_pipe, gif_pipe, j2k_pipe, jpeg_pipe, jpegls_pipe, jpegxl_pipe, pam_pipe, pbm_pipe, pcx_pipe, pfm_pipe, pgmyuv_pipe, pgm_pipe, pgx_pipe, phm_pipe, photocd_pipe, pictor_pipe, png_pipe, ppm_pipe, psd_pipe, qdraw_pipe, qoi_pipe, sgi_pipe, svg_pipe, sunrast_pipe, tiff_pipe, vbn_pipe, webp_pipe, xbm_pipe, xpm_pipe, xwd_pipe, libgme, libopenmpt
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aac" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aif" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aiff" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "m4v" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mov" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp4" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "m4a" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "3gp" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "3g2" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mj2" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp3" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wav" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wv" for provider "FFmpeg" with priority 1 (lowest)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "MAD: MPEG Audio Decoder"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp3" for provider "MAD: MPEG Audio Decoder" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "MODPlug"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mod" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "med" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "okt" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "s3m" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "stm" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "xm" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "it" for provider "MODPlug" with priority 3 (default)
+Info [Main]: SoundSourceSndFile - Disabling OGG decoding for "libsndfile-1.2.0"
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "libsndfile"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aif" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aiff" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "caf" for provider "libsndfile" with priority 2 (lower)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "flac" for provider "libsndfile" with priority 2 (lower)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wav" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProxy - Registering reference SoundSource providers
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org libFLAC"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "flac" for provider "Xiph.org libFLAC" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org OggVorbis"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "ogg" for provider "Xiph.org OggVorbis" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org libopusfile"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "opus" for provider "Xiph.org libopusfile" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "WavPack"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wv" for provider "WavPack" with priority 4 (higher)
+Debug [Main]: Mixxx 2.3.3 (git unknown; built on: Nov 22 2022 @ 23:03:45; flags: -pipe;-O3;-ffast-math;-funroll-loops;-fomit-frame-pointer;-mtune=generic;-Wall;-Wextra;$<$<COMPILE_LANGUAGE:CXX>:-Woverloaded-virtual>;-Wfloat-conversion;-Werror=return-type) is starting...
+Debug [Main]: Compile time library versions:
+Debug [Main]: Qt: 5.15.8
+Debug [Main]: libshout: 2.4.1
+Debug [Main]: PortAudio: 1246720 PortAudio V19.6.0-devel, revision 396fe4b6699ae929d3a685b3ef8a7e97396139a4
+Debug [Main]: RubberBand: 3.1.0
+Debug [Main]: SoundTouch: 2.3.1
+Debug [Main]: TagLib: 1.13.0
+Debug [Main]: ChromaPrint: 1.5.1
+Debug [Main]: Vorbis: Xiph.Org libVorbis 1.3.7
+Debug [Main]: libsndfile: libsndfile-1.2.0
+Debug [Main]: FLAC: 1.4.2
+Debug [Main]: libmp3lame: 3.100
+Debug [Main]: QStandardPaths::writableLocation(HomeLocation): "/home/marc"
+Debug [Main]: QStandardPaths::writableLocation(DataLocation): "/home/marc/.local/share/Mixxx"
+Debug [Main]: QCoreApplication::applicationDirPath() "/usr/bin"
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: Configuration file is at the current version "2.3.3"
+Info [Main]: BroadcastSettings - Found 1 profile(s)
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: Found and will use default keyboard preset "/usr/share/mixxx/keyboard/en_US.kbd.cfg"
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: Skipping loading of translations because the locale is 'en' or 'en_US'.
+Debug [Main]: Loading resources from  "/usr/share/mixxx/"
+Debug [Main]: No fonts directory found in "/usr/share/mixxx/"
+Info [Main]: DbConnection - Available drivers for database connections: ("QSQLITE")
+Info [Main]: DbConnectionPool - Cloned thread-local database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [Main]: MixxxMainWindow - Connecting to database
+Info [Main]: MixxxMainWindow - Initializing or upgrading database schema
+Info [Main]: SchemaManager - Database schema is up-to-date at version 32
+Debug [Main]: JACK client name set
+Debug [Main]: EngineNetworkStream - addWorker: worker added
+Debug [Main]: EngineNetworkStream - worker slots used: "1 out of 16"
+Debug [Main]: BroadcastManager - addConnection: created connection for profile "Connection 1"
+Info [Main]: GlobalTrackCache - Creating instance
+Info [Main]: TrackCollection - Connecting database
+Info [Main]: TrackCollectionManager - Starting library scanner thread
+Debug [LibraryScanner 1]: LibraryScanner - Entering thread
+Info [LibraryScanner 1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-2" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [Main]: TrackCollection - Connecting track source
+Debug [LibraryScanner 1]: LibraryScanner - Event loop starting
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 406 ms
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 410 ms 935
+Debug [Main]: CrateFeature::rebuildChildModel() -1
+Debug [Main]: Default quick links: ("/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/", "/home/marc/Music/", "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music/", "/home/marc/Downloads/", "/home/marc/Desktop/", "/home/marc/Documents/")
+Debug [Main]: Appending Quick Link:  "Music.merged" --- "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/"
+Debug [Main]: Appending Quick Link:  "Music" --- "/home/marc/Music/"
+Debug [Main]: Appending Quick Link:  "Music" --- "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music/"
+Debug [Main]: Appending Quick Link:  "Downloads" --- "/home/marc/Downloads/"
+Debug [Main]: Appending Quick Link:  "Desktop" --- "/home/marc/Desktop/"
+Debug [Main]: Appending Quick Link:  "Documents" --- "/home/marc/Documents/"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Traktor Library Location=[ "/home/marc/collection.nml" ]
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlist_tracks"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlists"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_library"
+Debug [Main]: Creating Rekordbox library table:  "rekordbox_library"
+Debug [Main]: Creating Rekordbox playlists table:  "rekordbox_playlists"
+Debug [Main]: Creating Rekordbox playlist tracks table:  "rekordbox_playlist_tracks"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Dropping Serato table:  "serato_playlist_tracks"
+Debug [Main]: Dropping Serato table:  "serato_playlists"
+Debug [Main]: Dropping Serato table:  "serato_library"
+Debug [Main]: Creating Serato library table:  "serato_library"
+Debug [Main]: Creating Serato playlists table:  "serato_playlists"
+Debug [Main]: Creating Serato playlist tracks table:  "serato_playlist_tracks"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Checking for access to user's library directories:
+Debug [Main]: Checking for access to "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged" : true
+Debug [Main]: Checking for access to "/home/marc/Music" : true
+Debug [Main]: Checking for access to "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music" : true
+Debug [Main]: TrackAnalysisScheduler - Starting 6 worker threads. Priority:  normal
+Debug [AnalyzerThread 0 #1]: AnalyzerThread 0 - Running
+Info [AnalyzerThread 0 #1]: DbConnectionPool - Cloned thread-local database connection "MIXXX-3" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Activated 5 analyzers
+Debug [AnalyzerThread 3 #2]: AnalyzerThread 3 - Running
+Debug [AnalyzerThread 1 #3]: AnalyzerThread 1 - Running
+Debug [AnalyzerThread 5 #4]: AnalyzerThread 5 - Running
+Debug [AnalyzerThread 4 #5]: AnalyzerThread 4 - Running
+Debug [AnalyzerThread 2 #6]: AnalyzerThread 2 - Running
+Info [AnalyzerThread 3 #2]: DbConnectionPool - Cloned thread-local database connection "MIXXX-4" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [AnalyzerThread 5 #4]: DbConnectionPool - Cloned thread-local database connection "MIXXX-6" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [AnalyzerThread 2 #6]: DbConnectionPool - Cloned thread-local database connection "MIXXX-8" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Activated 5 analyzers
+Debug [AnalyzerThread 2 #6]: AnalyzerThread - Activated 5 analyzers
+Info [AnalyzerThread 4 #5]: DbConnectionPool - Cloned thread-local database connection "MIXXX-7" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 5 #4]: AnalyzerThread - Activated 5 analyzers
+Debug [Main]: Creating ControllerManager
+Debug [AnalyzerThread 4 #5]: AnalyzerThread - Activated 5 analyzers
+Info [AnalyzerThread 1 #3]: DbConnectionPool - Cloned thread-local database connection "MIXXX-5" QSqlDatabase(driver="QSQLITE", database="file:///home/marc/.mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Activated 5 analyzers
+Debug [Controller]: ControllerManager:slotInitialize
+Debug [Controller]: Extension .midi.xml total 5 presets
+Debug [Controller]: Extension .hid.xml total 0 presets
+Debug [Controller]: Extension .bulk.xml total 0 presets
+Debug [Main]: Set root GL Context widget valid: QGLWidget(0x5561ac3ca580) true
+Debug [Main]: Created root GL Context valid: 0x7f889c006670 true
+Debug [Main]: Root GL Context format:
+Debug [Main]: Double Buffering: true
+Debug [Main]: Swap interval: 0
+Debug [Main]: Depth buffer: true
+Debug [Main]: Direct rendering: true
+Debug [Main]: Has overlay: false
+Debug [Main]: RGBA: true
+Debug [Main]: Sample buffers: false
+Debug [Main]: Samples: -1
+Debug [Main]: Stencil buffers: true
+Debug [Main]: Stereo: false
+Debug [Main]: "openGLVersionFlags 0xff07f" "4.6.0 NVIDIA 470.256.02" "NVIDIA Corporation" "NVIDIA GeForce GT 730/PCIe/SSE2"
+Debug [Main]: RLimit Cur  0
+Debug [Main]: RLimit Max  0
+Debug [Main]: ControllerManager::getControllerList
+Debug [Controller]: Extension .midi.xml total 127 presets
+Debug [Controller]: Extension .hid.xml total 13 presets
+Debug [Controller]: Extension .bulk.xml total 1 presets
+Debug [Main]: Key plugin ID: "qm-keydetector:2"
+Debug [Main]: LegacySkinParser loading skin: "/usr/share/mixxx/skins/Tango (64 Samplers)"
+Debug [Main]: Skin is a >=1.12.0 style skin.
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 0
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 1
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 2
+Debug [Main]: WaveformWidgetFactory::setWaveformWidget - waveform widget added in factory, index 3
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: Didn't get mark <Color>, using parent's <AxesColor>: QColor(ARGB 1, 0.960784, 0.960784, 0.960784)
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSearchLineEdit - Background color: QColor(ARGB 1, 0, 0, 0)
+Debug [Main]: WTrackTableView::loadTrackModel() HiddenTableModel(0x5561d963f740)
+Debug [Main]: HiddenTableModel(0x5561d963f740) select() took 3 ms 4
+Debug [Main]: WTrackTableView::loadTrackModel() MissingTableModel(0x5561d96a62d0)
+Debug [Main]: MissingTableModel(0x5561d96a62d0) select() took 19 ms 3283
+Debug [Main]: WTrackTableView::loadTrackModel() PlaylistTableModel(0x5561acc00170)
+Debug [Main]: Recordings folder set to "/home/marc/Music/Mixxx/Recordings"
+Debug [Main]: WTrackTableView::loadTrackModel() QSortFilterProxyModel(0x5561d9850e08)
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-08-20_02h12m10s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-08-20_02h12m10s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [Main]: WTrackTableView::loadTrackModel() AnalysisLibraryTableModel(0x5561d98ca660)
+Debug [BrowseThread]: Append last  1
+Debug [Main]: AnalysisLibraryTableModel(0x5561d98ca660) select() took 30 ms 0
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: WSpinny(): Created QGLWidget, Context Valid: true Sharing: true
+Debug [Main]: MixxxLibraryFeature::activate()
+Debug [Main]: WTrackTableView::loadTrackModel() LibraryTableModel(0x5561a2d84590)
+Debug [Main]: LibraryTableModel(0x5561a2d84590) select() took 46 ms 12142
+Debug [Main]: trying to restore position
+Warning [Main]: ControlDoublePrivate::getControl returning NULL for ( "[VinylControl]" , "show_vinylcontrol" )
+Debug [Controller]: ControllerManager: Setting up devices
+Debug [Controller]: Scanning PortMIDI devices:
+Debug [Controller]:  Found output device # 2 X-TOUCH MINI MIDI 1
+Debug [Controller]:  Found output device # 4 Arturia BeatStep MIDI 1
+Debug [Controller]:  Found output device # 6 WORLDE MIDI 1
+Debug [Controller]:  Found input device # 3 X-TOUCH MINI MIDI 1
+Debug [Controller]:     Linking to output device # 2 "X-TOUCH MINI MIDI 1"
+Debug [Controller]:  Found input device # 5 Arturia BeatStep MIDI 1
+Debug [Controller]:     Linking to output device # 4 "Arturia BeatStep MIDI 1"
+Debug [Controller]:  Found input device # 7 WORLDE MIDI 1
+Debug [Controller]:     Linking to output device # 6 "WORLDE MIDI 1"
+Debug [Controller]: Scanning USB Bulk devices:
+Debug [Controller]: Scanning HID devices:
+Debug [Controller]: Found "" "" "r4617" S/N "" "Interface 0"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r4617" S/N "" "Interface 1"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r4617" S/N "" "Interface 2"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r512" S/N "" "Interface 0"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: Found "" "" "r512" S/N "" "Interface 4"
+Warning [Controller]: USB permissions problem (or device error.) Your account needs write access to USB HID controllers.
+Debug [Controller]: ControllerManager::getControllerList
+Debug [Controller]: Searching for controller preset "/home/marc/.mixxx/controllers/xtoch-new.midi.xml" in paths: "/home/marc/.mixxx/controllers/,/usr/share/mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "/home/marc/.mixxx/controllers/xtoch-new.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "X-TOUCH MINI MIDI 1"
+Debug [Controller]: Controller in script engine is: "X-TOUCH MINI MIDI 1"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Loading "/usr/share/mixxx/controllers/common-controller-scripts.js"
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler1]" QObject(0x0)
+Debug [Controller]: Searching for controller preset "/home/marc/.mixxx/controllers/Aru.midi.xml" in paths: "/home/marc/.mixxx/controllers/,/usr/share/mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "/home/marc/.mixxx/controllers/Aru.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "Arturia BeatStep MIDI 1"
+Debug [Controller]: Controller in script engine is: "Arturia BeatStep MIDI 1"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Loading "/usr/share/mixxx/controllers/common-controller-scripts.js"
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Controller]: Searching for controller preset "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml" in paths: "/home/marc/.mixxx/controllers/,/usr/share/mixxx/controllers/"
+Debug [Controller]: Loading controller preset from "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Controller]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Controller]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Controller]: Opening controller: "WORLDE MIDI 1"
+Debug [Controller]: Controller in script engine is: "WORLDE MIDI 1"
+Debug [Controller]: Applying controller preset...
+Debug [Controller]: ControllerEngine: Loading "/usr/share/mixxx/controllers/common-controller-scripts.js"
+Debug [Controller]: Controller polling started.
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler2]" Track(0x5561da5e5530)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler3]" QObject(0x0)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler4]" Track(0x5561da5ae5d0)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler5]" Track(0x5561e8c0e570)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler6]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler7]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler8]" QObject(0x0)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler9]" Track(0x5561d8260900)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler10]" Track(0x5561da5e5530)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler11]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler12]" Track(0x5561da5ae5d0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler13]" Track(0x5561e8c0e570)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler14]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler15]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler16]" QObject(0x0)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Warning [Main]: TagLib - ID3v2.2 is only partially supported - please convert your file tags to at least ID3v2.3
+Warning [Main]: TagLib - Legacy ID3v2 version - importing only basic tags
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler17]" Track(0x5561d9f73290)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler18]" Track(0x5561da5e5530)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler19]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler20]" Track(0x5561da5ae5d0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler21]" Track(0x5561e8c0e570)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler22]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler23]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler24]" Track(0x5561d9f73290)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler25]" Track(0x5561d8260900)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler26]" Track(0x5561da5e5530)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler27]" Track(0x5561da5e5530)
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler28]" Track(0x5561e8bcecf0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler29]" Track(0x5561e8c0e570)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler30]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler31]" Track(0x5561dae68220)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler32]" Track(0x5561da5ae5d0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler33]" Track(0x5561d9f73290)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler34]" Track(0x5561d9f73290)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler35]" Track(0x5561da5e5530)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler36]" Track(0x5561e8bcecf0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler37]" Track(0x5561e8bcecf0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler38]" Track(0x5561da5ae5d0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler39]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler40]" Track(0x5561d9f73290)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler41]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler42]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler43]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler44]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler45]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler46]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler47]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler48]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler49]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler50]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler51]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler52]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler53]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler54]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler55]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler56]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler57]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler58]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler59]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler60]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler61]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler62]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler63]" QObject(0x0)
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Sampler64]" QObject(0x0)
+Debug [Main]: SoundManager::setupDevices()
+Debug [Main]: SoundDevicePortAudio::open() "SoundDeviceId(default, 20)"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  44100 Hz, latency: 92.8798 ms
+Debug [Main]: Output channels: 2 | Input channels: 0
+Debug [Main]: Opening stream with id 20
+Debug [Main]: Opened PortAudio stream successfully... starting
+Info [Main]: Enabling ALSA real-time scheduling
+Debug [Main]: PortAudio: Started stream successfully
+Debug [Main]:    Actual sample rate:  44100 Hz, latency: 92.8798 ms
+Debug [Main]: SoundDeviceNetwork - open: "Network stream"
+Debug [Main]: framesPerBuffer: 4096
+Debug [Main]: Requested sample rate:  44100 Hz, latency: 92879818 ns
+Debug [Main]: Using "default" as output sound device clock reference
+Debug [Main]: 2 output sound devices opened
+Debug [Main]: 0 input sound devices opened
+Debug [Main]: Displaying main window
+Debug [Main]: Running Mixxx
+Debug [Main]: ControllerManager::getControllerList
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x5561dde38660)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5561db9d8a50)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561db1b9f60)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5561dde39600)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x5561e9ae4690)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5561ea1e9020)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5561ec21f570)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561ec21f8c0)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561ec21fc80)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561ec21ffb0)
+Debug []: SSE: Denormals to zero mode already enabled
+Debug []: SSE: Flush to zero mode already enabled
+Debug []: Denormals to zero mode is working
+Debug [CachingReaderWorker 6]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 12]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 23]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 25]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 29]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 34]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 14]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 18]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 26]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 33]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 37]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 22]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 31]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 38]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 11]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 20]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 43]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 32]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 39]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 45]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 17]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 15]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 44]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 19]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 27]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 40]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 30]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 41]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 28]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 10]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 36]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [CachingReaderWorker 8]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x5561ec21d0e0)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x5561ee95cda0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5561ee95d3d0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561ee95d7d0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5561ee95dc10)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x5561ee95aa80)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5561ef02ca80)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5561f106f600)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561f106f950)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561f106fd10)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561f1070040)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x5561f106d170)
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x5561f379fa40)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5561f379ffc0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561f37a03c0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5561f37a0800)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x5561f379d6b0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5561f3e6fcd0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5561f5eb28b0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561f5eb2c00)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561f5eb2fc0)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561f5eb32f0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x5561f5eb0420)
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 772
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Dequeued next track 772
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3)
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 772
+Debug [Main]: AnalyzerThread - Enqueueing next track 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 42355
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Dequeued next track 42355
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3)
+Debug [Main]: AnalyzerThread - Enqueueing next track 41704
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 41704
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 41704
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Dequeued next track 41704
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3)
+Debug [AnalyzerThread 1 #3]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 0 #1]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 3 #2]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 1 #3]: AnalysisDAO fetched 2 analyses, 1926973 bytes for track 772 in 15 ms
+Debug [AnalyzerThread 1 #3]: Reading waveform from byte array: allSignalSize 221312 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 1 #3]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 7.65184 audioVisualRatio 6273
+Debug [AnalyzerThread 1 #3]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 1 #3]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 1 #3]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #3]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #3]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 0 #1]: AnalysisDAO fetched 2 analyses, 3127374 bytes for track 42355 in 29 ms
+Debug [AnalyzerThread 3 #2]: AnalysisDAO fetched 2 analyses, 3373871 bytes for track 41704 in 29 ms
+Debug [AnalyzerThread 0 #1]: Reading waveform from byte array: allSignalSize 338054 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 0 #1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 5.00939 audioVisualRatio 9582
+Debug [AnalyzerThread 0 #1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 0 #1]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 0 #1]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 3 #2]: Reading waveform from byte array: allSignalSize 356788 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 3 #2]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 4.74637 audioVisualRatio 10113
+Debug [AnalyzerThread 3 #2]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 3 #2]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 3 #2]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #2]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #2]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 19702
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Dequeued next track 19702
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3)
+Debug [AnalyzerThread 3 #2]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 36609
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36609
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Dequeued next track 36609
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Kinderparadies - live at ZeTeCo Lounge-couchsofa_couchsofa-kinderparadies-live-at-zeteco-lounge.mp3)
+Debug [AnalyzerThread 0 #1]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 3 #2]: AnalysisDAO fetched 2 analyses, 91426168 bytes for track 19702 in 779 ms
+Debug [AnalyzerThread 0 #1]: AnalysisDAO fetched 2 analyses, 64817604 bytes for track 36609 in 412 ms
+Debug [AnalyzerThread 3 #2]: Reading waveform from byte array: allSignalSize 11100488 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 3 #2]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.152555 audioVisualRatio 289075
+Debug [AnalyzerThread 3 #2]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 3 #2]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 3 #2]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #2]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #2]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 0 #1]: Reading waveform from byte array: allSignalSize 7783742 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 0 #1]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.217561 audioVisualRatio 202702
+Debug [AnalyzerThread 0 #1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 0 #1]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 0 #1]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 36565
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36565
+Debug [AnalyzerThread 2 #6]: AnalyzerThread - Dequeued next track 36565
+Debug [AnalyzerThread 2 #6]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3)
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36565
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 36565
+Debug [AnalyzerThread 2 #6]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 2 #6]: AnalysisDAO fetched 2 analyses, 131205917 bytes for track 36565 in 967 ms
+Debug [AnalyzerThread 2 #6]: Reading waveform from byte array: allSignalSize 15607228 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 2 #6]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.108504 audioVisualRatio 406438
+Debug [AnalyzerThread 2 #6]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 2 #6]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 2 #6]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 2 #6]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 2 #6]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 2 #6]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [Main]: TrackAnalysisScheduler - Skipping duplicate track id 75093
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Dequeued next track 75093
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3)
+Debug [AnalyzerThread 0 #1]: SoundSourceMp3 - MP3 frame header | layer: 0 mode: 0 #channels: 1 #samples: 36 bitrate: 0 samplerate: 0 flags: "0x0000"
+Debug [AnalyzerThread 0 #1]: AnalysisDAO fetched 2 analyses, 187389051 bytes for track 75093 in 1324 ms
+Debug [AnalyzerThread 0 #1]: Reading waveform from byte array: allSignalSize 21414206 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 0 #1]: Reading waveform from byte array: allSignalSize 3840 visualSampleRate 0.0790802 audioVisualRatio 557662
+Debug [AnalyzerThread 0 #1]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 0 #1]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 0 #1]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [Main]: WaveformWidgetFactory::setWidgetType - type already in use
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/Aru.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x5561ee8f1410)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5561ee8ee8e0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561db1c25c0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5561ee8e58b0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x5561b1dfd7d0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5562027cf7e0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5562027cfa20)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561ec21f990)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5562027cfbc0)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561e9ae11e0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x5561e9ae1550)
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x556204eee2b0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x556204edc9a0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x556204edccb0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x556204edcda0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x5561d83f0ab0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5562075f1ed0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5562075f21c0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561f106fa20)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5562075f2380)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561ee957a80)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x556207086a20)
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/xtoch-new.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x556209d1aac0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x556209d14f90)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561f37a0490)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x556209d1e800)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x556209d1e120)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x55620c419610)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x55620c419900)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561f5eb2cd0)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x55620c419aa0)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561f3799df0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x5561f379a160)
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 23 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 11
+Debug [Main]: Overall Value: 53 count 1
+Debug [Main]: Overall Value: 60 count 1
+Debug [Main]: Overall Value: 66 count 1
+Debug [Main]: Overall Value: 72 count 1
+Debug [Main]: Overall Value: 77 count 1
+Debug [Main]: Overall Value: 81 count 1
+Debug [Main]: Overall Value: 83 count 1
+Debug [Main]: Overall Value: 85 count 1
+Debug [Main]: Overall Value: 87 count 1
+Debug [Main]: Overall Value: 89 count 1
+Debug [Main]: Overall Value: 92 count 1
+Debug [Main]: Overall Value: 96 count 1
+Debug [Main]: Overall Value: 100 count 1
+Debug [Main]: Overall Value: 102 count 1
+Debug [Main]: Overall Value: 103 count 1
+Debug [Main]: Overall Value: 104 count 1
+Debug [Main]: Overall Value: 105 count 1
+Debug [Main]: Overall Value: 106 count 1
+Debug [Main]: Overall Value: 108 count 1
+Debug [Main]: Overall Value: 110 count 2
+Debug [Main]: Overall Value: 112 count 1
+Debug [Main]: Overall Value: 113 count 1
+Debug [Main]: "Control 11" Value: 53 count 1
+Debug [Main]: "Control 11" Value: 60 count 1
+Debug [Main]: "Control 11" Value: 66 count 1
+Debug [Main]: "Control 11" Value: 72 count 1
+Debug [Main]: "Control 11" Value: 77 count 1
+Debug [Main]: "Control 11" Value: 81 count 1
+Debug [Main]: "Control 11" Value: 83 count 1
+Debug [Main]: "Control 11" Value: 85 count 1
+Debug [Main]: "Control 11" Value: 87 count 1
+Debug [Main]: "Control 11" Value: 89 count 1
+Debug [Main]: "Control 11" Value: 92 count 1
+Debug [Main]: "Control 11" Value: 96 count 1
+Debug [Main]: "Control 11" Value: 100 count 1
+Debug [Main]: "Control 11" Value: 102 count 1
+Debug [Main]: "Control 11" Value: 103 count 1
+Debug [Main]: "Control 11" Value: 104 count 1
+Debug [Main]: "Control 11" Value: 105 count 1
+Debug [Main]: "Control 11" Value: 106 count 1
+Debug [Main]: "Control 11" Value: 108 count 1
+Debug [Main]: "Control 11" Value: 110 count 2
+Debug [Main]: "Control 11" Value: 112 count 1
+Debug [Main]: "Control 11" Value: 113 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x0B Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x0B" to "[Master]" "gain"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc97c6e0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc979600, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc979600, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc979600, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc979600, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc979600, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc979600, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc97c6e0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eca840, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eca840, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eca840, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eb8780, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eb8780, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eb8780, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eb8780, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9e80590, name="MixModeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dbc85300, name="QuickFXButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dbc85300, name="QuickFXButton")
+Debug [Main]: MouseButtonPress WEffectParameterKnobComposed(0x5561da6c4f80)
+Debug [Main]: Default-click maps MIDI to: "[EqualizerRack1_[Channel1]_Effect1]" "parameter3"
+Debug [Main]: MouseMoveEvent WEffectParameterKnobComposed(0x5561da6c4f80)
+Debug [Main]: MouseButtonRelease WEffectParameterKnobComposed(0x5561da6c4f80)
+Debug [Main]: LearningUtils guessing MIDI mapping from 49 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 14
+Debug [Main]: Overall Value: 37 count 1
+Debug [Main]: Overall Value: 38 count 1
+Debug [Main]: Overall Value: 39 count 1
+Debug [Main]: Overall Value: 40 count 1
+Debug [Main]: Overall Value: 41 count 2
+Debug [Main]: Overall Value: 43 count 2
+Debug [Main]: Overall Value: 45 count 1
+Debug [Main]: Overall Value: 46 count 1
+Debug [Main]: Overall Value: 47 count 1
+Debug [Main]: Overall Value: 50 count 2
+Debug [Main]: Overall Value: 53 count 1
+Debug [Main]: Overall Value: 54 count 1
+Debug [Main]: Overall Value: 56 count 1
+Debug [Main]: Overall Value: 58 count 1
+Debug [Main]: Overall Value: 59 count 1
+Debug [Main]: Overall Value: 62 count 1
+Debug [Main]: Overall Value: 63 count 1
+Debug [Main]: Overall Value: 65 count 1
+Debug [Main]: Overall Value: 66 count 1
+Debug [Main]: Overall Value: 67 count 1
+Debug [Main]: Overall Value: 69 count 1
+Debug [Main]: Overall Value: 70 count 1
+Debug [Main]: Overall Value: 71 count 2
+Debug [Main]: Overall Value: 72 count 1
+Debug [Main]: Overall Value: 73 count 2
+Debug [Main]: Overall Value: 74 count 1
+Debug [Main]: Overall Value: 75 count 1
+Debug [Main]: Overall Value: 77 count 1
+Debug [Main]: Overall Value: 79 count 1
+Debug [Main]: Overall Value: 81 count 1
+Debug [Main]: Overall Value: 84 count 1
+Debug [Main]: Overall Value: 87 count 1
+Debug [Main]: Overall Value: 91 count 1
+Debug [Main]: Overall Value: 94 count 1
+Debug [Main]: Overall Value: 98 count 1
+Debug [Main]: Overall Value: 100 count 1
+Debug [Main]: Overall Value: 103 count 1
+Debug [Main]: Overall Value: 106 count 1
+Debug [Main]: Overall Value: 109 count 1
+Debug [Main]: Overall Value: 111 count 1
+Debug [Main]: Overall Value: 114 count 1
+Debug [Main]: Overall Value: 117 count 1
+Debug [Main]: Overall Value: 120 count 1
+Debug [Main]: Overall Value: 124 count 1
+Debug [Main]: "Control 14" Value: 37 count 1
+Debug [Main]: "Control 14" Value: 38 count 1
+Debug [Main]: "Control 14" Value: 39 count 1
+Debug [Main]: "Control 14" Value: 40 count 1
+Debug [Main]: "Control 14" Value: 41 count 2
+Debug [Main]: "Control 14" Value: 43 count 2
+Debug [Main]: "Control 14" Value: 45 count 1
+Debug [Main]: "Control 14" Value: 46 count 1
+Debug [Main]: "Control 14" Value: 47 count 1
+Debug [Main]: "Control 14" Value: 50 count 2
+Debug [Main]: "Control 14" Value: 53 count 1
+Debug [Main]: "Control 14" Value: 54 count 1
+Debug [Main]: "Control 14" Value: 56 count 1
+Debug [Main]: "Control 14" Value: 58 count 1
+Debug [Main]: "Control 14" Value: 59 count 1
+Debug [Main]: "Control 14" Value: 62 count 1
+Debug [Main]: "Control 14" Value: 63 count 1
+Debug [Main]: "Control 14" Value: 65 count 1
+Debug [Main]: "Control 14" Value: 66 count 1
+Debug [Main]: "Control 14" Value: 67 count 1
+Debug [Main]: "Control 14" Value: 69 count 1
+Debug [Main]: "Control 14" Value: 70 count 1
+Debug [Main]: "Control 14" Value: 71 count 2
+Debug [Main]: "Control 14" Value: 72 count 1
+Debug [Main]: "Control 14" Value: 73 count 2
+Debug [Main]: "Control 14" Value: 74 count 1
+Debug [Main]: "Control 14" Value: 75 count 1
+Debug [Main]: "Control 14" Value: 77 count 1
+Debug [Main]: "Control 14" Value: 79 count 1
+Debug [Main]: "Control 14" Value: 81 count 1
+Debug [Main]: "Control 14" Value: 84 count 1
+Debug [Main]: "Control 14" Value: 87 count 1
+Debug [Main]: "Control 14" Value: 91 count 1
+Debug [Main]: "Control 14" Value: 94 count 1
+Debug [Main]: "Control 14" Value: 98 count 1
+Debug [Main]: "Control 14" Value: 100 count 1
+Debug [Main]: "Control 14" Value: 103 count 1
+Debug [Main]: "Control 14" Value: 106 count 1
+Debug [Main]: "Control 14" Value: 109 count 1
+Debug [Main]: "Control 14" Value: 111 count 1
+Debug [Main]: "Control 14" Value: 114 count 1
+Debug [Main]: "Control 14" Value: 117 count 1
+Debug [Main]: "Control 14" Value: 120 count 1
+Debug [Main]: "Control 14" Value: 124 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x0E Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x0E" to "[EqualizerRack1_[Channel1]_Effect1]" "parameter3"
+Debug [Main]: MouseButtonPress WEffectParameterKnobComposed(0x5561da3a8fd0)
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: Default-click maps MIDI to: "[EqualizerRack1_[Channel1]_Effect1]" "parameter2"
+Debug [Main]: MouseButtonRelease WEffectParameterKnobComposed(0x5561da3a8fd0)
+Debug [Main]: LearningUtils guessing MIDI mapping from 18 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 15
+Debug [Main]: Overall Value: 92 count 1
+Debug [Main]: Overall Value: 94 count 1
+Debug [Main]: Overall Value: 95 count 1
+Debug [Main]: Overall Value: 97 count 2
+Debug [Main]: Overall Value: 100 count 2
+Debug [Main]: Overall Value: 103 count 1
+Debug [Main]: Overall Value: 105 count 1
+Debug [Main]: Overall Value: 107 count 1
+Debug [Main]: Overall Value: 111 count 1
+Debug [Main]: Overall Value: 113 count 1
+Debug [Main]: Overall Value: 116 count 1
+Debug [Main]: Overall Value: 120 count 2
+Debug [Main]: Overall Value: 123 count 1
+Debug [Main]: Overall Value: 126 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 15" Value: 92 count 1
+Debug [Main]: "Control 15" Value: 94 count 1
+Debug [Main]: "Control 15" Value: 95 count 1
+Debug [Main]: "Control 15" Value: 97 count 2
+Debug [Main]: "Control 15" Value: 100 count 2
+Debug [Main]: "Control 15" Value: 103 count 1
+Debug [Main]: "Control 15" Value: 105 count 1
+Debug [Main]: "Control 15" Value: 107 count 1
+Debug [Main]: "Control 15" Value: 111 count 1
+Debug [Main]: "Control 15" Value: 113 count 1
+Debug [Main]: "Control 15" Value: 116 count 1
+Debug [Main]: "Control 15" Value: 120 count 2
+Debug [Main]: "Control 15" Value: 123 count 1
+Debug [Main]: "Control 15" Value: 126 count 1
+Debug [Main]: "Control 15" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x0F Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x0F" to "[EqualizerRack1_[Channel1]_Effect1]" "parameter2"
+Debug [Main]: MouseButtonPress WEffectParameterKnobComposed(0x5561da39d440)
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: Default-click maps MIDI to: "[EqualizerRack1_[Channel1]_Effect1]" "parameter1"
+Debug [Main]: MouseButtonRelease WEffectParameterKnobComposed(0x5561da39d440)
+Debug [Main]: LearningUtils guessing MIDI mapping from 25 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 16
+Debug [Main]: Overall Value: 93 count 1
+Debug [Main]: Overall Value: 94 count 1
+Debug [Main]: Overall Value: 95 count 1
+Debug [Main]: Overall Value: 97 count 1
+Debug [Main]: Overall Value: 98 count 1
+Debug [Main]: Overall Value: 101 count 2
+Debug [Main]: Overall Value: 105 count 2
+Debug [Main]: Overall Value: 108 count 2
+Debug [Main]: Overall Value: 112 count 2
+Debug [Main]: Overall Value: 114 count 1
+Debug [Main]: Overall Value: 116 count 2
+Debug [Main]: Overall Value: 118 count 1
+Debug [Main]: Overall Value: 119 count 2
+Debug [Main]: Overall Value: 121 count 1
+Debug [Main]: Overall Value: 122 count 1
+Debug [Main]: Overall Value: 123 count 1
+Debug [Main]: Overall Value: 124 count 1
+Debug [Main]: Overall Value: 126 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 16" Value: 93 count 1
+Debug [Main]: "Control 16" Value: 94 count 1
+Debug [Main]: "Control 16" Value: 95 count 1
+Debug [Main]: "Control 16" Value: 97 count 1
+Debug [Main]: "Control 16" Value: 98 count 1
+Debug [Main]: "Control 16" Value: 101 count 2
+Debug [Main]: "Control 16" Value: 105 count 2
+Debug [Main]: "Control 16" Value: 108 count 2
+Debug [Main]: "Control 16" Value: 112 count 2
+Debug [Main]: "Control 16" Value: 114 count 1
+Debug [Main]: "Control 16" Value: 116 count 2
+Debug [Main]: "Control 16" Value: 118 count 1
+Debug [Main]: "Control 16" Value: 119 count 2
+Debug [Main]: "Control 16" Value: 121 count 1
+Debug [Main]: "Control 16" Value: 122 count 1
+Debug [Main]: "Control 16" Value: 123 count 1
+Debug [Main]: "Control 16" Value: 124 count 1
+Debug [Main]: "Control 16" Value: 126 count 1
+Debug [Main]: "Control 16" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x10 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x10" to "[EqualizerRack1_[Channel1]_Effect1]" "parameter1"
+Debug [Main]: MouseButtonPress WKnobComposed(0x5561dad52570)
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: Default-click maps MIDI to: "[QuickEffectRack1_[Channel1]]" "super1"
+Debug [Main]: MouseButtonRelease WKnobComposed(0x5561dad52570)
+Debug [Main]: MouseButtonPress WKnobComposed(0x5561dadddc00)
+Debug [Main]: Default-click maps MIDI to: "[Channel1]" "pregain"
+Debug [Main]: MouseButtonRelease WKnobComposed(0x5561dadddc00)
+Debug [Main]: LearningUtils guessing MIDI mapping from 30 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 17
+Debug [Main]: Overall Value: 80 count 1
+Debug [Main]: Overall Value: 82 count 2
+Debug [Main]: Overall Value: 85 count 2
+Debug [Main]: Overall Value: 87 count 1
+Debug [Main]: Overall Value: 89 count 1
+Debug [Main]: Overall Value: 90 count 1
+Debug [Main]: Overall Value: 93 count 2
+Debug [Main]: Overall Value: 97 count 1
+Debug [Main]: Overall Value: 98 count 1
+Debug [Main]: Overall Value: 101 count 1
+Debug [Main]: Overall Value: 104 count 1
+Debug [Main]: Overall Value: 105 count 1
+Debug [Main]: Overall Value: 109 count 2
+Debug [Main]: Overall Value: 113 count 2
+Debug [Main]: Overall Value: 116 count 1
+Debug [Main]: Overall Value: 117 count 1
+Debug [Main]: Overall Value: 119 count 1
+Debug [Main]: Overall Value: 120 count 1
+Debug [Main]: Overall Value: 121 count 1
+Debug [Main]: Overall Value: 122 count 1
+Debug [Main]: Overall Value: 123 count 2
+Debug [Main]: Overall Value: 124 count 1
+Debug [Main]: Overall Value: 125 count 1
+Debug [Main]: Overall Value: 126 count 1
+Debug [Main]: "Control 17" Value: 80 count 1
+Debug [Main]: "Control 17" Value: 82 count 2
+Debug [Main]: "Control 17" Value: 85 count 2
+Debug [Main]: "Control 17" Value: 87 count 1
+Debug [Main]: "Control 17" Value: 89 count 1
+Debug [Main]: "Control 17" Value: 90 count 1
+Debug [Main]: "Control 17" Value: 93 count 2
+Debug [Main]: "Control 17" Value: 97 count 1
+Debug [Main]: "Control 17" Value: 98 count 1
+Debug [Main]: "Control 17" Value: 101 count 1
+Debug [Main]: "Control 17" Value: 104 count 1
+Debug [Main]: "Control 17" Value: 105 count 1
+Debug [Main]: "Control 17" Value: 109 count 2
+Debug [Main]: "Control 17" Value: 113 count 2
+Debug [Main]: "Control 17" Value: 116 count 1
+Debug [Main]: "Control 17" Value: 117 count 1
+Debug [Main]: "Control 17" Value: 119 count 1
+Debug [Main]: "Control 17" Value: 120 count 1
+Debug [Main]: "Control 17" Value: 121 count 1
+Debug [Main]: "Control 17" Value: 122 count 1
+Debug [Main]: "Control 17" Value: 123 count 2
+Debug [Main]: "Control 17" Value: 124 count 1
+Debug [Main]: "Control 17" Value: 125 count 1
+Debug [Main]: "Control 17" Value: 126 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x11 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x11" to "[Channel1]" "pregain"
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/Aru.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x556210b49070)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x556210c88400)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561ee8dd660)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x556210189890)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x55620ec7e240)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x556214215d50)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x556214215e80)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561e9ae1510)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561ec21fd50)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561b1e00b70)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x556213caa6c0)
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Saving preset "worlde_easycontrol_9" to "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: Mapping saved as "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x556213e7dd20)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x556213e787a0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x556213e75bd0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5561ee95dd10)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x556216924960)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x55621905b3c0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x55621905b5a0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x55621905b740)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561ec21a790)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x556204ef2590)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x556218aef980)
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x556204ef1a90)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5562197297a0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561ee9360b0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x556213e629e0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x55621b76e620)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x55621de74070)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x55621de74250)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x55621905b760)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561f106fde0)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x55621de74410)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x55621d907e10)
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/xtoch-new.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x5561f106d890)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5561ee95b540)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5561ee959f20)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x556209d10fa0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x55622059cef0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x556222c91610)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x556222c917f0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x5561f379a120)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5561f5eb3090)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x556209d278a0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x556209d24480)
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WEffectPushButton(0x5561db54b800, name="EQKillButton")
+Debug [Main]: MouseMoveEvent WEffectPushButton(0x5561db54b800, name="EQKillButton")
+Debug [Main]: MouseMoveEvent WEffectPushButton(0x5561db54b800, name="EQKillButton")
+Debug [Main]: MouseMoveEvent WEffectPushButton(0x5561db54b800, name="EQKillButton")
+Debug [Main]: MouseButtonPress WEffectParameterKnobComposed(0x5561db1b8570, name="EQKnob")
+Debug [Main]: Default-click maps MIDI to: "[EqualizerRack1_[Channel2]_Effect1]" "parameter3"
+Debug [Main]: MouseButtonRelease WEffectParameterKnobComposed(0x5561db1b8570, name="EQKnob")
+Debug [Main]: LearningUtils guessing MIDI mapping from 23 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 18
+Debug [Main]: Overall Value: 99 count 1
+Debug [Main]: Overall Value: 101 count 2
+Debug [Main]: Overall Value: 102 count 1
+Debug [Main]: Overall Value: 103 count 1
+Debug [Main]: Overall Value: 104 count 1
+Debug [Main]: Overall Value: 106 count 1
+Debug [Main]: Overall Value: 107 count 1
+Debug [Main]: Overall Value: 109 count 1
+Debug [Main]: Overall Value: 110 count 2
+Debug [Main]: Overall Value: 112 count 1
+Debug [Main]: Overall Value: 113 count 1
+Debug [Main]: Overall Value: 114 count 1
+Debug [Main]: Overall Value: 116 count 1
+Debug [Main]: Overall Value: 117 count 1
+Debug [Main]: Overall Value: 118 count 1
+Debug [Main]: Overall Value: 119 count 1
+Debug [Main]: Overall Value: 121 count 1
+Debug [Main]: Overall Value: 122 count 1
+Debug [Main]: Overall Value: 124 count 2
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 18" Value: 99 count 1
+Debug [Main]: "Control 18" Value: 101 count 2
+Debug [Main]: "Control 18" Value: 102 count 1
+Debug [Main]: "Control 18" Value: 103 count 1
+Debug [Main]: "Control 18" Value: 104 count 1
+Debug [Main]: "Control 18" Value: 106 count 1
+Debug [Main]: "Control 18" Value: 107 count 1
+Debug [Main]: "Control 18" Value: 109 count 1
+Debug [Main]: "Control 18" Value: 110 count 2
+Debug [Main]: "Control 18" Value: 112 count 1
+Debug [Main]: "Control 18" Value: 113 count 1
+Debug [Main]: "Control 18" Value: 114 count 1
+Debug [Main]: "Control 18" Value: 116 count 1
+Debug [Main]: "Control 18" Value: 117 count 1
+Debug [Main]: "Control 18" Value: 118 count 1
+Debug [Main]: "Control 18" Value: 119 count 1
+Debug [Main]: "Control 18" Value: 121 count 1
+Debug [Main]: "Control 18" Value: 122 count 1
+Debug [Main]: "Control 18" Value: 124 count 2
+Debug [Main]: "Control 18" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x12 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x12" to "[EqualizerRack1_[Channel2]_Effect1]" "parameter3"
+Debug [Main]: MouseButtonPress WEffectParameterKnobComposed(0x5561da324210, name="EQKnob")
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: Default-click maps MIDI to: "[EqualizerRack1_[Channel2]_Effect1]" "parameter2"
+Debug [Main]: MouseButtonRelease WEffectParameterKnobComposed(0x5561da324210, name="EQKnob")
+Debug [Main]: LearningUtils guessing MIDI mapping from 13 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 19
+Debug [Main]: Overall Value: 107 count 1
+Debug [Main]: Overall Value: 109 count 1
+Debug [Main]: Overall Value: 111 count 2
+Debug [Main]: Overall Value: 114 count 1
+Debug [Main]: Overall Value: 115 count 1
+Debug [Main]: Overall Value: 116 count 1
+Debug [Main]: Overall Value: 118 count 1
+Debug [Main]: Overall Value: 119 count 1
+Debug [Main]: Overall Value: 121 count 1
+Debug [Main]: Overall Value: 122 count 1
+Debug [Main]: Overall Value: 125 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 19" Value: 107 count 1
+Debug [Main]: "Control 19" Value: 109 count 1
+Debug [Main]: "Control 19" Value: 111 count 2
+Debug [Main]: "Control 19" Value: 114 count 1
+Debug [Main]: "Control 19" Value: 115 count 1
+Debug [Main]: "Control 19" Value: 116 count 1
+Debug [Main]: "Control 19" Value: 118 count 1
+Debug [Main]: "Control 19" Value: 119 count 1
+Debug [Main]: "Control 19" Value: 121 count 1
+Debug [Main]: "Control 19" Value: 122 count 1
+Debug [Main]: "Control 19" Value: 125 count 1
+Debug [Main]: "Control 19" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x13 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x13" to "[EqualizerRack1_[Channel2]_Effect1]" "parameter2"
+Debug [Main]: MouseButtonPress WEffectParameterKnobComposed(0x5561da314220, name="EQKnob")
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: Default-click maps MIDI to: "[EqualizerRack1_[Channel2]_Effect1]" "parameter1"
+Debug [Main]: MouseButtonRelease WEffectParameterKnobComposed(0x5561da314220, name="EQKnob")
+Debug [Main]: LearningUtils guessing MIDI mapping from 18 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 20
+Debug [Main]: Overall Value: 99 count 1
+Debug [Main]: Overall Value: 100 count 1
+Debug [Main]: Overall Value: 102 count 1
+Debug [Main]: Overall Value: 103 count 1
+Debug [Main]: Overall Value: 106 count 2
+Debug [Main]: Overall Value: 109 count 1
+Debug [Main]: Overall Value: 110 count 1
+Debug [Main]: Overall Value: 111 count 1
+Debug [Main]: Overall Value: 114 count 2
+Debug [Main]: Overall Value: 117 count 1
+Debug [Main]: Overall Value: 118 count 1
+Debug [Main]: Overall Value: 120 count 1
+Debug [Main]: Overall Value: 123 count 2
+Debug [Main]: Overall Value: 126 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 20" Value: 99 count 1
+Debug [Main]: "Control 20" Value: 100 count 1
+Debug [Main]: "Control 20" Value: 102 count 1
+Debug [Main]: "Control 20" Value: 103 count 1
+Debug [Main]: "Control 20" Value: 106 count 2
+Debug [Main]: "Control 20" Value: 109 count 1
+Debug [Main]: "Control 20" Value: 110 count 1
+Debug [Main]: "Control 20" Value: 111 count 1
+Debug [Main]: "Control 20" Value: 114 count 2
+Debug [Main]: "Control 20" Value: 117 count 1
+Debug [Main]: "Control 20" Value: 118 count 1
+Debug [Main]: "Control 20" Value: 120 count 1
+Debug [Main]: "Control 20" Value: 123 count 2
+Debug [Main]: "Control 20" Value: 126 count 1
+Debug [Main]: "Control 20" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x14 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x14" to "[EqualizerRack1_[Channel2]_Effect1]" "parameter1"
+Debug [Main]: MouseButtonPress WKnobComposed(0x5561dae37440)
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: Default-click maps MIDI to: "[Channel2]" "pregain"
+Debug [Main]: MouseButtonRelease WKnobComposed(0x5561dae37440)
+Debug [Main]: LearningUtils guessing MIDI mapping from 19 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 21
+Debug [Main]: Overall Value: 108 count 1
+Debug [Main]: Overall Value: 109 count 1
+Debug [Main]: Overall Value: 111 count 2
+Debug [Main]: Overall Value: 112 count 1
+Debug [Main]: Overall Value: 113 count 1
+Debug [Main]: Overall Value: 114 count 1
+Debug [Main]: Overall Value: 115 count 1
+Debug [Main]: Overall Value: 116 count 1
+Debug [Main]: Overall Value: 117 count 2
+Debug [Main]: Overall Value: 119 count 2
+Debug [Main]: Overall Value: 121 count 1
+Debug [Main]: Overall Value: 122 count 1
+Debug [Main]: Overall Value: 123 count 1
+Debug [Main]: Overall Value: 124 count 1
+Debug [Main]: Overall Value: 125 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 21" Value: 108 count 1
+Debug [Main]: "Control 21" Value: 109 count 1
+Debug [Main]: "Control 21" Value: 111 count 2
+Debug [Main]: "Control 21" Value: 112 count 1
+Debug [Main]: "Control 21" Value: 113 count 1
+Debug [Main]: "Control 21" Value: 114 count 1
+Debug [Main]: "Control 21" Value: 115 count 1
+Debug [Main]: "Control 21" Value: 116 count 1
+Debug [Main]: "Control 21" Value: 117 count 2
+Debug [Main]: "Control 21" Value: 119 count 2
+Debug [Main]: "Control 21" Value: 121 count 1
+Debug [Main]: "Control 21" Value: 122 count 1
+Debug [Main]: "Control 21" Value: 123 count 1
+Debug [Main]: "Control 21" Value: 124 count 1
+Debug [Main]: "Control 21" Value: 125 count 1
+Debug [Main]: "Control 21" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x15 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x15" to "[Channel2]" "pregain"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc2eb790, name="KeyMatch")
+Debug [Main]: MouseMoveEvent WEffectPushButton(0x5561dc0070a0, name="EQKillButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db942ed0, name="FxAssignButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8308a0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 19 ms 935
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9597470, name="LibMiniMaxiButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561e2eee670, name="PlayCue")
+Debug [Main]: BeatFactory::loadBeatsFromByteArray could not parse serialized beats.
+Info [Main]: MetadataSourceTagLib - No track metadata or cover art found in file "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Thomas Hessler - October Set 2012 [62947003].mp3" with type 3
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Auto DJ enabled
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]" Track(0x5561b1e01c40)
+Debug [CachingReaderWorker 1]: TrackMetadata - Modifying duration: 7735000000000 ns -> 7735614693877 ns
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: AnalyzerThread - Enqueueing next track 74780
+Debug [AnalyzerThread 4 #5]: AnalyzerThread - Dequeued next track 74780
+Debug [AnalyzerThread 4 #5]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Thomas Hessler - October Set 2012 [62947003].mp3)
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 5 ms 934
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 3 ms 935
+Debug [Main]: BeatFactory::loadBeatsFromByteArray could not parse serialized beats.
+Info [Main]: MetadataSourceTagLib - No track metadata or cover art found in file "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/PAN-POT @ FUSION 2013 ( Live Recording ) [99502803].mp3" with type 3
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]" Track(0x5561b1dfd390)
+Debug [AnalyzerThread 4 #5]: AnalysisDAO fetched 2 analyses, 56087772 bytes for track 74780 in 360 ms
+Debug [AnalyzerThread 4 #5]: Reading waveform from byte array: allSignalSize 6822814 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 4 #5]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 0.248203 audioVisualRatio 177677
+Debug [AnalyzerThread 4 #5]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 4 #5]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 4 #5]: Re-analyzing track with invalid BPM despite preference settings.
+Debug [AnalyzerThread 4 #5]: input sample rate is  44100 , step size is  512
+Debug [AnalyzerThread 4 #5]: Beat calculation started with plugin "qm-tempotracker:0"
+Debug [AnalyzerThread 4 #5]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 4 #5]: Key calculation started with plugin "qm-keydetector:2"
+Debug [CachingReaderWorker 2]: TrackMetadata - Modifying duration: 10932000000000 ns -> 10932950204081 ns
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: AnalyzerThread - Enqueueing next track 75022
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Dequeued next track 75022
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/PAN-POT @ FUSION 2013 ( Live Recording ) [99502803].mp3)
+Debug [AnalyzerThread 0 #1]: AnalysisDAO fetched 0 analyses, 0 bytes for track 75022 in 0 ms
+Debug [AnalyzerThread 0 #1]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: Re-analyzing track with invalid BPM despite preference settings.
+Debug [AnalyzerThread 0 #1]: input sample rate is  44100 , step size is  512
+Debug [AnalyzerThread 0 #1]: Beat calculation started with plugin "qm-tempotracker:0"
+Debug [AnalyzerThread 0 #1]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 0 #1]: Key calculation started with plugin "qm-keydetector:2"
+Debug [Main]: Auto DJ disabled
+Debug [Main]: MouseMoveEvent WPushButton(0x5561e2eee670, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561deb12430, name="SamplerButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d8534c10, name="DeckOverviewSingleton1")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da38cb90, name="VinylTogglerLeft")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da38cb90, name="VinylTogglerLeft")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da38cb90, name="VinylTogglerLeft")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da38cb90, name="VinylTogglerLeft")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da44c4c0, name="FxAssignButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da44c4c0, name="FxAssignButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da44c4c0, name="FxAssignButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da44c4c0, name="FxAssignButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da44c4c0, name="FxAssignButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseButtonPress WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: Left-click maps MIDI to: "[Channel1]" "play"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseButtonRelease WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da8548c0, name="QuickFXButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8a4e30, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db87fd30, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db87fd30, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db889a40, name="DeckButtonExpanded")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 45
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 45" Value: 0 count 1
+Debug [Main]: "Control 45" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x2D Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x2D" to "[AutoDJ]" "enabled"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [AnalyzerThread 4 #5]: ReplayGain 2.0 (libebur128) result is -2.94093 dB for QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Thomas Hessler - October Set 2012 [62947003].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 3 ms 934
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 3 ms 935
+Debug [Main]: Successfully deserialized BeatGrid
+Debug [Main]: Successfully deserialized KeyMap
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Auto DJ enabled
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]" Track(0x556225a97410)
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: AnalyzerThread - Enqueueing next track 75192
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Dequeued next track 75192
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/wav/Space [LMMS] [320041006].wav)
+Debug [AnalyzerThread 1 #3]: AnalysisDAO fetched 2 analyses, 1981557 bytes for track 75192 in 13 ms
+Debug [AnalyzerThread 1 #3]: Reading waveform from byte array: allSignalSize 241674 visualSampleRate 441 audioVisualRatio 108.844
+Debug [AnalyzerThread 1 #3]: Reading waveform from byte array: allSignalSize 3842 visualSampleRate 7.00716 audioVisualRatio 6850.13
+Debug [AnalyzerThread 1 #3]: AnalyzerWaveform - loadStored - Stored waveform loaded
+Debug [AnalyzerThread 1 #3]: Skipping AnalyzerEbur128
+Debug [AnalyzerThread 1 #3]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #3]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #3]: Keys version/sub-version unchanged since previous analysis. Not analyzing.
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Skipping track analysis because no analyzer initialized.
+Debug [AnalyzerThread 4 #5]: adjusting phase by -339.069
+Debug [AnalyzerThread 4 #5]: AnalyzerBeats plugin detected 16438 beats. Average BPM: 128
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 4 #5]: Key Histogram
+Debug [AnalyzerThread 4 #5]: 1 : "C" 929.541
+Debug [AnalyzerThread 4 #5]: 2 : "D♭" 829.231
+Debug [AnalyzerThread 4 #5]: 3 : "D" 177.586
+Debug [AnalyzerThread 4 #5]: 4 : "E♭" 26.7494
+Debug [AnalyzerThread 4 #5]: 5 : "E" 194.676
+Debug [AnalyzerThread 4 #5]: 6 : "F" 157.524
+Debug [AnalyzerThread 4 #5]: 7 : "F♯/G♭" 25.2633
+Debug [AnalyzerThread 4 #5]: 8 : "G" 94.3659
+Debug [AnalyzerThread 4 #5]: 9 : "A♭" 786.878
+Debug [AnalyzerThread 4 #5]: 10 : "A" 149.351
+Debug [AnalyzerThread 4 #5]: 11 : "B♭" 223.655
+Debug [AnalyzerThread 4 #5]: 12 : "B" 120.372
+Debug [AnalyzerThread 4 #5]: 13 : "Cm" 894.618
+Debug [AnalyzerThread 4 #5]: 14 : "C♯m" 540.932
+Debug [AnalyzerThread 4 #5]: 15 : "Dm" 352.943
+Debug [AnalyzerThread 4 #5]: 16 : "D♯m/E♭m" 243.929
+Debug [AnalyzerThread 4 #5]: 17 : "Em" 156.038
+Debug [AnalyzerThread 4 #5]: 18 : "Fm" 235.543
+Debug [AnalyzerThread 4 #5]: 19 : "F♯m" 184.274
+Debug [AnalyzerThread 4 #5]: 20 : "Gm" 334.367
+Debug [AnalyzerThread 4 #5]: 21 : "G♯m" 75.7899
+Debug [AnalyzerThread 4 #5]: 22 : "Am" 416.845
+Debug [AnalyzerThread 4 #5]: 23 : "B♭m" 534.245
+Debug [AnalyzerThread 4 #5]: 24 : "Bm" 50.5266
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Thomas Hessler - October Set 2012 [62947003].mp3" in internal collection
+Debug [Main]: TrackDAO: Saving track 74780 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Thomas Hessler - October Set 2012 [62947003].mp3)
+Debug [Main]: TrackDAO: Updating track in database 74780 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Thomas Hessler - October Set 2012 [62947003].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 45
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 45" Value: 0 count 1
+Debug [Main]: "Control 45" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x2D Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x2D" to "[AutoDJ]" "skip_next"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 48
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 48" Value: 0 count 1
+Debug [Main]: "Control 48" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x30 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x30" to "[AutoDJ]" "skip_next"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 47
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 47" Value: 0 count 1
+Debug [Main]: "Control 47" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x2F Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x2F" to "[AutoDJ]" "shuffle_playlist"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [AnalyzerThread 0 #1]: Writing waveform from byte array: dataSize 9642864 allSignalSize 9642864 visualSampleRate 441 audioVisualRatio 100
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d849bc50, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da32e400, name="GuiToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da32e400, name="GuiToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da32e400, name="GuiToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da32e400, name="GuiToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da32e400, name="GuiToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseButtonPress WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: Left-click maps MIDI to: "[Recording]" "toggle_recording"
+Debug [Main]: Split size is: 4280000000
+Debug [Main]: Recordings folder set to "/home/marc/Music/Mixxx/Recordings"
+Debug [EngineSideChain 1]:  CBR mode with bitrate:  128
+Debug [EngineSideChain 1]: Setting record flag to: ON
+Debug [EngineSideChain 1]: Opening Cue File: "/home/marc/Music/Mixxx/Recordings/2024-08-25_11h36m01s.cue"
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-08-20_02h12m10s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-08-20_02h12m10s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [Main]: Recordings folder set to "/home/marc/Music/Mixxx/Recordings"
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-08-25_11h36m01s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-08-25_11h36m01s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Append last  2
+Debug [Main]: MouseButtonRelease WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [AnalyzerThread 0 #1]: AnalysisDAO saved analysis 6833 "82573736 (38560615 compressed)" bytes for track 75022 in 5626 ms
+Debug [AnalyzerThread 0 #1]: Saved waveform analysis for trackId 75022 analysisId 6833
+Debug [AnalyzerThread 0 #1]: Writing waveform from byte array: dataSize 3842 allSignalSize 3842 visualSampleRate 0.175616 audioVisualRatio 251116
+Debug [AnalyzerThread 0 #1]: AnalysisDAO saved analysis 6834 "32817 (15021 compressed)" bytes for track 75022 in 3 ms
+Debug [AnalyzerThread 0 #1]: Saved waveform summary analysis for trackId 75022 analysisId 6834
+Debug [AnalyzerThread 0 #1]: AnalyzerWaveform - Waveform generation for track 75022 done 82 s
+Debug [AnalyzerThread 0 #1]: ReplayGain 2.0 (libebur128) result is -6.32326 dB for QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/PAN-POT @ FUSION 2013 ( Live Recording ) [99502803].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 0 #1]: adjusting phase by -34.8703
+Debug [AnalyzerThread 0 #1]: AnalyzerBeats plugin detected 23218 beats. Average BPM: 127.003
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 0 #1]: Key Histogram
+Debug [AnalyzerThread 0 #1]: 1 : "C" 451.024
+Debug [AnalyzerThread 0 #1]: 2 : "D♭" 965.95
+Debug [AnalyzerThread 0 #1]: 3 : "D" 313.562
+Debug [AnalyzerThread 0 #1]: 4 : "E♭" 98.0811
+Debug [AnalyzerThread 0 #1]: 5 : "E" 60.9292
+Debug [AnalyzerThread 0 #1]: 6 : "F" 990.47
+Debug [AnalyzerThread 0 #1]: 7 : "F♯/G♭" 190.218
+Debug [AnalyzerThread 0 #1]: 8 : "G" 141.92
+Debug [AnalyzerThread 0 #1]: 9 : "A♭" 904.278
+Debug [AnalyzerThread 0 #1]: 10 : "A" 101.796
+Debug [AnalyzerThread 0 #1]: 11 : "B♭" 821.058
+Debug [AnalyzerThread 0 #1]: 12 : "B" 44.5823
+Debug [AnalyzerThread 0 #1]: 13 : "Cm" 1248.3
+Debug [AnalyzerThread 0 #1]: 14 : "C♯m" 421.303
+Debug [AnalyzerThread 0 #1]: 15 : "Dm" 769.788
+Debug [AnalyzerThread 0 #1]: 16 : "D♯m/E♭m" 67.6165
+Debug [AnalyzerThread 0 #1]: 17 : "Em" 205.331
+Debug [AnalyzerThread 0 #1]: 18 : "Fm" 554.307
+Debug [AnalyzerThread 0 #1]: 19 : "F♯m" 110.713
+Debug [AnalyzerThread 0 #1]: 20 : "Gm" 235.543
+Debug [AnalyzerThread 0 #1]: 21 : "G♯m" 213.252
+Debug [AnalyzerThread 0 #1]: 22 : "Am" 367.061
+Debug [AnalyzerThread 0 #1]: 23 : "B♭m" 1524.72
+Debug [AnalyzerThread 0 #1]: 24 : "Bm" 130.775
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 44
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 44" Value: 0 count 1
+Debug [Main]: "Control 44" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x2C Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x2C" to "[Recording]" "toggle_recording"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da354dd0, name="BroadcastButton")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d8529f90, name="BeatgridButtonToggler")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d8529f90, name="BeatgridButtonToggler")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d8529f90, name="BeatgridButtonToggler")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: Recording stopped
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da3484f0, name="RecButton")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-08-20_02h12m10s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-08-20_02h12m10s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Info [BrowseThread]: MetadataSourceTagLib - No track metadata or cover art found in file "/home/marc/Music/Mixxx/Recordings/2024-08-25_11h36m01s.mp3" with type 3
+Info [BrowseThread]: SoundSourceProxy - Parsing missing artist/title from file name: QFileInfo(/home/marc/Music/Mixxx/Recordings/2024-08-25_11h36m01s.mp3)
+Info [BrowseThread]: SeratoMarkers2 - Reading bpmlock state from 'Serato Markers2' tag data...
+Debug [BrowseThread]: Reading cues from 'Serato Markers2' tag data...
+Info [BrowseThread]: SeratoMarkers2 - Reading track color from 'Serato Markers2' tag data...
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561b1eefb00, name="Waveform")
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8426d30, name="Waveform")
+Debug [BrowseThread]: Append last  2
+Debug [Main]: MouseMoveEvent WWaveformViewer(0x5561d8458bd0, name="Waveform")
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc92e1a0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseButtonPress WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: Left-click maps MIDI to: "[Channel2]" "repeat"
+Debug [Main]: MouseButtonRelease WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 49
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 49" Value: 0 count 1
+Debug [Main]: "Control 49" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x31 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x31" to "[Channel2]" "repeat"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8794f0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db86a150, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db867210, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da026340, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561db7ed860, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db662450, name="CueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da69b440, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6058a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6026a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6026a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6026a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da74a6f0, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da728e70, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da728e70, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da839b50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da833ad0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da836a10, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da806030, name="FixedLoopSizesMiniMaxi")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da6e6360, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da6e6360, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da6c4d60, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da6c4d60, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da6c4d60, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da6c4d60, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da69b440, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da69b440, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da69b440, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6058a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6058a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6058a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6058a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6026a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6026a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da6026a0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5dd390, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseButtonPress WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: Left-click maps MIDI to: "[Channel1]" "repeat"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseButtonRelease WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 49
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 49" Value: 0 count 1
+Debug [Main]: "Control 49" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x31 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x31" to "[Channel1]" "repeat"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da5d6520, name="DeckButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85aaad0, name="DeckOverviewSingleton3")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseButtonPress WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: Left-click maps MIDI to: "[Channel3]" "repeat"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseButtonRelease WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba79ce0, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dba7b930, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dbc5db50, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dbc69580, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9348a00, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9dd2930, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9dd2930, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9964420, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d999c8f0, name="MixModeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9999d40, name="FxMiniMaxi")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9e77f00, name="FxMiniMaxi")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561ddf46070, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561df814190, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561de2a7c50, name="SamplerButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561de4bb910, name="PlayCue")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 49
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 49" Value: 0 count 1
+Debug [Main]: "Control 49" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x31 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x31" to "[Channel3]" "repeat"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94cf80, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseButtonPress WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: Left-click maps MIDI to: "[Channel4]" "repeat"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseButtonRelease WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 49
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 49" Value: 0 count 1
+Debug [Main]: "Control 49" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x31 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x31" to "[Channel4]" "repeat"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc93b880, name="DeckButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561dc94aee0, name="DeckButtonExpanded")
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 6 ms 934
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 4 ms 935
+Debug [Main]: BeatFactory::loadBeatsFromByteArray could not parse serialized beats.
+Info [Main]: MetadataSourceTagLib - No track metadata or cover art found in file "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Reaktor mix by Somewhen [475972404].mp3" with type 3
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel2]" Track(0x5561b1e01c40)
+Debug [CachingReaderWorker 2]: TrackMetadata - Modifying duration: 3686000000000 ns -> 3686844081632 ns
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: AnalyzerThread - Enqueueing next track 74886
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Dequeued next track 74886
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Reaktor mix by Somewhen [475972404].mp3)
+Debug [AnalyzerThread 3 #2]: AnalysisDAO fetched 0 analyses, 0 bytes for track 74886 in 0 ms
+Debug [AnalyzerThread 3 #2]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #2]: Re-analyzing track with invalid BPM despite preference settings.
+Debug [AnalyzerThread 3 #2]: input sample rate is  44100 , step size is  512
+Debug [AnalyzerThread 3 #2]: Beat calculation started with plugin "qm-tempotracker:0"
+Debug [AnalyzerThread 3 #2]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 3 #2]: Key calculation started with plugin "qm-keydetector:2"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 3 ms 934
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: PlaylistTableModel(0x5561acc00170) select() took 3 ms 935
+Debug [Main]: BeatFactory::loadBeatsFromByteArray could not parse serialized beats.
+Info [Main]: MetadataSourceTagLib - No track metadata or cover art found in file "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Quazar (Axel Hedfors)  - Funky Stars (Hybrid Song)[Hex 2014 Remix] [168482140].mp3" with type 3
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackPlayerImpl::slotLoadTrack "[Channel1]" Track(0x556225a88a70)
+Debug [CachingReaderWorker 1]: TrackMetadata - Modifying duration: 217000000000 ns -> 217887346938 ns
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackAnalysisScheduler - Resuming
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/wav/Space [LMMS] [320041006].wav" in internal collection
+Debug [Main]: TrackDAO: Saving track 75192 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/wav/Space [LMMS] [320041006].wav)
+Debug [Main]: TrackDAO: Updating track in database 75192 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/wav/Space [LMMS] [320041006].wav)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: AnalyzerThread - Enqueueing next track 74426
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Dequeued next track 74426
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Analyzing QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Quazar (Axel Hedfors)  - Funky Stars (Hybrid Song)[Hex 2014 Remix] [168482140].mp3)
+Debug [AnalyzerThread 1 #3]: AnalysisDAO fetched 0 analyses, 0 bytes for track 74426 in 0 ms
+Debug [AnalyzerThread 1 #3]: AnalyzerBeats preference settings: 
+Plugin: "qm-tempotracker:0" 
+Fixed tempo assumption: true 
+Re-analyze when settings change: false 
+Re-analyze imported from other software: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #3]: Re-analyzing track with invalid BPM despite preference settings.
+Debug [AnalyzerThread 1 #3]: input sample rate is  44100 , step size is  512
+Debug [AnalyzerThread 1 #3]: Beat calculation started with plugin "qm-tempotracker:0"
+Debug [AnalyzerThread 1 #3]: AnalyzerKey preference settings: 
+Plugin: "qm-keydetector:2" 
+Re-analyze when settings change: false 
+Fast analysis: false
+Debug [AnalyzerThread 1 #3]: Key calculation started with plugin "qm-keydetector:2"
+Debug [AnalyzerThread 1 #3]: Writing waveform from byte array: dataSize 192178 allSignalSize 192178 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 1 #3]: AnalysisDAO saved analysis 6835 "1733600 (833199 compressed)" bytes for track 74426 in 130 ms
+Debug [AnalyzerThread 1 #3]: Saved waveform analysis for trackId 74426 analysisId 6835
+Debug [AnalyzerThread 1 #3]: Writing waveform from byte array: dataSize 3840 allSignalSize 3840 visualSampleRate 8.81189 audioVisualRatio 5004.6
+Debug [AnalyzerThread 1 #3]: AnalysisDAO saved analysis 6836 "34213 (17295 compressed)" bytes for track 74426 in 3 ms
+Debug [AnalyzerThread 1 #3]: Saved waveform summary analysis for trackId 74426 analysisId 6836
+Debug [AnalyzerThread 1 #3]: AnalyzerWaveform - Waveform generation for track 74426 done 1 s
+Debug [AnalyzerThread 1 #3]: ReplayGain 2.0 (libebur128) result is -9.37833 dB for QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Quazar (Axel Hedfors)  - Funky Stars (Hybrid Song)[Hex 2014 Remix] [168482140].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 1 #3]: adjusting phase by -199.379
+Debug [AnalyzerThread 1 #3]: AnalyzerBeats plugin detected 472 beats. Average BPM: 130
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 1 #3]: Key Histogram
+Debug [AnalyzerThread 1 #3]: 9 : "A♭" 2.22912
+Debug [AnalyzerThread 1 #3]: 21 : "G♯m" 188.537
+Debug [AnalyzerThread 1 #3]: 22 : "Am" 26.7494
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 10 messages.
+Debug [Main]: Opcode: 192
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 255
+Debug [Main]: Overall Value: 0 count 10
+Debug [Main]: "Control 255" Value: 0 count 10
+Debug [Main]: DlgControllerLearning learned input mapping: "0xC0 0x00"
+Debug [Controller]: Set mapping for "0xC0" to "[Master]" "gain"
+Debug [AnalyzerThread 3 #2]: Writing waveform from byte array: dataSize 3251798 allSignalSize 3251798 visualSampleRate 441 audioVisualRatio 100
+Debug [AnalyzerThread 3 #2]: AnalysisDAO saved analysis 6837 "27161624 (12386869 compressed)" bytes for track 74886 in 1956 ms
+Debug [AnalyzerThread 3 #2]: Saved waveform analysis for trackId 74886 analysisId 6837
+Debug [AnalyzerThread 3 #2]: Writing waveform from byte array: dataSize 3840 allSignalSize 3840 visualSampleRate 0.520771 audioVisualRatio 84682.2
+Debug [AnalyzerThread 3 #2]: AnalysisDAO saved analysis 6838 "31455 (12164 compressed)" bytes for track 74886 in 3 ms
+Debug [AnalyzerThread 3 #2]: Saved waveform summary analysis for trackId 74886 analysisId 6838
+Debug [AnalyzerThread 3 #2]: AnalyzerWaveform - Waveform generation for track 74886 done 27 s
+Debug [AnalyzerThread 3 #2]: ReplayGain 2.0 (libebur128) result is -4.29754 dB for QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Reaktor mix by Somewhen [475972404].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 3 #2]: adjusting phase by -677.41
+Debug [AnalyzerThread 3 #2]: AnalyzerBeats plugin detected 8222 beats. Average BPM: 133.167
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [AnalyzerThread 3 #2]: Key Histogram
+Debug [AnalyzerThread 3 #2]: 1 : "C" 344.027
+Debug [AnalyzerThread 3 #2]: 2 : "D♭" 277.153
+Debug [AnalyzerThread 3 #2]: 3 : "D" 43.0962
+Debug [AnalyzerThread 3 #2]: 4 : "E♭" 21.5481
+Debug [AnalyzerThread 3 #2]: 5 : "E" 20.062
+Debug [AnalyzerThread 3 #2]: 6 : "F" 118.886
+Debug [AnalyzerThread 3 #2]: 7 : "F♯/G♭" 45.3254
+Debug [AnalyzerThread 3 #2]: 8 : "G" 57.214
+Debug [AnalyzerThread 3 #2]: 9 : "A♭" 186.503
+Debug [AnalyzerThread 3 #2]: 10 : "A" 159.753
+Debug [AnalyzerThread 3 #2]: 11 : "B♭" 164.955
+Debug [AnalyzerThread 3 #2]: 12 : "B" 72.0747
+Debug [AnalyzerThread 3 #2]: 13 : "Cm" 380.436
+Debug [AnalyzerThread 3 #2]: 14 : "C♯m" 320.993
+Debug [AnalyzerThread 3 #2]: 15 : "Dm" 173.871
+Debug [AnalyzerThread 3 #2]: 16 : "D♯m/E♭m" 37.1519
+Debug [AnalyzerThread 3 #2]: 17 : "Em" 53.4988
+Debug [AnalyzerThread 3 #2]: 18 : "Fm" 348.485
+Debug [AnalyzerThread 3 #2]: 19 : "F♯m" 46.8114
+Debug [AnalyzerThread 3 #2]: 20 : "Gm" 265.265
+Debug [AnalyzerThread 3 #2]: 21 : "G♯m" 88.6799
+Debug [AnalyzerThread 3 #2]: 22 : "Am" 198.391
+Debug [AnalyzerThread 3 #2]: 23 : "B♭m" 242.231
+Debug [AnalyzerThread 3 #2]: 24 : "Bm" 20.062
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 23
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 23" Value: 0 count 1
+Debug [Main]: "Control 23" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x17 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x17" to "[Channel1]" "back"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 24
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 24" Value: 0 count 1
+Debug [Main]: "Control 24" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x18 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x18" to "[Channel1]" "fwd"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561de4bb910, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561d9eca840, name="FxToggleButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da74a6f0, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da78e790, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseButtonPress WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: Left-click maps MIDI to: "[Channel1]" "play"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseButtonRelease WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 25
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 25" Value: 0 count 1
+Debug [Main]: "Control 25" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x19 Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x19" to "[Channel1]" "play"
+Debug [Main]: MouseButtonPress WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: Left-click maps MIDI to: "[Channel1]" "play"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseButtonRelease WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da798d00, name="PlayCue")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7952b0, name="CueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da83cc50, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da851170, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseButtonPress WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: Left-click maps MIDI to: "[Channel1]" "reloop_toggle"
+Debug [Main]: MouseButtonRelease WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da802b50, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da7f8490, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da803450, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da806030, name="FixedLoopSizesMiniMaxi")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8aa730, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db89d100, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db89d100, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db881db0, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561db80ee80, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WHotcueButton(0x5561da01f640, name="HotcueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da026340, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561da026340, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db842b10, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8642b0, name="SpecialCueButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 26
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 26" Value: 0 count 1
+Debug [Main]: "Control 26" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x1A Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x1A" to "[Channel1]" "reloop_toggle"
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d857a190, name="DeckOverviewSingleton2")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db88ba50, name="DeckButtonExpanded")
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 27
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 27" Value: 0 count 1
+Debug [Main]: "Control 27" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x1B Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x1B" to "[Channel2]" "back"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 28
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 28" Value: 0 count 1
+Debug [Main]: "Control 28" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x1C Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x1C" to "[Channel2]" "fwd"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 29
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 29" Value: 0 count 1
+Debug [Main]: "Control 29" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x1D Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x1D" to "[Channel2]" "play"
+Debug [Controller]: "WORLDE MIDI 1" started learning
+Debug [Main]: MouseButtonPress WPushButton(0x5561db89d100, name="ReloopButton")
+Debug [Main]: Left-click maps MIDI to: "[Channel2]" "reloop_toggle"
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db89d100, name="ReloopButton")
+Debug [Main]: MouseButtonRelease WPushButton(0x5561db89d100, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db89d100, name="ReloopButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db881db0, name="LoopBeatJumpButton")
+Debug [Main]: MouseMoveEvent WPushButton(0x5561db8c4be0, name="LoopSizeButton")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: MouseMoveEvent WOverview(0x5561d85db4b0, name="DeckOverviewSingleton4")
+Debug [Main]: LearningUtils guessing MIDI mapping from 2 messages.
+Debug [Main]: Opcode: 176
+Debug [Main]: Channel: 0
+Debug [Main]: Control: 30
+Debug [Main]: Overall Value: 0 count 1
+Debug [Main]: Overall Value: 127 count 1
+Debug [Main]: "Control 30" Value: 0 count 1
+Debug [Main]: "Control 30" Value: 127 count 1
+Debug [Main]: DlgControllerLearning learned input mapping: "Status: 0xB0 Control: 0x1E Options: 0x00"
+Debug [Controller]: Set mapping for "0xB0 0x1E" to "[Channel2]" "reloop_toggle"
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/Aru.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x5561e1306ef0)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x5561acca1210)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x556210bf6150)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5561e6ca8d90)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x556216931850)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x556228c82f70)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x556228c830a0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x556228c83240)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x556228c83430)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x556228c835d0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x5561f106a2d0)
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Saving preset "worlde_easycontrol_9" to "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: Mapping saved as "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x55622aec6090)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x55622aee3550)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x55622af0b9d0)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x55621b7691b0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x55622b3a9980)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x55622da8c080)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x55622da8c260)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x55621d908100)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x55622d520750)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x5561f10701a0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x55621b76f3a0)
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/worlde_easycontrol_9.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x556225ad0470)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x556204ef0450)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x5562301a7a60)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x5562301aecf0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x5562301a99d0)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5562328a66e0)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5562328a68c0)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x55622d5209e0)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x55622b3ade00)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x55622d5206f0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x55622b3ae110)
+Debug [Main]: Extension .midi.xml total 5 presets
+Debug [Main]: Extension .hid.xml total 0 presets
+Debug [Main]: Extension .bulk.xml total 0 presets
+Debug [Main]: Loading controller preset from "/home/marc/.mixxx/controllers/xtoch-new.midi.xml"
+Debug [Main]: MidiControllerPresetFileHandler: Input mapping parsing complete.
+Debug [Main]: MidiPresetFileHandler: Output mapping parsing complete.
+Debug [Main]: Setting input delegate for column 0 QStyledItemDelegate(0x55621b768130)
+Debug [Main]: Setting input delegate for column 1 QStyledItemDelegate(0x556234fb66a0)
+Debug [Main]: Setting input delegate for column 2 QStyledItemDelegate(0x556209d05b20)
+Debug [Main]: Setting input delegate for column 3 MidiOptionsDelegate(0x556234fbecc0)
+Debug [Main]: Setting input delegate for column 4 ControlDelegate(0x556234fca830)
+Debug [Main]: Setting output delegate for column 0 QStyledItemDelegate(0x5562376c1a80)
+Debug [Main]: Setting output delegate for column 1 QStyledItemDelegate(0x5562376c1c60)
+Debug [Main]: Setting output delegate for column 2 QStyledItemDelegate(0x556222726210)
+Debug [Main]: Setting output delegate for column 3 QStyledItemDelegate(0x5562205a1c70)
+Debug [Main]: Setting output delegate for column 4 QStyledItemDelegate(0x55622059dba0)
+Debug [Main]: Setting output delegate for column 5 ControlDelegate(0x55622059f490)
+Debug [Main]: DlgPrefVinyl::Apply
+Debug [Main]: in VinylGainSlotApply() with gain: 0 dB
+Debug [Main]: Color Palette "Mixxx Hotcue Colors" is a built-in palette, not writing to config!
+Debug [Main]: Color Palette "Mixxx Track Colors" is a built-in palette, not writing to config!
+Debug [Main]: DlgPrefLV2::slotApply 0x0
+Debug [Main]: 0 ms stopping pending Library tasks
+Debug [Main]: Destroying MixxxMainWindow
+Debug [Main]: 0 ms saving configuration
+Debug [Main]: 0 ms deleting skin
+Debug [Main]: ~DlgAutoDJ()
+Debug [Main]: 393 ms deleting menubar
+Debug [Main]: 399 ms deleting SoundManager
+Debug [Main]: 461 ms deleting ControllerManager
+Debug [Controller]: Controller polling stopped.
+Debug [Controller]: Deleting PortMIDI devices...
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Invoking shutdown() hook in scripts
+Debug [Controller]: Clearing function wrapper cache
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Invoking shutdown() hook in scripts
+Debug [Controller]: Clearing function wrapper cache
+Debug [Controller]: ControllerEngine shutting down...
+Debug [Controller]: Invoking shutdown() hook in scripts
+Debug [Controller]: Clearing function wrapper cache
+Debug [Controller]: Deleting USB Bulk devices...
+Debug [Controller]: Deleting HID devices...
+Debug [Main]: 464 ms deleting VinylControlManager
+Debug [Main]: 465 ms deleting PlayerManager
+Debug [Main]: PlayerManager - Destroying
+Debug [Main]: TrackAnalysisScheduler - Stopping
+Debug [Main]: TrackAnalysisScheduler - Stopping
+Debug [AnalyzerThread 3 #2]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 1 #3]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 3 #2]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 0 #1]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 2 #6]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 1 #3]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 0 #1]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 2 #6]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 5 #4]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 5 #4]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 4 #5]: AnalyzerWaveform - ~AnalyzerWaveform():
+Debug [AnalyzerThread 4 #5]: AnalyzerThread - Exiting worker thread
+Debug [AnalyzerThread 5 #4]: AnalyzerThread 5 - Exiting
+Debug [AnalyzerThread 2 #6]: AnalyzerThread 2 - Exiting
+Debug [AnalyzerThread 3 #2]: AnalyzerThread 3 - Exiting
+Debug [AnalyzerThread 4 #5]: AnalyzerThread 4 - Exiting
+Debug [AnalyzerThread 0 #1]: AnalyzerThread 0 - Exiting
+Debug [AnalyzerThread 1 #3]: AnalyzerThread 1 - Exiting
+Debug [Main]: 471 ms deleting Library
+Debug [Main]: Wait to finish browser background thread
+Debug [Main]: Browser background thread terminated!
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlist_tracks"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_playlists"
+Debug [Main]: Dropping Rekordbox table:  "rekordbox_library"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: Dropping Serato table:  "serato_playlist_tracks"
+Debug [Main]: Dropping Serato table:  "serato_playlists"
+Debug [Main]: Dropping Serato table:  "serato_library"
+Debug [Main]: Committing transaction on "MIXXX-1" result: true
+Debug [Main]: 579 ms deleting RecordingManager
+Debug [Main]: Delete RecordingManager
+Debug [Main]: 579 ms deleting BroadcastManager
+Debug [Main]: DlgPrefBroadcast - broadcastEnabledChanged() 0
+Debug [Main]: 579 ms deleting EngineMaster
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/PAN-POT @ FUSION 2013 ( Live Recording ) [99502803].mp3" in internal collection
+Debug [Main]: TrackDAO: Saving track 75022 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/PAN-POT @ FUSION 2013 ( Live Recording ) [99502803].mp3)
+Debug [Main]: TrackDAO: Updating track in database 75022 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/PAN-POT @ FUSION 2013 ( Live Recording ) [99502803].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Quazar (Axel Hedfors)  - Funky Stars (Hybrid Song)[Hex 2014 Remix] [168482140].mp3" in internal collection
+Debug [Main]: TrackDAO: Saving track 74426 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Quazar (Axel Hedfors)  - Funky Stars (Hybrid Song)[Hex 2014 Remix] [168482140].mp3)
+Debug [Main]: TrackDAO: Updating track in database 74426 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Quazar (Axel Hedfors)  - Funky Stars (Hybrid Song)[Hex 2014 Remix] [168482140].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Reaktor mix by Somewhen [475972404].mp3" in internal collection
+Debug [Main]: TrackDAO: Saving track 74886 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Reaktor mix by Somewhen [475972404].mp3)
+Debug [Main]: TrackDAO: Updating track in database 74886 QFileInfo(/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Reaktor mix by Somewhen [475972404].mp3)
+Debug [Main]: BaseTrackCache(0x5561acc1fc30) updateIndexWithQuery took 0 ms
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Kinderparadies - live at ZeTeCo Lounge-couchsofa_couchsofa-kinderparadies-live-at-zeteco-lounge.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/demoscene/coucheSofa/Couchsofa - Aufbruch Live at GPN16 Lounge-couchsofa_couchsofa-aufbruch-live-at-gpn16-lounge.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/meeresrausch-at-korallenriff-2018-guter-Teil.mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/couchsofa/Couchsofa - Pushing Chrome - live at ChaosWildWest for 34C3 [couchsofa_couchsofa-pushing-chrome-live-at-chaoswildwest-for-34c3].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Makornik - Invasion! [WNVS002] [lKZ01UHRR0o].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/soundcloud/Hadone - Hope Reminds Me Of Her [MONNOM020] [pcvnOK4Ij5E].mp3" in internal collection
+Debug [Main]: TrackCollectionManager - Saving track "/media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/Erratic Podcast 110 ｜ Thomas Hessler and Vincent Neumann [238959956].mp3" in internal collection
+Debug [Main]: 890 ms deleting DlgPreferences
+Debug [Main]: 901 ms deleting EffectsManager
+Debug [Main]: 913 ms detaching all track collections
+Info [Main]: TrackCollectionManager - Stopping library scanner thread
+Debug [LibraryScanner 1]: LibraryScanner - Event loop stopped
+Warning [LibraryScanner 1]: QSqlDatabasePrivate::removeDatabase: connection 'MIXXX-2' is still in use, all queries will cease to work.
+Debug [LibraryScanner 1]: LibraryScanner - Exiting thread
+Info [Main]: TrackCollectionManager - Stopped library scanner thread
+Debug [Main]: ~TrackDAO()
+Info [Main]: TrackCollection - Disconnecting track source
+Info [Main]: TrackCollection - Disconnecting database
+Debug [Main]: TrackDAO::finish()
+Debug [Main]: Clearing played information for this session
+Debug [Main]: Cleaning LibraryHashes/track_locations tables.
+Info [Main]: GlobalTrackCache - Destroying instance
+Debug [Main]: ~TrackDAO()
+Debug [Main]: 945 ms closing database connection(s)
+Debug [Main]: 946 ms deleting SettingsManager
+Debug [Main]: Mixxx shutdown complete with code 0
