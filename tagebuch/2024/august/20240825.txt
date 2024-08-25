@@ -135,9 +135,15 @@ also wenn das nicht intel vorgelegt hat, dann hätte [OBJEKT udn Subjekt vertusc
 
 [3] exzessiv objekte mit subjekte vertauschen oder objekte mit objekten im kontext von aussagen würde vermutlich bedueten, dass der Herr dr. [Objekt,Subjekt tausch] Hansjürg Pfisterer grad wieder neue rechtsfall-verdrehungs-software an mir als unfreiuwillige laborratte testet.
 
-
-FEDPOL -> VERTRäGE ??? und das am besten auch an die Zivil-Bevölkerung verpetzen damit
-1. fälschlich beschuldigte sich besser verteidigen können
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+Also [FGA] FALLS es da VERTRäGE gibt welche die [INSERTED: Mutmasslichen] Hardware-Backdoors regeln das am besten auch an die Zivil-Bevölkerung verpetzen damit
+1. fälschlich Beschuldigte sich besser verteidigen können
 2. Polizisten nicht drein rennen udn dann für immer für die CH-Army Straftaten begehen müssen
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
