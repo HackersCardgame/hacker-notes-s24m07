@@ -8,7 +8,8 @@ parallel wird erstens ICD10 G40.2 und andere körperfunktionen aktiviert dass ic
 
 
 Sklave (Verdingkind) => Psychiatrie => Knast
-allenfalls im Kontext INTEL Hardware Backdoors und Brainjacking
+
+> > allenfalls im Kontext INTEL Hardware Backdoors und Brainjacking < <
 
 ~/hacker-notes-s24m07/psychological/Werdegang--Sklave-dann-Psychiatrie-dann-Knast.png
 
