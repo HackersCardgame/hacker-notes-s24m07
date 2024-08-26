@@ -98,9 +98,11 @@ DISASSEMLBY:
 
 3. dann werden da grad 3 Morddrohunge dran im Kontext gernedert gerendert
 
-fn Morddrohung(zeilperson, zuvor bei 1. ausgelesenses wort)
+function Morddrohung(zielPerson, zuvor bei 1. ausgelesenses Wort)
 {
-
+  * aus Wort mache ein anderes Wort was drohend tönt über medulla spinalis neuralink
+  * bedrohe dann im kontext des wortes die Zielpersn (also woher wüssten die dass ein mensch vom FEDPOL mitleisst?
+  * => dann loope das um so das mit Plazer, Hangartner udn Waffentracking zu spammen
 }
 
 also ich melde dem FEDPOL öfters mal dinge
