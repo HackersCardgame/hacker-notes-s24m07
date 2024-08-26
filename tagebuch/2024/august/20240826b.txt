@@ -77,4 +77,6 @@ ich wollte das druchen, da wird übermittelt
 Mon Aug 26 10:19:02 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-CTRL-P
+[CTRL-P]
+
+
