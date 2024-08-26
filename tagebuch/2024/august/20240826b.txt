@@ -9,7 +9,14 @@ vorher grad auf dem Audio-Kanal meines Neuralinks jemand der sagt: "Ich kaufe ei
 
 da diese Dinge über das militärsiche Neuralink- und WaffenTracking-GlasfaserNetzwerk gehen bedeutet das, dass wenn man den Militär Informatikern und den Hochrangingen offizieren nur genug Kohle schiebt, dass dann das Waffen-Tracking system so geändert werden kann, dass [2] diese waffen dann nicht im Waffentracking System bzw. im 3D Modell angezeigt werden.
 
-Das ist meines Erachtens weider System-Kritisch, gerne falls jemand vom FEDPOL Zeit und Energie hat sich mit den Deppen-Offizieren abzumühen da allenfalls mal ein paar Fragen dazu stellen
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+Das ist meines Erachtens auch weider System-Kritisch, gerne falls jemand vom FEDPOL Zeit und Energie hat sich mit den Deppen-Offizieren abzumühen da allenfalls mal ein paar Fragen dazu stellen
 
 
 
