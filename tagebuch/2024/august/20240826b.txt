@@ -177,3 +177,37 @@ mmmmmmmmh, jetzt ad-interim gormogon gorgonzola pizza Bausatz zusammen basteln
 Mon Aug 26 12:52:43 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Aug 26 12:55:53 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m07$ figlet KAPO
+ _  __    _    ____   ___  
+| |/ /   / \  |  _ \ / _ \ 
+| ' /   / _ \ | |_) | | | |
+| . \  / ___ \|  __/| |_| |
+|_|\_\/_/   \_\_|    \___/ 
+
+
+unaufgeforderte übermittlung:
+
+ich musste ja zur Kantonzspolizei vorbeigehen weil jemand über mein internet VERMUTLICH eine waffe bestellt hat. Der herr jürg stalder [1] hätte die waffe auf meine Adresse bestellt, auf dem Tracking-System gesehen wann die waffe kommt und die bevor ich etwas mitgekriegt habe mit der behauptung er sei marc jr landolt genommen
+
+=> das wird jetzt vermutliuch übermittelt um von dem generellen problem mit einem mutmasslichen einzelfall dem Herrn JKürg Staklder zu tarnten
+
+
+
+[1] induzierte epilepsie eingeschaltet worden 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Aug 26 12:57:28 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
