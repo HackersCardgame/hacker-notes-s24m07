@@ -94,8 +94,16 @@ DISASSEMLBY:
 
 1. EEG / Neuralink recognition [1] des satzes den ich formuleiren möchte
 
-2. zb. "tut" ==== [induzierter Medulla Spinalis Neuralin typo] ==> "tot
-und dann werden da grad 3 dinge dran gerendert
+2. zb. "tut" ==== [induzierter Medulla Spinalis Neuralin typo] ==> "tot"
+
+3. dann werden da grad 3 Morddrohunge dran im Kontext gernedert gerendert
+
+fn Morddrohung(zeilperson, zuvor bei 1. ausgelesenses wort)
+{
+
+}
+
+
 
 also ich melde dem FEDPOL öfters mal dinge
 die wissen dass ich den Chrsitian tanner ins CC nehmen
