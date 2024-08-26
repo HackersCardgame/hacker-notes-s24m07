@@ -220,8 +220,9 @@ dann so oder so müsste die Lieferdrohne auf 2 Beinen dann das paket ausscannen,
 
 A) er wird eine fehlermeldung bekommen
 B) das ist ge-cached
-C) der datensatz wird nach dem mordvresuch an marc jr landolt einfach wieder drein getan 
+C) der datensatz wird nach dem mordvresuch an marc jr landolt einfach wieder drein getan und so getan als ob nichts wäre
    -> in demfall ist Plazer KEP AG Vorsätzlicher Mittäter
-D) 
+D) es gibt etwas wie ein bereichtigungs-System wo grad eingetragen ist "den useraccount von marc jr landolt den unteren Support-Knlichen nicht anzuzeigen"
+
 
 
