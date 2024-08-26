@@ -79,7 +79,7 @@ Mon Aug 26 10:19:02 AM CEST 2024
 
 [CTRL-P]
 
-also wenn die armee aufgeflogen ist gibt sie sich als FEDPOL aus und [tot]
+also wenn die armee aufgeflogen ist gibt sie sich als FEDPOL aus und [tot] tut als ob das problem behoben wird
 
 [tot]
 [FORK] urs blum: ermordet christian tanner
