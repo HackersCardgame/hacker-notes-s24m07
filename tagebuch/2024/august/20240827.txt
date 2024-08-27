@@ -1,0 +1,14 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Tue Aug 27 03:43:35 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Reine Spekulation, aber wenn ich ...
+
+1. INTEL Developper wäre
+2a. ein riesen Militär-Arschkopf wäre
+ODER
+2b. von einem riesen Militär-Arschkopf des Global Assessionation Grid (siehe media.ccc.de) wäre
+
+... dann hätte ich INTEL SGX Enclaves dazu erfunden damit der Developper selber grad markiert was wichtige Crypto-Dinge sind, diese dann mit Hardware Backdoors grad abgreifen und über z.B. FrequenzHopping an Arschkopf-Militärs auf der ganzen Welt verteilen.
+
+REINE SPEKULATION aber wäre irgendwie naheliegend, selbst das disassemblieren / reverse-engineeren eines MOS6502 wäre sehr schwierig und aufwendig. Und da ich als INTEL nicht auffliegen wollen würde WENN das so wäre, würde ich über ein Seitenband das erst in der Lithography Maschine einspeisen
