@@ -84,7 +84,9 @@ marc@debian:~/hacker-notes-s24m07$ figlet 'Algorithmen' -w300
 /_/   \_\_|\__, |\___/|_|  |_|\__|_| |_|_| |_| |_|\___|_| |_|
            |___/                                             
 
-da wäre zu erwarten, dass wenn z.B. Astrid Blum sich an rethorischen Automatismen verrät, oder an immer den selbne Schachzügen [1] verrät. Wenn das passiert und ich basierend auf den Dingen die mir in meiner PRIVATEN WOHUNG an meinen Neuralink-Kopf geworfen werden [LOCK]
+da wäre zu erwarten, dass wenn z.B. Astrid Blum sich an rethorischen Automatismen verrät, oder an immer den selbne Schachzügen [1] verrät. Wenn das passiert und ich basierend auf den Dingen die mir in meiner PRIVATEN WOHUNG an meinen Neuralink-Kopf geworfen werden [LOCK] richtig rate dass das die Astrid Klimakterium-Bakterium Blum ist, dann würde die EEG-Hive-Security-Algorihtmen automatich astrids Endgerät disconnecten um die spuren zu vertuschen und dass astrid nicht noch mehr verrät
+
+im 2. durchgang würde astrdi vermutlcih schauen dass sie ein zweites Endgerät hat und einen zweiten benutzer, z.B. dne von Urs Blum
 
 
 
