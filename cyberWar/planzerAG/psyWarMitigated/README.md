@@ -13,6 +13,6 @@ SCADA Systeme sind im Normalfall diese Informatik-Netzwerke in Produktions-Stras
  
 {1} ich finde es auch daneben wenn man solchen Menschen dann zynisch "Verpackungs-Spezial-Experte" zu sagen [dy/dt]. Ich selber habe mich ja damit abgefunden eine UNFREIWILLIGE Labor-Ratte auf 2 Beinen zu sein. Das hat auch den Vorteil, sobald Menschen sich mal damit abgefunden haben nicht super-duper zu sein kann man viel effizienter sich mit Sinnvollem beschäftigen diskutieren. Oft kaufen Mamis ja ihren Söhnen irgend einen OffitiersTitel und/oder einen Doktor und fördern so Hochmut und Ignoranz bei ihren Grossen. 
 
-Dann zuvor wurde ich noch vorgekockt, weil die Liefer-Frima P(l)anzer auch noch mehrere Informatik-Probleme hatte.
+Dann zuvor wurde ich noch 2 Tage lang vorgekockt, weil die Liefer-Frima P(l)anzer auch noch mehrere Informatik-Probleme hatte.
 
 Dann sagen meine Stimmen in meinem schizophrenen köpfchen, dass ich auf die Fresse bekommen werde wenn ich diesen Artikel veröffentliche, zum GLÜCK hat mein diagnostizierender ... Psychiater mich schon vor 20 Jahre über diese Dinge in Kenntniss gesetzt, das bilde ich mir alles nur ein, also kann ich das ja problemlos auf meinen Blog tun
