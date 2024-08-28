@@ -68,7 +68,14 @@ das mit dem Roten Faden, FALLS das vorsätzlich jemand war wäre eine an einem u
 Wed Aug 28 03:28:52 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+möglicherweise könnte der Mitarbeiter auch nur teilweise etwas dafür, wenn z.B. die Scada Systeme gehackt sind in der Verpackungs- oder Produktions-Strasse würden die IKEA Systeme den Mitarbeiter selber dazu abrichten und dazu zwingen ... [DELETED] oder falls der mitarbeiter mit einem Implantat infiziert wurde welches z.B. ICD10 G40.2 auf verschiedenen stufen auslösen kann, allenfalls auch nciht über die IKEA Systeme sondern über zusätzliche sendeinfrastruktur die auf die Produktionsstrasse gerichdtet wird oder hardware backdoors wo selbst der beste netzwerk admin nichts dafür könnte
 
+abrichtung so etwas wie m70 Karte in hackerscardgame.org/1
 
+dennoch müsste man für so ein Vorhaben die echtzeitüberwachungsdaten haben, weil man muss ja wissen als triebtäter-offizier welches infiziert ist damit man nicht selber drein rennt
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Aug 28 03:34:26 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
