@@ -115,3 +115,11 @@ Thu Aug 29 08:52:50 AM CEST 2024
 also ian murdock hanben sie ermordet um danach alle autsiten die debian verwenden zu ermorden
 
 
+das ganze ist auch interaktiv in einem offline computer
+
+rkdeveloptool ppt hat vorher die partitionen angezeigt, jetzt geht das nicht mehr
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Thu Aug 29 08:55:21 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
