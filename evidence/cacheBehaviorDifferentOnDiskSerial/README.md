@@ -28,3 +28,20 @@ Was dann auch erklären würde, weshalb der Polizist Michael Ri der Kantonspoliz
 INTEL HARDWARE BUILT IN CENSORSHIP INFRASTRUCTURE based on Serial Number of Disk ???
 
 Und das Ding hat zugriff auf die RaumÜberachung in meiner Wohung, erkennt dass ich Forensische Massnahmen treffe und versucht dann diese Forensischen Massnahmen zu sabotieren, schaltet Chemitrden an mienem Körper ein, Prosotata implantat (Mitigation: Erwachsenen Windeln)
+
+
+und als nerd-pinguin linux wurde man sich allenfalls selbstvorwürfe machen, den fehler in der software suchen und suchen, und im betriebssystem suchen und suchen, aber den fehler ncith finden, also ein nicht lösbares problem
+
+bzw. nicht lösbar ist allenfalls auch falsch, allenfalls gibt es schon eine mitigation, man müsste nur ...
+
+MUTMASSLICHE HARDWARE BACKDOORS mit einem Funkkanal nicht auf Wifi oder Bluetooth mit wirst case Fast Frequence Hopping [1]
+
+... in die Gleichung nehmen.
+
+
+[1] da müsste man einen Breitband jamming device haben und irgend so 1 - 10kW Sendeleistung, also das ist genau dazu ausgelegt, dass man das nciht mit einem jamming device reparieren kann
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Fri Aug 30 06:16:39 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
