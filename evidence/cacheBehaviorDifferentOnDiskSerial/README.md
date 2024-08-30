@@ -26,3 +26,5 @@ Gebootet:
 Was dann auch erklären würde, weshalb der Polizist Michael Ri der Kantonspolizei Aargau die Serien-Nummern meiner Festplatten abfotographiert hat nach dem man behauptet hat ich sei ein Alkaida Terrorist und man "müsse kontrollieren ob ich Schusswaffen im Bankschilessfach der UBS Aarau hätte" -- also dieser Polizist bekommt Schimergelder von den Blackhats der Zürich Versicherung um Beweismittel welche deren Reichen Oberschicht-Schösel-Kunden mit Sklaverei, Vergewaltigungen, Mord und Genozid in Verbindung bringen können.
 
 INTEL HARDWARE BUILT IN CENSORSHIP INFRASTRUCTURE based on Serial Number of Disk ???
+
+Und das Ding hat zugriff auf die RaumÜberachung in meiner Wohung, erkennt dass ich Forensische Massnahmen treffe und versucht dann diese Forensischen Massnahmen zu sabotieren, schaltet Chemitrden an mienem Körper ein, Prosotata implantat (Mitigation: Erwachsenen Windeln)
