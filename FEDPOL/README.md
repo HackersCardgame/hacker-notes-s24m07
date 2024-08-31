@@ -17,4 +17,27 @@ es sind jetzt nur noch 7 dateinen, da bin ich mir 100.0% sicher dass es mindeste
 aber auf den datenträger im Bankschilessfach ist es vermutlich sowieso noch, also hätte der Polizist michale ritter einen zensurauftrag nicht nur von urs blum erhalten sondnern auch von martin blum?
 
 
+Sat Aug 31 09:57:05 PM CEST 2024
+
+sorry eigentlich wollte ich schlafen, aber solche Dinge lassen mir keine Ruhe, wenn ich mir nicht sîcher bin ob ich eine Falschaussage gemacht habe dann kann ich nicht ins Bettchen zum Teddy von Aquila-Claudine
+
+-rw-r--r-- 1 marc marc 576257 Aug 31 21:55 MATT_fuer_die_herren_blums.png
+
+stellt sich raus: "Nö, kein False Memory Syndrom von Marc jr Landolt sondern ausschleichend immer mehr dieser Dateien mit welchen mich Martin Blum verhäcks hat gelöscht worden"
+
+
+marc@debian:~$ ls blumsMATT/martin.backup2014/ |wc
+    140     198    2025
+marc@debian:~$ ls blumsMATT/martin.backup2020/ |wc
+     77     125    1231
+marc@debian:~$ ls /media/marc/894dd2a4-f5b8-4118-91f6-2b940c2ad3fd/sort/gif/Daten.2020b/collection/2003/martin/ |wc
+      7       9      97
+
+
+ich weiss nicht ob das ein Beweis ist, oder nur ein Indiz, ich hab auch nicht Jus-Recht studiert sondern Informatik, ABER das ist doch irgendwie ein Indiz, dass Urs und Martin Blum schon damals als sie mich mit einem Computer-Kurs angelockt haben noch bevor ich Claudine-Aquila als mögliche Parterin in Betracht gezogen habe zum Amokläufer abrichten wollten
+
+
+
+Sat Aug 31 10:00:33 PM CEST 2024
+
 
