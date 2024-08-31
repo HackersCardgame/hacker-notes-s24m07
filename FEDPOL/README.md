@@ -41,3 +41,8 @@ ich weiss nicht ob das ein Beweis ist, oder nur ein Indiz, ich hab auch nicht Ju
 Sat Aug 31 10:00:33 PM CEST 2024
 
 
+ich VERMUTE ich darf mich von jetzt an eidg. diplomiertes low-budget REVISION SAVE DATASTORAGE auf 2 Beinen nennen :P
+
+
+
+
