@@ -14,3 +14,7 @@ da bin ich mir fast 100% sicher, dass die "Iraqi missile launcher" Meme auch dab
 
 es sind jetzt nur noch 7 dateinen, da bin ich mir 100.0% sicher dass es mindestens 20 eher 100 dateien waren
 
+aber auf den datenträger im Bankschilessfach ist es vermutlich sowieso noch, also hätte der Polizist michale ritter einen zensurauftrag nicht nur von urs blum erhalten sondnern auch von martin blum?
+
+
+
