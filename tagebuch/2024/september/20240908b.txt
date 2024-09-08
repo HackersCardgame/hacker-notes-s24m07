@@ -103,3 +103,8 @@ da gehts nicht drum mir gelder zu rauben (gibt ja bei mir nicht viel zu holen) s
 Sun Sep 8 07:10:08 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 dann zeitgleich mein endpoint gesprengt worden, das wäre vermutlich genau das auf zeile 82 von mir notiert
+
+dann bei diesem ding geht es darum dass ich den LOGOUT knopf nicht bewusst gedrückt hätte, und dann jemand das gehackt haben könnte. 
+
+Das MUSS fast Zwingend die ubs informatik sein, weil so würden sie sagen können "blaming the user karte"
+
