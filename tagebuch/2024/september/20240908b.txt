@@ -112,5 +112,24 @@ dann zweite stufe, ich habe ausgeloggt, bewusst ausgelogt, oder doch nciht, nö 
 
 so definitiv bewusst ausgeloggt
 
+ok, jetzt alles erledigt
+
+also da wäre vermutlich wichtiges 
+
+marc@debian:~/hacker-notes-s24m07$ figlet KONZEPTWISSEN
+ _  _____  _   _ __________ ____ _______        _____ ____ ____  _____ _   _ 
+| |/ / _ \| \ | |__  / ____|  _ \_   _\ \      / /_ _/ ___/ ___|| ____| \ | |
+| ' / | | |  \| | / /|  _| | |_) || |  \ \ /\ / / | |\___ \___ \|  _| |  \| |
+| . \ |_| | |\  |/ /_| |___|  __/ | |   \ V  V /  | | ___) |__) | |___| |\  |
+|_|\_\___/|_| \_/____|_____|_|    |_|    \_/\_/  |___|____/____/|_____|_| \_|
+                                                                             
+marc@debian:~/hacker-notes-s24m07$ 
+
+Da gibt es VERMUTLICH irgend eine Agenda oder einen Cyber-Terror-Terminplan an dem Zeugen abgeschlachtet werden, oft ist das UBS ebanking beteiligt, meist nach der Rentenzahlung bei den Invaliden Rentnern
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Sep 8 07:29:15 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 
