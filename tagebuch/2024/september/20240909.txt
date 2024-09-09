@@ -50,3 +50,11 @@ dann CI/CD vom fiedeka ist scheinbar installiert, KÖNNTE man ihn supporten und 
 Mon Sep 9 05:08:32 PM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+./compile.sh build BOARD=lubancat2 BRANCH=edge BUILD_DESKTOP=yes BUILD_MINIMAL=no DESKTOP_APPGROUPS_SELECTED='browsers chat desktop_tools editors email internet multimedia office programming remote_desktop' DESKTOP_ENVIRONMENT=i3-wm KERNEL_CONFIGURE=no PREFER_DOCKER=no RELEASE=noble VENDOR=Armbian
+
+
+
+./compile.sh build BOARD=lubancat2 BRANCH=edge BUILD_DESKTOP=no BUILD_MINIMAL=yes DESKTOP_APPGROUPS_SELECTED='editors' DESKTOP_ENVIRONMENT=i3-wm KERNEL_CONFIGURE=no PREFER_DOCKER=no RELEASE=noble VENDOR=Armbian
+
+
+
