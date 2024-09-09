@@ -56,5 +56,12 @@ Mon Sep 9 05:08:32 PM CEST 2024
 
 ./compile.sh build BOARD=lubancat2 BRANCH=edge BUILD_DESKTOP=no BUILD_MINIMAL=yes DESKTOP_APPGROUPS_SELECTED='editors' DESKTOP_ENVIRONMENT=i3-wm KERNEL_CONFIGURE=no PREFER_DOCKER=no RELEASE=noble VENDOR=Armbian
 
+dann wurde jetzt ein Overlay und zuspruch für die Täter-Truppen-moral als overlay über meine bildschirm gelegt. z.b auf das "be patient" [1] wird jetzt "hahaha sabotage forever ..." und solche dinge eingeblendet
 
+[1] bugs/Screenshot from 2024-09-09 18-17-29.png
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:19:09 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
