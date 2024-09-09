@@ -37,5 +37,16 @@ rkdeveloptool rfi
 
 
 dann der cyrevolt mit seinem Telegram Profil "free F***s"
+         ========                             ==========
 Egal ob es anprangernder Zynismus oder echt gemeint ist, das kann weg
----> traumabased mindcontrol was einen agressvi machen würde wenn bei einer fehlfunktion von fiedeka gleichzeitig die cyberwürgekette eingeschaltet wird und man keine Ahnung von manipulation und psychologie hat
+                                                         ============
+---> traumabased mindcontrol was einen agressiv machen würde wenn bei einer Fehlfunktion von fiedeka [1] Gleichzeitig die cyberwürgekette eingeschaltet wird und man keine Ahnung von manipulation und psychologie hat
+
+[1]  UND man kennt sein Telegramprofil 
+
+dann CI/CD vom fiedeka ist scheinbar installiert, KÖNNTE man ihn supporten und noch für redhat rpm ... auch noch eins machen, ausserdem mal wieder ein neues tag machen im Github repo dass das CI/CD wieder mal eine neuere version releasen würde, ABER allenfalls ist grad nohc nicth ein stable melenstein, code noch nicht so weit gesichtet...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 05:08:32 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
