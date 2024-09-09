@@ -2,3 +2,40 @@
 Mon Sep 9 03:03:03 AM CEST 2024
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 05:05:56 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+assange part 1: jeremy: 1:12:11
+
+assange part 2: jeremy: 0:04:25
+                        0:11:11 3 basic freedoms
+                          13:55
+                          16:30 jake
+
+sharing of wissenschaftlichem knowledge macht das Weltbild der Esoterischen drogen oder medikamenten süchtigen kaputt
+
+also die sind alle story telling psychiatern wie pfisterer auf den leim gegangen und wenn die jetzt anfange mathe, logik ... zu lernen geht deren weltbild kaputt, triggern, hedonismus drogen und medis nehmen führt zu homöostase wissenschaft zu lerenen
+
+
+3568kr
+
+ddr4 1560
+
+clear eMMC
+rkdevelptool ef
+
+reset device
+rkdeveloptool rd 3
+
+then only minmal command works
+rkdeveloptool db rk3568_loader.bin
+
+info
+rkdeveloptool rfi
+
+
+
+dann der cyrevolt mit seinem Telegram Profil "free F***s"
+Egal ob es anprangernder Zynismus oder echt gemeint ist, das kann weg
+---> traumabased mindcontrol was einen agressvi machen würde wenn bei einer fehlfunktion von fiedeka gleichzeitig die cyberwürgekette eingeschaltet wird und man keine Ahnung von manipulation und psychologie hat
